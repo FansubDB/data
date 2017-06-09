@@ -4,7 +4,7 @@ Json data of the website https://fansubdb.github.io
 
 ## Issued
 
-I case of problem, you can add or watch issues [here](https://github.com/FansubDB/fansubdb.github.io/issues)
+I case of problem, you can add or watch issues [here](https://github.com/FansubDB/fansubdb.github.io/issues).
 
 ## License
 
