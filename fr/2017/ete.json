@@ -45,7 +45,12 @@
 		{
 			"name": "Centaur no Nayami",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/85367.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Clione no Akari",
@@ -121,7 +126,12 @@
 		{
 			"name": "Isekai Shokudou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/86165.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Isekai wa Smartphone to Tomo ni.",
@@ -183,7 +193,12 @@
 		{
 			"name": "Knight's & Magic",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/85914.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Koi to Uso",
@@ -273,7 +288,12 @@
 		{
 			"name": "Saiyuki Reload Blast",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83994.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Senki Zesshou Symphogear AXZ",
@@ -333,7 +353,12 @@
 		{
 			"name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/85585.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		}
 	],
 	"ova": [],
