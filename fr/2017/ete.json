@@ -40,7 +40,12 @@
 		{
 			"name": "Battle Girl High School",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/85927.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Centaur no Nayami",
@@ -203,7 +208,12 @@
 		{
 			"name": "Koi to Uso",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86101.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Konbini Kareshi",
@@ -268,7 +278,12 @@
 		{
 			"name": "Owarimonogatari (2017)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/84913.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Pikotarou no Lullaby Lu-llaby",
@@ -303,7 +318,12 @@
 		{
 			"name": "Shoukoku no Altair",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/86077.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Skirt no Naka wa Kedamono Deshita.",
@@ -343,7 +363,12 @@
 		{
 			"name": "Yami Shibai 5th Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/86158.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Youkai Apartment no Yuuga na Nichijou",
