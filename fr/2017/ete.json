@@ -13,7 +13,12 @@
 		{
 			"name": "Action Heroine Cheer Fruits",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85478.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Aho Girl",
@@ -75,7 +80,12 @@
 		{
 			"name": "Enmusubi no Youko-chan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/76470.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Fate/Apocrypha",
@@ -193,7 +203,12 @@
 		{
 			"name": "Keppeki Danshi! Aoyama-kun",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/84101.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Knight's & Magic",
@@ -218,7 +233,12 @@
 		{
 			"name": "Konbini Kareshi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86243.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Made in Abyss",
@@ -258,12 +278,22 @@
 		{
 			"name": "Nanamaru Sanbatsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/84487.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Netsuzou TRap",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/86038.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "New Game!!",
@@ -293,7 +323,12 @@
 		{
 			"name": "Princess Principal",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/84891.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "RoboMasters the Animated Series",
@@ -319,7 +354,7 @@
 			"name": "Shoukoku no Altair",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/86077.jpg",
 			"group": [{
-				"status": "simulcast uncertain",
+				"status": "simulcast",
 				"detail": [{
 					"name": "Amazon Prime"
 				}]
@@ -353,7 +388,12 @@
 		{
 			"name": "Tsuredure Children",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86142.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Vatican Kiseki Chousakan",
@@ -373,7 +413,12 @@
 		{
 			"name": "Youkai Apartment no Yuuga na Nichijou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85885.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
