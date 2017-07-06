@@ -91,7 +91,7 @@
 			"name": "Fate/Apocrypha",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/86164.jpg",
 			"group": [{
-					"status": "planned",
+					"status": "release",
 					"detail": [{
 							"name": "Houkago Fansub"
 						},
@@ -363,7 +363,12 @@
 		{
 			"name": "Skirt no Naka wa Kedamono Deshita.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/86024.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Circus Fansub\""
+				}]
+			}]
 		},
 		{
 			"name": "Teekyuu 9",
