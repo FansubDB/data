@@ -116,7 +116,12 @@
 		{
 			"name": "Hajimete no Gal",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/84417.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hina Logi: From Luck & Logic",
@@ -136,7 +141,12 @@
 		{
 			"name": "Ikemen Sengoku: Toki wo Kakeru ga Koi wa Hajimaranai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86054.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Isekai Shokudou",
@@ -151,7 +161,12 @@
 		{
 			"name": "Isekai wa Smartphone to Tomo ni.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/84825.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Jigoku Shoujo: Yoi no Togi",
@@ -166,7 +181,12 @@
 		{
 			"name": "Jikan no Shihaisha",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/84944.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kaito × Ansa",
@@ -298,7 +318,12 @@
 		{
 			"name": "New Game!!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/85103.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Nora to Oujo to Noraneko Heart",
@@ -366,7 +391,7 @@
 			"group": [{
 				"status": "release",
 				"detail": [{
-					"name": "Circus Fansub\""
+					"name": "Circus Fansub"
 				}]
 			}]
 		},
@@ -378,7 +403,12 @@
 		{
 			"name": "Tenshi no 3P!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/86087.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "The Reflection",
@@ -403,7 +433,12 @@
 		{
 			"name": "Vatican Kiseki Chousakan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/85824.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Yami Shibai 5th Season",
