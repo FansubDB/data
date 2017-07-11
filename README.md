@@ -1,6 +1,6 @@
 # FansubDB's data
 
-Json data of the website https://fansubdb.github.io
+Json data of the website [https://fansubdb.github.io](https://fansubdb.github.io).
 
 ## Issues
 
