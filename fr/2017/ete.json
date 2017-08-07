@@ -29,7 +29,7 @@
 			"name": "Ballroom e Youkoso",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/86016.jpg",
 			"group": [{
-					"status": "planned",
+					"status": "release",
 					"detail": [{
 						"name": "Houkago Fansub"
 					}]
@@ -71,11 +71,18 @@
 			"name": "Dive!!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/85900.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Mangakas Fansub"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Enmusubi no Youko-chan",
@@ -111,7 +118,12 @@
 		{
 			"name": "Gamers!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/85822.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hajimete no Gal",
@@ -273,7 +285,12 @@
 		{
 			"name": "Mahoujin Guru Guru (2017)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/86245.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Marvel Future Avengers",
@@ -293,7 +310,12 @@
 		{
 			"name": "Musekinin Galaxy☆Tylor",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86254.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Nanamaru Sanbatsu",
@@ -319,11 +341,18 @@
 			"name": "New Game!!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/85103.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Crunchyroll"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Nora to Oujo to Noraneko Heart",
@@ -379,11 +408,18 @@
 			"name": "Shoukoku no Altair",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/86077.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Natsumi no Sekai"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Skirt no Naka wa Kedamono Deshita.",
