@@ -7,7 +7,7 @@
 	"lbl_movie": "Films",
 	"tv": [{
 			"name": "100% Pascal-sensei",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/2/83964.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/86858.jpg",
 			"group": []
 		},
 		{
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Ani ni Tsukeru Kusuri wa Nai!",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/2/84548.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/85295.jpg",
 			"group": []
 		},
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "Boku no Hero Academia 2nd Season",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83359.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/85221.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -111,7 +111,7 @@
 		},
 		{
 			"name": "Clockwork Planet",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/3/83460.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/85227.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -121,7 +121,7 @@
 		},
 		{
 			"name": "Duel Masters (2017)",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/9/84220.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/86604.jpg",
 			"group": []
 		},
 		{
@@ -136,7 +136,7 @@
 		},
 		{
 			"name": "Eromanga-sensei",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/7/83541.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/86468.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -146,12 +146,12 @@
 		},
 		{
 			"name": "Frame Arms Girl",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83987.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/86625.jpg",
 			"group": []
 		},
 		{
 			"name": "Fukumenkei Noise",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/9/83425.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85350.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -166,7 +166,7 @@
 		},
 		{
 			"name": "Gin no Guardian",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/5/84412.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/86525.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -196,7 +196,7 @@
 		},
 		{
 			"name": "ID-0",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/11/84349.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/84421.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -206,7 +206,7 @@
 		},
 		{
 			"name": "Idol Time PriPara",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/6/83920.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86056.jpg",
 			"group": []
 		},
 		{
@@ -221,12 +221,12 @@
 		},
 		{
 			"name": "Kenka Banchou Otome: Girl Beats Boys",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/12/83203.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/85022.jpg",
 			"group": []
 		},
 		{
 			"name": "Kyoukai no Rinne 3rd Season",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/8/84287.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/85289.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -256,7 +256,7 @@
 		},
 		{
 			"name": "Natsume Yuujinchou Roku",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/2/83430.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/84416.jpg",
 			"group": []
 		},
 		{
@@ -270,8 +270,8 @@
 			}]
 		},
 		{
-			"name": "Oushitsu Kyoushi Haine",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/5/84103.jpg",
+			"name": "Oushitsu Kyoushi Heine",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85517.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -286,7 +286,7 @@
 		},
 		{
 			"name": "Re:Creators",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/4/83599.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85469.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -329,7 +329,7 @@
 		},
 		{
 			"name": "Room Mate",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/5/84361.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/85196.jpg",
 			"group": []
 		},
 		{
@@ -365,7 +365,7 @@
 		},
 		{
 			"name": "Sakura Quest",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/3/84219.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/85222.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -382,7 +382,7 @@
 		},
 		{
 			"name": "Seikaisuru Kado",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/13/84013.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/85255.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -434,7 +434,7 @@
 		},
 		{
 			"name": "Sin: Nanatsu no Taizai",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/8/81464.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86621.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -444,7 +444,7 @@
 		},
 		{
 			"name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/6/84040.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/86606.jpg",
 			"group": []
 		},
 		{
@@ -506,7 +506,7 @@
 		},
 		{
 			"name": "Uchouten Kazoku 2",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/5/83779.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/85354.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -536,7 +536,7 @@
 		},
 		{
 			"name": "Zero kara Hajimeru Mahou no Sho",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/8/84033.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/85224.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
