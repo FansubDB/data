@@ -1,0 +1,311 @@
+{
+	"name": "nom",
+	"group": "groupe",
+	"message": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OAV/ONA/Spéciaux",
+	"lbl_movie": "Films",
+	"tv": [{
+			"name": "3-gatsu no Lion 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87384.jpg",
+			"group": []
+		},
+		{
+			"name": "Aiseki Mogol Girl",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/87194.jpg",
+			"group": []
+		},
+		{
+			"name": "Ame-iro Cocoa Series: Ame-con!!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/87690.jpg",
+			"group": []
+		},
+		{
+			"name": "Anime-Gataris",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/86851.jpg",
+			"group": []
+		},
+		{
+			"name": "Black Clover",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86072.jpg",
+			"group": []
+		},
+		{
+			"name": "Blend S",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85940.jpg",
+			"group": []
+		},
+		{
+			"name": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87623.jpg",
+			"group": []
+		},
+		{
+			"name": "Cardfight!! Vanguard G Z",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/87071.jpg",
+			"group": []
+		},
+		{
+			"name": "Cinderella Girls Gekijou 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87315.jpg",
+			"group": []
+		},
+		{
+			"name": "ClassicaLoid 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/87621.jpg",
+			"group": []
+		},
+		{
+			"name": "Code:Realize: Sousei no Himegimi",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87587.jpg",
+			"group": []
+		},
+		{
+			"name": "Dia Horizon",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86992.jpg",
+			"group": []
+		},
+		{
+			"name": "Dies Irae",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/86523.jpg",
+			"group": []
+		},
+		{
+			"name": "Dynamic Chord",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/87302.jpg",
+			"group": []
+		},
+		{
+			"name": "Evil or Live",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Fireball Humorous",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/87385.jpg",
+			"group": []
+		},
+		{
+			"name": "Garo: Vanishing Line",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87620.jpg",
+			"group": []
+		},
+		{
+			"name": "Gintama: Porori-hen",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/87666.jpg",
+			"group": []
+		},
+		{
+			"name": "Glamorous Heroes",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Himouto! Umaru-chan R",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/87290.jpg",
+			"group": []
+		},
+		{
+			"name": "Hoozuki no Reitetsu 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/87176.jpg",
+			"group": []
+		},
+		{
+			"name": "Houseki no Kuni",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/87413.jpg",
+			"group": []
+		},
+		{
+			"name": "Imouto sae Ireba Ii.",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/87603.jpg",
+			"group": []
+		},
+		{
+			"name": "Infini-T Force",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/87034.jpg",
+			"group": []
+		},
+		{
+			"name": "Inuyashiki",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87467.jpg",
+			"group": []
+		},
+		{
+			"name": "Itsu Datte Bokura no Koi 10 Centi Datta.",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/87486.jpg",
+			"group": []
+		},
+		{
+			"name": "Just Because!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/87647.jpg",
+			"group": []
+		},
+		{
+			"name": "Juuni Taisen",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/87684.jpg",
+			"group": []
+		},
+		{
+			"name": "Kekkai Sensen & Beyond",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/83355.jpg",
+			"group": []
+		},
+		{
+			"name": "Kino no Tabi: The Beautiful World - The Animated Series",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87235.jpg",
+			"group": []
+		},
+		{
+			"name": "Konohana Kitan",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87241.jpg",
+			"group": []
+		},
+		{
+			"name": "Kujira no Kora wa Sajou ni Utau",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86661.jpg",
+			"group": []
+		},
+		{
+			"name": "Lalala Lala-chan: Uchuu ni Muchuu",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Love Kome: We Love Rice 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86548.jpg",
+			"group": []
+		},
+		{
+			"name": "Love Live! Sunshine!! 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/86492.jpg",
+			"group": []
+		},
+		{
+			"name": "Mahoutsukai no Yome",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/87523.jpg",
+			"group": []
+		},
+		{
+			"name": "Mori no Yousei: Kinoko no Musume",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/85153.jpg",
+			"group": []
+		},
+		{
+			"name": "Netojuu no Susume",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/87463.jpg",
+			"group": []
+		},
+		{
+			"name": "Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/87433.jpg",
+			"group": []
+		},
+		{
+			"name": "Oretacha Youkai Ningen",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87310.jpg",
+			"group": []
+		},
+		{
+			"name": "Osake wa Fuufu ni Natte kara",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/87265.jpg",
+			"group": []
+		},
+		{
+			"name": "Osomatsu-san 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/87600.jpg",
+			"group": []
+		},
+		{
+			"name": "Ousama Game The Animation",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/87585.jpg",
+			"group": []
+		},
+		{
+			"name": "Pingu in the City",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "RoboMasters the Animated Series",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/86297.jpg",
+			"group": []
+		},
+		{
+			"name": "Saredo Tsumibito wa Ryuu to Odoru",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/87237.jpg",
+			"group": []
+		},
+		{
+			"name": "Sengoku Night Blood",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87505.jpg",
+			"group": []
+		},
+		{
+			"name": "Shiyan Pin Jiating",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/83941.jpg",
+			"group": []
+		},
+		{
+			"name": "Shokugeki no Souma: San no Sara",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86603.jpg",
+			"group": []
+		},
+		{
+			"name": "Shoujo Shuumatsu Ryokou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86628.jpg",
+			"group": []
+		},
+		{
+			"name": "Sylvanian Families: Mini Story",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/87597.jpg",
+			"group": []
+		},
+		{
+			"name": "Taishou Chicchai-san",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/83262.jpg",
+			"group": []
+		},
+		{
+			"name": "The iDOLM@STER Side M",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/85711.jpg",
+			"group": []
+		},
+		{
+			"name": "Time Bokan: Gyakushuu no San-Okunin",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/87681.jpg",
+			"group": []
+		},
+		{
+			"name": "TsukiPro The Animation",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/84920.jpg",
+			"group": []
+		},
+		{
+			"name": "Two Car",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87632.jpg",
+			"group": []
+		},
+		{
+			"name": "UQ Holder! Mahou Sensei Negima! 2",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/87161.jpg",
+			"group": []
+		},
+		{
+			"name": "Urahara",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/86819.jpg",
+			"group": []
+		},
+		{
+			"name": "Wake Up, Girls! Shin Shou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/83247.jpg",
+			"group": []
+		},
+		{
+			"name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/83013.jpg",
+			"group": []
+		}
+	],
+	"ova": [],
+	"movie": []
+}
