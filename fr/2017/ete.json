@@ -7,7 +7,7 @@
 	"lbl_movie": "Films",
 	"tv": [{
 			"name": "18if",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85816.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86743.jpg",
 			"group": []
 		},
 		{
@@ -309,7 +309,7 @@
 		},
 		{
 			"name": "Musekinin Galaxy☆Tylor",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86254.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/86832.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -318,8 +318,8 @@
 			}]
 		},
 		{
-			"name": "Nanamaru Sanbatsu",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/9/84487.jpg",
+			"name": "Nana Maru San Batsu",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/86731.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -329,7 +329,7 @@
 		},
 		{
 			"name": "Netsuzou TRap",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/6/86038.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/86667.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -339,7 +339,7 @@
 		},
 		{
 			"name": "New Game!!",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/4/85103.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86790.jpg",
 			"group": [{
 					"status": "simulcast",
 					"detail": [{
@@ -361,7 +361,7 @@
 		},
 		{
 			"name": "Owarimonogatari (2017)",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/5/84913.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/87322.jpg",
 			"group": [{
 				"status": "simulcast uncertain",
 				"detail": [{
@@ -376,7 +376,7 @@
 		},
 		{
 			"name": "Princess Principal",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/7/84891.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86768.jpg",
 			"group": [{
 				"status": "simulcast uncertain",
 				"detail": [{
@@ -391,7 +391,7 @@
 		},
 		{
 			"name": "Saiyuki Reload Blast",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83994.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/86675.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -401,12 +401,12 @@
 		},
 		{
 			"name": "Senki Zesshou Symphogear AXZ",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/2/86099.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86584.jpg",
 			"group": []
 		},
 		{
 			"name": "Shoukoku no Altair",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/12/86077.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86751.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -423,7 +423,7 @@
 		},
 		{
 			"name": "Skirt no Naka wa Kedamono Deshita.",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/13/86024.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86647.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
@@ -433,12 +433,12 @@
 		},
 		{
 			"name": "Teekyuu 9",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/5/85596.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/86833.jpg",
 			"group": []
 		},
 		{
 			"name": "Tenshi no 3P!",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/6/86087.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/86831.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -458,7 +458,7 @@
 		},
 		{
 			"name": "Tsuredure Children",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86142.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/86676.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -468,7 +468,7 @@
 		},
 		{
 			"name": "Vatican Kiseki Chousakan",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/6/85824.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86746.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -488,7 +488,7 @@
 		},
 		{
 			"name": "Youkai Apartment no Yuuga na Nichijou",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85885.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/86678.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -498,7 +498,7 @@
 		},
 		{
 			"name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/8/85585.jpg",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/86830.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
