@@ -28,7 +28,12 @@
 		{
 			"name": "Black Clover",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86072.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Blend S",
@@ -163,7 +168,12 @@
 		{
 			"name": "Kujira no Kora wa Sajou ni Utau",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86661.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Lalala Lala-chan: Uchuu ni Muchuu",
@@ -183,7 +193,12 @@
 		{
 			"name": "Mahoutsukai no Yome",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/87523.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mori no Yousei: Kinoko no Musume",
@@ -248,7 +263,12 @@
 		{
 			"name": "Shokugeki no Souma: San no Sara",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86603.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Shoujo Shuumatsu Ryokou",
@@ -293,7 +313,12 @@
 		{
 			"name": "Urahara",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/86819.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Wake Up, Girls! Shin Shou",
