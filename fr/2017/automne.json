@@ -43,7 +43,12 @@
 		{
 			"name": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87623.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Cardfight!! Vanguard G Z",
@@ -63,7 +68,12 @@
 		{
 			"name": "Code:Realize: Sousei no Himegimi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87587.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Dia Horizon",
@@ -73,7 +83,12 @@
 		{
 			"name": "Dies Irae",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/86523.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Dynamic Chord",
@@ -98,7 +113,12 @@
 		{
 			"name": "Gintama: Porori-hen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/87666.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Glamorous Heroes",
@@ -123,7 +143,12 @@
 		{
 			"name": "Imouto sae Ireba Ii.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/87603.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Infini-T Force",
@@ -133,7 +158,12 @@
 		{
 			"name": "Inuyashiki",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87467.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Itsu Datte Bokura no Koi 10 Centi Datta.",
@@ -148,7 +178,12 @@
 		{
 			"name": "Juuni Taisen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/87684.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kekkai Sensen & Beyond",
@@ -158,12 +193,22 @@
 		{
 			"name": "Kino no Tabi: The Beautiful World - The Animated Series",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87235.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Konohana Kitan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87241.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kujira no Kora wa Sajou ni Utau",
@@ -233,7 +278,12 @@
 		{
 			"name": "Ousama Game The Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/87585.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Pingu in the City",
@@ -273,7 +323,12 @@
 		{
 			"name": "Shoujo Shuumatsu Ryokou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86628.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Sylvanian Families: Mini Story",
@@ -308,7 +363,12 @@
 		{
 			"name": "UQ Holder! Mahou Sensei Negima! 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/87161.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Urahara",
