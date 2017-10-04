@@ -38,7 +38,12 @@
 		{
 			"name": "Blend S",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/85940.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
@@ -138,7 +143,12 @@
 		{
 			"name": "Houseki no Kuni",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/87413.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Imouto sae Ireba Ii.",
@@ -153,7 +163,12 @@
 		{
 			"name": "Infini-T Force",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/87034.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Inuyashiki",
@@ -173,7 +188,12 @@
 		{
 			"name": "Just Because!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/87647.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Juuni Taisen",
@@ -188,7 +208,12 @@
 		{
 			"name": "Kekkai Sensen & Beyond",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/83355.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Kino no Tabi: The Beautiful World - The Animated Series",
@@ -253,7 +278,12 @@
 		{
 			"name": "Netojuu no Susume",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/87463.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji",
@@ -268,12 +298,22 @@
 		{
 			"name": "Osake wa Fuufu ni Natte kara",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/87265.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Osomatsu-san 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/87600.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ousama Game The Animation",
@@ -303,7 +343,12 @@
 		{
 			"name": "Sengoku Night Blood",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87505.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Shiyan Pin Jiating",
@@ -343,7 +388,12 @@
 		{
 			"name": "The iDOLM@STER Side M",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/85711.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Time Bokan: Gyakushuu no San-Okunin",
@@ -358,7 +408,12 @@
 		{
 			"name": "Two Car",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87632.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "UQ Holder! Mahou Sensei Negima! 2",
