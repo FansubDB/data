@@ -8,7 +8,12 @@
 	"tv": [{
 			"name": "3-gatsu no Lion 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87384.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Aiseki Mogol Girl",
@@ -23,7 +28,12 @@
 		{
 			"name": "Anime-Gataris",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/86851.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Black Clover",
@@ -63,12 +73,22 @@
 		{
 			"name": "Cinderella Girls Gekijou 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87315.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "ClassicaLoid 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/87621.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Code:Realize: Sousei no Himegimi",
@@ -98,7 +118,12 @@
 		{
 			"name": "Dynamic Chord",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/87302.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Evil or Live",
@@ -113,7 +138,12 @@
 		{
 			"name": "Garo: Vanishing Line",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87620.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Gintama: Porori-hen",
@@ -133,12 +163,22 @@
 		{
 			"name": "Himouto! Umaru-chan R",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/87290.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "HIDIVE"
+				}]
+			}]
 		},
 		{
 			"name": "Hoozuki no Reitetsu 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/87176.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Houseki no Kuni",
@@ -253,12 +293,22 @@
 		{
 			"name": "Love Kome: We Love Rice 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86548.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Love Live! Sunshine!! 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/86492.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Mahoutsukai no Yome",
@@ -383,7 +433,12 @@
 		{
 			"name": "Taishou Chicchai-san",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/83262.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "The iDOLM@STER Side M",
@@ -403,7 +458,12 @@
 		{
 			"name": "TsukiPro The Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/84920.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Two Car",
@@ -438,7 +498,12 @@
 		{
 			"name": "Wake Up, Girls! Shin Shou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/83247.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
