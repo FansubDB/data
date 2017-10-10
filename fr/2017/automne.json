@@ -128,7 +128,12 @@
 		{
 			"name": "Evil or Live",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Fireball Humorous",
@@ -446,14 +451,19 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "Wakanim"
+					"name": "Crunchyroll"
 				}]
 			}]
 		},
 		{
 			"name": "Time Bokan: Gyakushuu no San-Okunin",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/87681.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "TsukiPro The Animation",
