@@ -8,7 +8,12 @@
 	"tv": [{
 			"name": "18if",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86743.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "JeSuisMonteam"
+				}]
+			}]
 		},
 		{
 			"name": "Action Heroine Cheer Fruits",
@@ -23,7 +28,12 @@
 		{
 			"name": "Aho Girl",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86665.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ballroom e Youkoso",
@@ -148,7 +158,12 @@
 		{
 			"name": "Hitorijime My Hero",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/86825.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Circus Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Ikemen Sengoku: Toki wo Kakeru ga Koi wa Hajimaranai",
@@ -209,9 +224,9 @@
 			"name": "Kakegurui",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86578.jpg",
 			"group": [{
-					"status": "planned",
+					"status": "release",
 					"detail": [{
-						"name": "Houkago Fansub"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -300,7 +315,12 @@
 		{
 			"name": "Mori no Yousei: Kinoko no Musume",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/85153.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Musashino!",
@@ -357,13 +377,18 @@
 		{
 			"name": "Nora to Oujo to Noraneko Heart",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/85868.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Owarimonogatari (2017)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/87322.jpg",
 			"group": [{
-				"status": "simulcast uncertain",
+				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
 				}]
@@ -372,13 +397,18 @@
 		{
 			"name": "Pikotarou no Lullaby Lu-llaby",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Princess Principal",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/86768.jpg",
 			"group": [{
-				"status": "simulcast uncertain",
+				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
 				}]
@@ -402,7 +432,12 @@
 		{
 			"name": "Senki Zesshou Symphogear AXZ",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86584.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Shining Prism"
+				}]
+			}]
 		},
 		{
 			"name": "Shoukoku no Altair",
