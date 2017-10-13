@@ -326,11 +326,6 @@
 			}]
 		},
 		{
-			"name": "Mori no Yousei: Kinoko no Musume",
-			"image": "https://myanimelist.cdn-dena.com/images/anime/6/85153.jpg",
-			"group": []
-		},
-		{
 			"name": "Netojuu no Susume",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/87463.jpg",
 			"group": [{
@@ -343,7 +338,12 @@
 		{
 			"name": "Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/87433.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Toshiro"
+				}]
+			}]
 		},
 		{
 			"name": "Oretacha Youkai Ningen",
