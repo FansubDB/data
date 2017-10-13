@@ -23,7 +23,12 @@
 		{
 			"name": "Ani ni Tsukeru Kusuri wa Nai!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/85295.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Team Hoshitsuki"
+				}]
+			}]
 		},
 		{
 			"name": "Atom: The Beginning",
@@ -147,7 +152,12 @@
 		{
 			"name": "Frame Arms Girl",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/86625.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Shining Prism"
+				}]
+			}]
 		},
 		{
 			"name": "Fukumenkei Noise",
@@ -207,7 +217,12 @@
 		{
 			"name": "Idol Time PriPara",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/86056.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Shining Prism"
+				}]
+			}]
 		},
 		{
 			"name": "Kabukibu!",
@@ -222,7 +237,12 @@
 		{
 			"name": "Kenka Banchou Otome: Girl Beats Boys",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/85022.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kyoukai no Rinne 3rd Season",
@@ -257,7 +277,12 @@
 		{
 			"name": "Natsume Yuujinchou Roku",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/84416.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Team Hoshitsuki"
+				}]
+			}]
 		},
 		{
 			"name": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
@@ -330,7 +355,12 @@
 		{
 			"name": "Room Mate",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/85196.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Saenai Heroine no Sodatekata ♭",
@@ -420,7 +450,12 @@
 		{
 			"name": "Shounen Ashibe GO! GO! Goma-chan 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/84479.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
@@ -445,7 +480,12 @@
 		{
 			"name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/86606.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Circus Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Starmyu 2nd Season",
