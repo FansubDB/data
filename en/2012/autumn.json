@@ -1,0 +1,843 @@
+{
+	"name": "name",
+	"group": "group",
+	"message": "This list is empty.<br>Feel free to contribute.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Movies",
+	"tv": [{
+			"name": "Name",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Groups"
+				}]
+			}]
+		},
+		{
+			"name": "Kyousogiga 2 2nd Season, Click name for airing schedule",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "COOL"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EveTaku"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Battle Spirits: Sword Eyes",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": ""
+				}]
+			}]
+		},
+		{
+			"name": "Shinsekai Yori",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Aidoru"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena Simulcast: Crunchyroll (4 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Hiiro no Kakera Dai Ni Shou 2nd Season",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Hatsuyuki-Tsuki Simulcast: Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Tonari no Kaibutsu-kun",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Chihiro"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kami-sama Hajimemashita",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Anime-Koi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "t4w"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Anxious-Helium Simulcast: FUNimation (2 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Chiisana Ojisan",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Migoto"
+				}]
+			}]
+		},
+		{
+			"name": "Litchi De Hikari Club",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "LHS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Ghost-Subs Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Chou Soku Henkei Gyrozetter",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "sage"
+				}]
+			}]
+		},
+		{
+			"name": "Wooser no Sono Higurashi",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Interrobang Simulcast: Crunchyroll (10 weeks late)"
+				}]
+			}]
+		},
+		{
+			"name": "Chuunibyou demo Koi ga Shitai!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "URW (UTW-rori) Simulcast: The Anime Network & Anime on Demand (1 day late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Hayate no Gotoku! Can't Take My Eyes Off You",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "AniBlaze"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shini-subs Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Gintama (2012)",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Simulcast: Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "BTOOOM!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF Simulcast: Crunchyroll (0.5 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Hidamari Sketch x Honeycomb 4th Season",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nutbladder"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AnimeTL Simulcast: The Anime Network (4 days late) / Anime on Demand (11? days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "K",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Anime-Koi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shini-subs Simulcast: Viz Media via Hulu & Anime on Demand"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Busou Shinki",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena Simulcast: The Anime Network & Anime on Demand (4 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Zetsuen no Tempest: The Civilization Blaster",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tsuki Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Coppola"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu Simulcast: FUNimation (7 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "JoJo no Kimyou na Bouken",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "GetBack"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "MMM"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nutbladder"
+					}]
+				}
+			]
+		},
+		{
+			"name": "To Love-Ru: Trouble - Darkness 3rd Season",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AFFTW-Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Pomf (FFF-rori) Simulcast: The Anime Network (1 day late) / Anime on Demand (3 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Bakuman. 3 3rd Season",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "hyrax"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SFW-sage"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Haitai Nanafa",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Sigh-Kaylith"
+				}]
+			}]
+		},
+		{
+			"name": "Little Busters!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "LittleSubbers"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW-Mazui Simulcast: Crunchyroll (0.5 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Suki-tte Ii na yo.",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "AraAraUfufu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "hyrax"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Interrobang"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Oyatsu Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "CODE:BREAKER",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "sage-koi Simulcast: FUNimation (4 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Oshiri Kajiri Mushi",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Commie Simulcast: Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Cross Fight B-Daman eS",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "BeTheMan"
+				}]
+			}]
+		},
+		{
+			"name": "Magi",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "GotWoot"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Oni"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Sigh-Genjo Simulcast: Crunchyroll & Anime on Demand (3.5 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Yu-Gi-Oh! Zexal II 2nd Season",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": ""
+				}]
+			}]
+		},
+		{
+			"name": "Teekyuu",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Commie Simulcast: Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Ixion Saga: Dimension Transfer",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Commie Simulcast: Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Aikatsu!",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Mezashite"
+				}]
+			}]
+		},
+		{
+			"name": "Sakurasou no Pet na Kanojo",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Aho-Taku (Ahodomo-EveTaku)"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "rori Simulcast: Crunchyroll (2 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Girls und Panzer",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu Simulcast: Crunchyroll (2.5 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Jormungand: Perfect Order 2nd Season",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg Simulcast: FUNimation (2 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Medaka Box: Abnormal 2nd Season",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "FFF Simulcast: Crunchyroll (1.5 days late)"
+				}]
+			}]
+		},
+		{
+			"name": "Backstage Idol Story",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": ""
+				}]
+			}]
+		},
+		{
+			"name": "PSYCHO-PASS",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Commie Simulcast: FUNimation"
+				}]
+			}]
+		},
+		{
+			"name": "ROBOTICS;NOTES",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hybrid-Kaitou"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot Simulcast: FUNimation (1 day late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Seitokai no Ichizon Lv. 2 2nd Season",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "AraAraSenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Staircase Simulcast: Crunchyroll (3 months late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Dangerous Jii-san Ja",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": ""
+				}]
+			}]
+		},
+		{
+			"name": "Aoi Sekai no Chuushin de",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Simulcast: Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Lupin III: Touhou Kenbunroku ~Another Page~",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "sage"
+				}]
+			}]
+		},
+		{
+			"name": "Initial D Fifth Stage 5th Season",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Central Anime"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "sage"
+					}]
+				}
+			]
+		}
+	]
+}
