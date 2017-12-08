@@ -23,7 +23,12 @@
 		{
 			"name": "Ame-iro Cocoa Series: Ame-con!!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/87690.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Circus Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Anime-Gataris",
@@ -169,11 +174,18 @@
 			"name": "Himouto! Umaru-chan R",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/87290.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "HIDIVE"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Natsumi no Sekai"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "HIDIVE"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Hoozuki no Reitetsu 2nd Season",
@@ -219,16 +231,28 @@
 			"name": "Inuyashiki",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87467.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Itsu Datte Bokura no Koi 10 Centi Datta.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/87486.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Just Because!",
@@ -284,11 +308,22 @@
 			"name": "Kujira no Kora wa Sajou ni Utau",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/86661.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Netflix"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+							"name": "Manga Family"
+						},
+						{
+							"name": "Mangakas Fansub"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Netflix"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Lalala Lala-chan: Uchuu ni Muchuu",
@@ -388,7 +423,12 @@
 		{
 			"name": "RoboMasters the Animated Series",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/86297.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Yarashii Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Saredo Tsumibito wa Ryuu to Odoru",
@@ -518,7 +558,12 @@
 		{
 			"name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/83013.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Owlolf Fansub"
+				}]
+			}]
 		}
 	],
 	"ova": [],
