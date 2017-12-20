@@ -13,22 +13,42 @@
 		{
 			"name": "Basilisk: Ouka Ninpouchou",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Beatless",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Cardcaptor Sakura: Clear Card-hen",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Citrus",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Dagashi Kashi 2",
@@ -38,17 +58,32 @@
 		{
 			"name": "Dame × Prince Anime Caravan",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Darling in the FranXX",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Death March kara Hajimaru Isekai Kyousoukyoku",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Fate/Extra: Last Encore",
@@ -88,12 +123,22 @@
 		{
 			"name": "Grancrest Senki",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Hakata Tonkotsu Ramens",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hakumei to Mikochi",
@@ -123,12 +168,22 @@
 		{
 			"name": "IDOLiSH7",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Itou Junji: Collection",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season",
@@ -143,17 +198,32 @@
 		{
 			"name": "Killing Bites",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Koi wa Ameagari no You ni",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Kokkoku",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Mameneko",
@@ -178,7 +248,12 @@
 		{
 			"name": "Mitsuboshi Colors",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Nanatsu no Bitoku",
@@ -188,7 +263,12 @@
 		{
 			"name": "Nanatsu no Taizai: Imashime no Fukkatsu",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Overlord II",
@@ -233,7 +313,12 @@
 		{
 			"name": "Slow Start",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Sora Yori mo Tooi Basho",
@@ -253,12 +338,22 @@
 		{
 			"name": "Toji no Miko",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Violet Evergarden",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Yowamushi Pedal: Glory Line",
@@ -268,7 +363,12 @@
 		{
 			"name": "Yuru Camp△",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Zoku Touken Ranbu: Hanamaru",
