@@ -107,6 +107,13 @@
 					"url": "automne.json",
 					"htmlUrl": "automne.html",
 					"deco": "2017年の秋"
+				},
+				{
+					"season": "winter",
+					"title": "hiver",
+					"url": "hiver.json",
+					"htmlUrl": "hiver.html",
+					"deco": "2017年の冬"
 				}
 			]
 		}
