@@ -1,0 +1,279 @@
+{
+	"name": "nom",
+	"group": "groupe",
+	"message": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OAV/ONA/Spéciaux",
+	"lbl_movie": "Films",
+	"tv": [{
+			"name": "25-sai no Jyoshikousei",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Basilisk: Ouka Ninpouchou",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Beatless",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Cardcaptor Sakura: Clear Card-hen",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Citrus",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Dagashi Kashi 2",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Dame × Prince Anime Caravan",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Darling in the FranXX",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Death March kara Hajimaru Isekai Kyousoukyoku",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Fate/Extra: Last Encore",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Fate/Grand Order × Himuro no Tenchi: 7-nin no Saikyou Ijin-hen",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Fate/Grand Order: Moonlight/Lostroom",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Gakuen Babysitters",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "gdgd Men's Party",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Gin no Guardian 2nd Season",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Gintama. Gin no Tamashii-hen",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Grancrest Senki",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Hakata Tonkotsu Ramens",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Hakumei to Mikochi",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Hakyuu Houshin Engi",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Hataraku Onii-san!",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Hitori no Shita: The Outcast 2",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Hugtto! Precure",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "IDOLiSH7",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Itou Junji: Collection",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Karakai Jouzu no Takagi-san",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Killing Bites",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Koi wa Ameagari no You ni",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Kokkoku",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Mameneko",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Märchen Mädchen",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Miira no Kaikata",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Mitchiri Neko",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Mitsuboshi Colors",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Nanatsu no Bitoku",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Overlord II",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Pochitto Hatsumei: Pikachin-Kit",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Pop Team Epic",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Ramen Daisuki Koizumi-san",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Ryuuou no Oshigoto!",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Saiki Kusuo no Ψ-nan 2nd Season",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Sanrio Danshi",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Shinkansen Henkei Robo Shinkalion",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Slow Start",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Sora Yori mo Tooi Basho",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Takunomi.",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Toji no Miko",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Violet Evergarden",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Yowamushi Pedal: Glory Line",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Yuru Camp△",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Zoku Touken Ranbu: Hanamaru",
+			"image": "",
+			"group": []
+		}
+	]
+}
