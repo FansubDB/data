@@ -5,30 +5,22 @@
 			"seasons": [{
 					"season": "spring",
 					"title": "spring",
-					"url": "spring.json",
-					"htmlUrl": "spring.html",
-					"deco": "2010年の冬"
+					"url": "spring.json"
 				},
 				{
 					"season": "summer",
 					"title": "summer",
-					"url": "summer.json",
-					"htmlUrl": "summer.html",
-					"deco": "2010年の夏"
+					"url": "summer.json"
 				},
 				{
 					"season": "autumn",
 					"title": "autumn",
-					"url": "autumn.json",
-					"htmlUrl": "autumn.html",
-					"deco": "2010年の秋"
+					"url": "autumn.json"
 				},
 				{
 					"season": "winter",
 					"title": "winter",
-					"url": "winter.json",
-					"htmlUrl": "winter.html",
-					"deco": "2010年の冬"
+					"url": "winter.json"
 				}
 			]
 		},
@@ -38,30 +30,22 @@
 			"seasons": [{
 					"season": "spring",
 					"title": "spring",
-					"url": "spring.json",
-					"htmlUrl": "spring.html",
-					"deco": "2011年の冬"
+					"url": "spring.json"
 				},
 				{
 					"season": "summer",
 					"title": "summer",
-					"url": "summer.json",
-					"htmlUrl": "summer.html",
-					"deco": "2011年の夏"
+					"url": "summer.json"
 				},
 				{
 					"season": "autumn",
 					"title": "autumn",
-					"url": "autumn.json",
-					"htmlUrl": "autumn.html",
-					"deco": "2011年の秋"
+					"url": "autumn.json"
 				},
 				{
 					"season": "winter",
 					"title": "winter",
-					"url": "winter.json",
-					"htmlUrl": "winter.html",
-					"deco": "2011年の冬"
+					"url": "winter.json"
 				}
 			]
 		}
