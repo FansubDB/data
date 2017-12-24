@@ -1,0 +1,805 @@
+{
+	"name": "ชื่อ",
+	"group": "แฟนซับ",
+	"message": "ไม่ทราบข้อมูล",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/SP",
+	"lbl_movie": "Movie",
+	"tv": [{
+		"name": "18if",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/86743.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "BN-Fansub!"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "RT-Fansub"
+			}]
+		}]
+	}, {
+		"name": "Action Heroine Cheer Fruits",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/86741.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "PassionHarp-FanSub"
+			}, {
+				"name": "Sesano-FS"
+			}]
+		}]
+	}, {
+		"name": "Aho Girl",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/86665.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "KataFansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Season-Sub"
+			}]
+		}]
+	}, {
+		"name": "Ballroom e Youkoso",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/5/86739.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "VirgoNeo-FS"
+			}]
+		}]
+	}, {
+		"name": "Battle Girl High School",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/9/87837.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}]
+	}, {
+		"name": "Centaur no Nayami",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/2/86767.jpg",
+		"group": [{
+				"status": "dropped",
+				"detail": [{
+					"name": "Season-Sub"
+				}]
+			},
+			{
+				"status": "simulcast",
+				"detail": [{
+					"name": "DEX"
+				}]
+			}
+		]
+	}, {
+		"name": "Clione no Akari",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/3/84706.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "AK-FS"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "BN-Fansub!"
+			}]
+		}]
+	}, {
+		"name": "Dive!!",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/11/86744.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "NATAPORI"
+			}, {
+				"name": "WindSky-Fs"
+			}]
+		}]
+	}, {
+		"name": "Enmusubi no Youko-chan",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/4/76470.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Pure's app"
+			}]
+		}]
+	}, {
+		"name": "Fate/Apocrypha",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/9/86573.jpg",
+		"group": [{
+			"status": "dropped",
+			"detail": [{
+				"name": "Ace-z Fansub"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "BN-Fansub!"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Kenhoshisaki_FS"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Onigiri-FS"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Netflix"
+			}]
+		}]
+	}, {
+		"name": "Gamers!",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/4/86828.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "KataFansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ruby Fansub"
+			}]
+		}]
+	}, {
+		"name": "Hajimete no Gal",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/4/76470.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Otaku-Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "QUICK-Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "KamiAmagumoSub"
+			}, {
+				"name": "KataFansub"
+			}]
+		}]
+	}, {
+		"name": "Hina Logi: From Luck & Logic",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/11/86576.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "OtaTU@Anime"
+			}]
+		}]
+	}, {
+		"name": "Hitorijime My Hero",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/86825.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "BokuNo FanSub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SEKAI-FS"
+			}]
+		}]
+	}, {
+		"name": "Ikemen Sengoku: Toki wo Kakeru ga Koi wa Hajimaranai",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/86054.jpg",
+		"group": []
+	}, {
+		"name": "Isekai Shokudou",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/3/86666.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "BN-Fansub!"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Kryxelix"
+			}]
+		}]
+	}, {
+		"name": "Isekai wa Smartphone to Tomo ni.",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/86794.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "MsForce-fs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shiromori FS"
+			}]
+		}]
+	}, {
+		"name": "Jigoku Shoujo: Yoi no Togi",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/86962.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Liberty-Fs"
+			}]
+		}]
+	}, {
+		"name": "Jikan no Shihaisha",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/3/86753.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SEKAI-FS"
+			}]
+		}]
+	}, {
+		"name": "Kaito × Ansa",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/5/85063.jpg",
+		"group": []
+	}, {
+		"name": "Kakegurui",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/3/86578.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "BN-Fansub!"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Google Translate Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shiromori FS"
+			}]
+		}]
+	}, {
+		"name": "Katsugeki/Touken Ranbu",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/87984.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "MsForce-fs"
+			}, {
+				"name": "RT-Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ShiomoriFS"
+			}]
+		}]
+	}, {
+		"name": "Keppeki Danshi! Aoyama-kun",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/9/86644.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "SEIKAI-FS"
+			}]
+		}]
+	}, {
+		"name": "Knight's & Magic",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/5/85914.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ace-z Fansub"
+			}, {
+				"name": "MunashiiKaze-FS"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "BN-Fansub!"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Kryxelix"
+			}]
+		}]
+	}, {
+		"name": "Koi to Uso",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/9/86644.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "RT-Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shiromori-FS"
+			}]
+		}]
+	}, {
+		"name": "Konbini Kareshi",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/4/86243.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "GLF-FS"
+			}]
+		}]
+	}, {
+		"name": "Made in Abyss",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/6/86733.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "BN-Fansub!"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "QNFansub"
+			}]
+		}]
+	}, {
+		"name": "Mahoujin Guru Guru (2017)",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/9/86835.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Google Translate Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shiromori FS"
+			}]
+		}]
+	}, {
+		"name": "Marvel Future Avengers",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/85994.jpg",
+		"group": []
+	}, {
+		"name": "Mobile Suit Gundam: Twilight Axis",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/85773.jpg",
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "th.gundam.info"
+			}]
+		}]
+	}, {
+		"name": "Musekinin Galaxy☆Tylor",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/13/86832.jpg",
+		"group": []
+	}, {
+		"name": "Nana Maru San Batsu",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/9/86731.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "BokuNo FanSub"
+			}]
+		}]
+	}, {
+		"name": "Netsuzou TRap",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/10/86667.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "AK-FS"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Minami-Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ruby Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shiromori FS"
+			}]
+		}]
+	}, {
+		"name": "New Game!!",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/4/86790.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "KamiAmagumoSub"
+			}, {
+				"name": "KataFansub"
+			}]
+		}]
+	}, {
+		"name": "Nora to Oujo to Noraneko Heart",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/3/85868.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ruby Fansub"
+			}]
+		}]
+	}, {
+		"name": "Owarimonogatari 2nd Season",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/6/87322.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Nemuria-Fansub"
+			}]
+		}]
+	}, {
+		"name": "Princess Principal",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/86768.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime Fall Year"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Kryxelix"
+			}]
+		}]
+	}, {
+		"name": "Saiyuuki Reload Blast",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/11/86675.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "BlackSky-Fansub"
+			}]
+		}]
+	}, {
+		"name": "Senki Zesshou Symphogear AXZ",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/3/86584.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "UL-FS"
+			}]
+		}]
+	}, {
+		"name": "Shoukoku no Altair",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/3/86751.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ruby Fansub"
+			}]
+		}]
+	}, {
+		"name": "Skirt no Naka wa Kedamono Deshita.",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/4/86647.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "KataFansub"
+			}]
+		}]
+	}, {
+		"name": "Tekyuu 9",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/5/86833.jpg",
+		"group": []
+	}, {
+		"name": "Tenshi no 3P!",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/8/86831.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "KamiAmagumoSub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "PassionHarp-FanSub"
+			}]
+		}]
+	}, {
+		"name": "The Reflection",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/4/83018.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Revolver-FS"
+			}]
+		}]
+	}, {
+		"name": "Tsurezure Children",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/86676.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime cartoon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "DAI-TAKU"
+			}, {
+				"name": "Loli Suki Page Desu"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Fourseasons-fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mayuki-Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "MsForce-fs"
+			}]
+		}]
+	}, {
+		"name": "Vatican Kiseki Chousakan",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/4/86746.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Liberty-Fs"
+			}, {
+				"name": "VirgoNeo-FS"
+			}]
+		}]
+	}, {
+		"name": "Yami Shibai 5th Season",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/11/86158.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Liberty-Fs"
+			}]
+		}]
+	}, {
+		"name": "Youkai Apartment no Yuuga na Nichijou",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/5/86678.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "SEIKAI-FS"
+			}, {
+				"name": "VirgoNeo-FS"
+			}]
+		}]
+	}, {
+		"name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/5/86830.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "NoGod-FS"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shiromori FS"
+			}]
+		}]
+	}],
+	"ova": [{
+		"name": "BanG Dream! Ason jatta!",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/5/86264.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Kryxelix"
+			}]
+		}]
+	}, {
+		"name": "Demi-chan wa Kataritai Special",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/6/88769.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "KamiAmagumoSub"
+			}]
+		}]
+	}, {
+		"name": "Karada Sagashi",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/87141.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Liberty-FS"
+			}]
+		}]
+	}, {
+		"name": "Kobayashi-san Chi no Maid Dragon Specials",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/8/84751.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "KamiAmagumoSub"
+			}, {
+				"name": "KataFansub"
+			}]
+		}]
+	}, {
+		"name": "Kono Subarashii Sekai ni Shukufuku wo!2 OVA",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/9/83539.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "KataFansub"
+			}]
+		}]
+	}, {
+		"name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/81588.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "CrimsonV-FS"
+			}]
+		}]
+	}, {
+		"name": "Pikotarou no Lullaby Lu-llaby",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/13/86266.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Nevia-FS"
+			}]
+		}]
+	}],
+	"movie": [{
+		"name": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/13/85698.jpg",
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Japan Anime Movie Thailand"
+			}]
+		}]
+	}, {
+		"name": "KanColle Movie",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/87590.jpg",
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Aniplus Asia"
+			}]
+		}]
+	}, {
+		"name": "Mary to Majo no Hana",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/13/83321.jpg",
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Major Cineplex"
+			}]
+		}]
+	}, {
+		"name": "No Game No Life: Zero",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/13/86789.jpg",
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Japan Anime Movie Thailand"
+			}]
+		}]
+	}, {
+		"name": "Suki ni Naru Sono Shunkan wo. Kokuhaku Jikkou Iinkai",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/87065.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "murph-fansub"
+			}]
+		}]
+	}, {
+		"name": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/86400.jpg",
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Major Cineplex"
+			}]
+		}]
+	}, {
+		"name": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou Movie 3 - Yakusoku",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/7/86984.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Season-Sub"
+			}]
+		}]
+	}]
+}
