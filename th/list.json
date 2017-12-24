@@ -1,49 +1,41 @@
 {
-	"data":[
-		{
+	"data": [{
 			"year": 1985,
 			"url": "1985/",
-			"seasons": [
-				{
-					"season": "winter",
-					"title": "ฤดูหนาว",
-					"url": "winter.json",
-					"htmlUrl": "winter.html",
-					"deco": "1985年の春"
-				}
-			]
+			"seasons": [{
+				"season": "winter",
+				"title": "ฤดูหนาว",
+				"url": "winter.json",
+				"htmlUrl": "winter.html",
+				"deco": "1985年の春"
+			}]
 		},
 		{
 			"year": 1994,
 			"url": "1994/",
-			"seasons": [
-				{
-					"season": "fall",
-					"title": "ฤดูใบไม้ร่วง",
-					"url": "fall.json",
-					"htmlUrl": "fall.html",
-					"deco": "1994年の春"
-				}
-			]
+			"seasons": [{
+				"season": "fall",
+				"title": "ฤดูใบไม้ร่วง",
+				"url": "fall.json",
+				"htmlUrl": "fall.html",
+				"deco": "1994年の春"
+			}]
 		},
 		{
 			"year": 1995,
 			"url": "1995/",
-			"seasons": [
-				{
-					"season": "winter",
-					"title": "ฤดูหนาว",
-					"url": "winter.json",
-					"htmlUrl": "winter.html",
-					"deco": "1995年の春"
-				}
-			]
+			"seasons": [{
+				"season": "winter",
+				"title": "ฤดูหนาว",
+				"url": "winter.json",
+				"htmlUrl": "winter.html",
+				"deco": "1995年の春"
+			}]
 		},
 		{
 			"year": 1996,
 			"url": "1996/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "spring",
 					"title": "ฤดูใบไม้ผลิ",
 					"url": "spring.json",
@@ -62,21 +54,18 @@
 		{
 			"year": 1998,
 			"url": "1998/",
-			"seasons": [
-				{
-					"season": "spring",
-					"title": "ฤดูใบไม้ผลิ",
-					"url": "spring.json",
-					"htmlUrl": "spring.html",
-					"deco": "1998年の春"
-				}
-			]
+			"seasons": [{
+				"season": "spring",
+				"title": "ฤดูใบไม้ผลิ",
+				"url": "spring.json",
+				"htmlUrl": "spring.html",
+				"deco": "1998年の春"
+			}]
 		},
 		{
 			"year": 1999,
 			"url": "1999/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "fall",
 					"title": "ฤดูใบไม้ร่วง",
 					"url": "fall.json",
@@ -95,47 +84,40 @@
 		{
 			"year": 2002,
 			"url": "2002/",
-			"seasons": [
-				{
-					"season": "spring",
-					"title": "ฤดูใบไม้ผลิ",
-					"url": "spring.json",
-					"htmlUrl": "spring.html",
-					"deco": "2002年の春"
-				}
-			]
+			"seasons": [{
+				"season": "spring",
+				"title": "ฤดูใบไม้ผลิ",
+				"url": "spring.json",
+				"htmlUrl": "spring.html",
+				"deco": "2002年の春"
+			}]
 		},
 		{
 			"year": 2005,
 			"url": "2005/",
-			"seasons": [
-				{
-					"season": "summer",
-					"title": "ฤดูร้อน",
-					"url": "summer.json",
-					"htmlUrl": "summer.html",
-					"deco": "2005年の春"
-				}
-			]
+			"seasons": [{
+				"season": "summer",
+				"title": "ฤดูร้อน",
+				"url": "summer.json",
+				"htmlUrl": "summer.html",
+				"deco": "2005年の春"
+			}]
 		},
 		{
 			"year": 2006,
 			"url": "2006/",
-			"seasons": [
-				{
-					"season": "spring",
-					"title": "ฤดูใบไม้ผลิ",
-					"url": "spring.json",
-					"htmlUrl": "spring.html",
-					"deco": "2006年の春"
-				}
-			]
+			"seasons": [{
+				"season": "spring",
+				"title": "ฤดูใบไม้ผลิ",
+				"url": "spring.json",
+				"htmlUrl": "spring.html",
+				"deco": "2006年の春"
+			}]
 		},
 		{
 			"year": 2007,
 			"url": "2007/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "spring",
 					"title": "ฤดูใบไม้ผลิ",
 					"url": "spring.json",
@@ -168,8 +150,7 @@
 		{
 			"year": 2008,
 			"url": "2008/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "spring",
 					"title": "ฤดูใบไม้ผลิ",
 					"url": "spring.json",
@@ -195,8 +176,7 @@
 		{
 			"year": 2009,
 			"url": "2009/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "summer",
 					"title": "ฤดูร้อน",
 					"url": "summer.json",
@@ -222,8 +202,7 @@
 		{
 			"year": 2010,
 			"url": "2010/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "spring",
 					"title": "ฤดูใบไม้ผลิ",
 					"url": "spring.json",
@@ -256,8 +235,7 @@
 		{
 			"year": 2011,
 			"url": "2011/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "spring",
 					"title": "ฤดูใบไม้ผลิ",
 					"url": "spring.json",
@@ -290,8 +268,7 @@
 		{
 			"year": 2012,
 			"url": "2012/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "spring",
 					"title": "ฤดูใบไม้ผลิ",
 					"url": "spring.json",
@@ -324,8 +301,7 @@
 		{
 			"year": 2013,
 			"url": "2013/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "spring",
 					"title": "ฤดูใบไม้ผลิ",
 					"url": "spring.json",
@@ -351,25 +327,29 @@
 		{
 			"year": 2016,
 			"url": "2016/",
-			"seasons": [
-				{
-					"season": "winter",
-					"title": "ฤดูหนาว",
-					"url": "winter.json",
-					"htmlUrl": "winter.html",
-					"deco": "2016年の春"
-				}
-			]
+			"seasons": [{
+				"season": "winter",
+				"title": "ฤดูหนาว",
+				"url": "winter.json",
+				"htmlUrl": "winter.html",
+				"deco": "2016年の春"
+			}]
 		},
 		{
 			"year": 2017,
 			"url": "2017/",
-			"seasons": [
-				{
+			"seasons": [{
 					"season": "spring",
 					"title": "ฤดูใบไม้ผลิ",
 					"url": "spring.json",
 					"htmlUrl": "spring.html",
+					"deco": "2017年の春"
+				},
+				{
+					"season": "summer",
+					"title": "ฤดูร้อน",
+					"url": "summer.json",
+					"htmlUrl": "summer.html",
 					"deco": "2017年の春"
 				}
 			]
