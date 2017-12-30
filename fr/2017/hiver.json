@@ -7,12 +7,12 @@
 	"lbl_movie": "Films",
 	"tv": [{
 			"name": "25-sai no Jyoshikousei",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89091.jpg",
 			"group": []
 		},
 		{
 			"name": "Basilisk: Ouka Ninpouchou",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/88384.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Beatless",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/89322.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Cardcaptor Sakura: Clear Card-hen",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/89087.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Citrus",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89559.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "Dagashi Kashi 2",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89242.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "Dame × Prince Anime Caravan",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/87462.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -72,7 +72,7 @@
 		},
 		{
 			"name": "Darling in the FranXX",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/89016.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Death March kara Hajimaru Isekai Kyousoukyoku",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/88911.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -92,22 +92,22 @@
 		},
 		{
 			"name": "Fate/Extra: Last Encore",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/83621.jpg",
 			"group": []
 		},
 		{
 			"name": "Fate/Grand Order × Himuro no Tenchi: 7-nin no Saikyou Ijin-hen",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89346.jpg",
 			"group": []
 		},
 		{
 			"name": "Fate/Grand Order: Moonlight/Lostroom",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/89337.jpg",
 			"group": []
 		},
 		{
 			"name": "Gakuen Babysitters",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/88602.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -117,22 +117,22 @@
 		},
 		{
 			"name": "gdgd Men's Party",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/88981.jpg",
 			"group": []
 		},
 		{
 			"name": "Gin no Guardian 2nd Season",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/86476.jpg",
 			"group": []
 		},
 		{
 			"name": "Gintama. Gin no Tamashii-hen",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89603.jpg",
 			"group": []
 		},
 		{
 			"name": "Grancrest Senki",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/88583.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "Hakata Tonkotsu Ramens",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89412.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Hakumei to Mikochi",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/87220.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -162,27 +162,27 @@
 		},
 		{
 			"name": "Hakyuu Houshin Engi",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/88796.jpg",
 			"group": []
 		},
 		{
 			"name": "Hataraku Onii-san!",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/88930.jpg",
 			"group": []
 		},
 		{
 			"name": "Hitori no Shita: The Outcast 2",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/88698.jpg",
 			"group": []
 		},
 		{
 			"name": "Hugtto! Precure",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/89689.jpg",
 			"group": []
 		},
 		{
 			"name": "IDOLiSH7",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/87656.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Itou Junji: Collection",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/88366.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -202,12 +202,12 @@
 		},
 		{
 			"name": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/89222.jpg",
 			"group": []
 		},
 		{
 			"name": "Karakai Jouzu no Takagi-san",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/89423.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -217,7 +217,7 @@
 		},
 		{
 			"name": "Killing Bites",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/89312.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -227,7 +227,7 @@
 		},
 		{
 			"name": "Koi wa Ameagari no You ni",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/88808.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -237,7 +237,7 @@
 		},
 		{
 			"name": "Kokkoku",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89076.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -247,17 +247,17 @@
 		},
 		{
 			"name": "Mameneko",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/88812.jpg",
 			"group": []
 		},
 		{
 			"name": "Märchen Mädchen",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/89330.jpg",
 			"group": []
 		},
 		{
 			"name": "Miira no Kaikata",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/89345.jpg",
 			"group": []
 		},
 		{
@@ -272,7 +272,7 @@
 		},
 		{
 			"name": "Mitsuboshi Colors",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/89329.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -282,12 +282,12 @@
 		},
 		{
 			"name": "Nanatsu no Bitoku",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/89129.jpg",
 			"group": []
 		},
 		{
 			"name": "Nanatsu no Taizai: Imashime no Fukkatsu",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/88338.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -297,7 +297,7 @@
 		},
 		{
 			"name": "Overlord II",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89562.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -312,12 +312,12 @@
 		},
 		{
 			"name": "Pop Team Epic",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/85096.jpg",
 			"group": []
 		},
 		{
 			"name": "Ramen Daisuki Koizumi-san",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87949.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -327,7 +327,7 @@
 		},
 		{
 			"name": "Ryuuou no Oshigoto!",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/88427.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -337,22 +337,22 @@
 		},
 		{
 			"name": "Saiki Kusuo no Ψ-nan 2nd Season",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/89348.jpg",
 			"group": []
 		},
 		{
 			"name": "Sanrio Danshi",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87520.jpg",
 			"group": []
 		},
 		{
 			"name": "Shinkansen Henkei Robo Shinkalion",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/89576.jpg",
 			"group": []
 		},
 		{
 			"name": "Slow Start",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/87937.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -362,7 +362,7 @@
 		},
 		{
 			"name": "Sora Yori mo Tooi Basho",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/88906.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -371,18 +371,28 @@
 			}]
 		},
 		{
-			"name": "Takunomi.",
+			"name": "Spiritpact: Yomi no Chigiri",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/89623.jpg",
+			"group": []
+		},
+		{
+			"name": "Sword Dynasty",
 			"image": "",
+			"group": []
+		},
+		{
+			"name": "Takunomi.",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/87252.jpg",
 			"group": []
 		},
 		{
 			"name": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/89382.jpg",
 			"group": []
 		},
 		{
 			"name": "Toji no Miko",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/86700.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -391,8 +401,13 @@
 			}]
 		},
 		{
+			"name": "Uchi no Oochopus",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/89674.jpg",
+			"group": []
+		},
+		{
 			"name": "Violet Evergarden",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/89551.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -402,12 +417,12 @@
 		},
 		{
 			"name": "Yowamushi Pedal: Glory Line",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/88489.jpg",
 			"group": []
 		},
 		{
 			"name": "Yuru Camp△",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89143.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -417,7 +432,7 @@
 		},
 		{
 			"name": "Zoku Touken Ranbu: Hanamaru",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/89579.jpg",
 			"group": []
 		}
 	]
