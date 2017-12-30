@@ -53,7 +53,12 @@
 		{
 			"name": "Dagashi Kashi 2",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Dame × Prince Anime Caravan",
@@ -103,7 +108,12 @@
 		{
 			"name": "Gakuen Babysitters",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "gdgd Men's Party",
@@ -143,7 +153,12 @@
 		{
 			"name": "Hakumei to Mikochi",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Hakyuu Houshin Engi",
@@ -193,7 +208,12 @@
 		{
 			"name": "Karakai Jouzu no Takagi-san",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Killing Bites",
@@ -243,7 +263,12 @@
 		{
 			"name": "Mitchiri Neko",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mitsuboshi Colors",
@@ -273,7 +298,12 @@
 		{
 			"name": "Overlord II",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Pochitto Hatsumei: Pikachin-Kit",
@@ -288,12 +318,22 @@
 		{
 			"name": "Ramen Daisuki Koizumi-san",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ryuuou no Oshigoto!",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Saiki Kusuo no Ψ-nan 2nd Season",
@@ -323,7 +363,12 @@
 		{
 			"name": "Sora Yori mo Tooi Basho",
 			"image": "",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Takunomi.",
