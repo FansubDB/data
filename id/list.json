@@ -1,0 +1,34 @@
+{
+	"data": [{
+			"year": 2018,
+			"url": "2018/",
+			"seasons": [{
+					"season": "spring",
+					"title": "spring",
+					"url": "spring.json"
+				},
+				{
+					"season": "summer",
+					"title": "summer",
+					"url": "summer.json"
+				},
+				{
+					"season": "autumn",
+					"title": "autumn",
+					"url": "autumn.json"
+				},
+				{
+					"season": "winter",
+					"title": "winter",
+					"url": "winter.json"
+				}
+			]
+		}
+			]
+		}
+	],
+	"msg": "<strong>Be careful!</strong> Data from:",
+	"msg_season": "<strong>Be careful!</strong> Data from:",
+	"msg_year": "<strong>Be careful!</strong> Data from:",
+	"msg_all": "<strong>Be careful!</strong>Incorrect Season or Year. Data from:"
+}
