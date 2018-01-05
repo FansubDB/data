@@ -20,4 +20,11 @@
 	"view-page": "Go to the thai page",
 	"url": "th/",
 	"index": "th/index.html"
+},{
+	"lang": "ID",
+	"title": "ID",
+	"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png",
+	"view-page": "Pergi Ke Halaman Indonesia",
+	"url": "id/",
+	"index": "id/index.html"
 }]
