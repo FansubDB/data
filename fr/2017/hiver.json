@@ -93,7 +93,12 @@
 		{
 			"name": "Fate/Extra: Last Encore",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/83621.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Fate/Grand Order × Himuro no Tenchi: 7-nin no Saikyou Ijin-hen",
@@ -253,12 +258,22 @@
 		{
 			"name": "Märchen Mädchen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/89330.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Miira no Kaikata",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/89345.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mitchiri Neko",
