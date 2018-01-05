@@ -1,0 +1,79 @@
+{
+	"name": "name",
+	"group": "group",
+	"message": "List ini kosong.<br>Mari Berkontribusi.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Movies",
+	"tv": [{
+			"name": "Basilisk: Ouka Ninpouchou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/88384.jpg",
+			"group": [{
+					"status": "Planned",
+					"detail": [{
+						"name": "Melody"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Citrus",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89559.jpg",
+			"group": [{
+					"status": "Planned",
+					"detail": [{
+							"name": "Kuroyuri"
+						},
+						{
+							"name": "Melody"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Dagashi Kashi 2",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89242.jpg",
+			"group": [{
+					"status": "Planned",
+					"detail": [{
+						"name": "Melody"
+					}]
+				}]
+		},
+		{
+			"name": "Dame x Prince Anime Caravan",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/87462.jpg",
+			"group": [{
+					"status": "Planned",
+					"detail": [{
+						"name": "Pucuk"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Darling in the FranXX",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/89016.jpg",
+			"group": [{
+					"status": "Planned",
+					"detail": [{
+						"name": "Pucuk"
+					}]
+				}]
+	}],
+	"ova": [{
+			"name": "Baja no Studio (OVA)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/88774.jpg",
+			"group": [
+							{
+					"status": "release",
+					"detail": [{
+						"name": "Melody"
+					}]
+				}
+			]
+		},
+	],
+	"movie": []
+}
