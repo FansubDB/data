@@ -1,32 +1,13 @@
 {
 	"data": [{
-			"year": 2018,
-			"url": "2018/",
-			"seasons": [{
-					"season": "semi",
-					"title": "semi",
-					"url": "spring.json"
-				},
-				{
-					"season": "panas",
-					"title": "panas",
-					"url": "summer.json"
-				},
-				{
-					"season": "gugur",
-					"title": "gugur",
-					"url": "autumn.json"
-				},
-				{
-					"season": "dingin",
-					"title": "dingin",
-					"url": "winter.json"
-				}
-			]
-		}
-			]
-		}
-	],
+		"year": 2017,
+		"url": "2017/",
+		"seasons": [{
+			"season": "winter",
+			"title": "dingin",
+			"url": "dingin.json"
+		}]
+	}],
 	"msg": "<strong>Hati-hati!</strong> Data dari:",
 	"msg_season": "<strong>Hati-hati!</strong> Data dari:",
 	"msg_year": "<strong>Hati-hati!</strong> Data dari:",
