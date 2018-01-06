@@ -14,17 +14,17 @@
 	"url": "fr/",
 	"index": "fr/index.html"
 }, {
-	"lang": "ไทย",
-	"title": "ไทย",
-	"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png",
-	"view-page": "Go to the thai page",
-	"url": "th/",
-	"index": "th/index.html"
-},{
 	"lang": "indonesia",
 	"title": "Indonesia",
 	"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png",
 	"view-page": "Pergi Ke Halaman Indonesia",
 	"url": "id/",
 	"index": "id/index.html"
+}, {
+	"lang": "ไทย",
+	"title": "ไทย",
+	"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png",
+	"view-page": "Go to the thai page",
+	"url": "th/",
+	"index": "th/index.html"
 }]
