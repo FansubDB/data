@@ -3,23 +3,23 @@
 			"year": 2018,
 			"url": "2018/",
 			"seasons": [{
-					"season": "spring",
-					"title": "spring",
+					"season": "semi",
+					"title": "semi",
 					"url": "spring.json"
 				},
 				{
-					"season": "summer",
-					"title": "summer",
+					"season": "panas",
+					"title": "panas",
 					"url": "summer.json"
 				},
 				{
-					"season": "autumn",
-					"title": "autumn",
+					"season": "gugur",
+					"title": "gugur",
 					"url": "autumn.json"
 				},
 				{
-					"season": "winter",
-					"title": "winter",
+					"season": "dingin",
+					"title": "dingin",
 					"url": "winter.json"
 				}
 			]
@@ -27,8 +27,8 @@
 			]
 		}
 	],
-	"msg": "<strong>Be careful!</strong> Data from:",
-	"msg_season": "<strong>Be careful!</strong> Data from:",
-	"msg_year": "<strong>Be careful!</strong> Data from:",
-	"msg_all": "<strong>Be careful!</strong>Incorrect Season or Year. Data from:"
+	"msg": "<strong>Hati-hati!</strong> Data dari:",
+	"msg_season": "<strong>Hati-hati!</strong> Data dari:",
+	"msg_year": "<strong>Hati-hati!</strong> Data dari:",
+	"msg_all": "<strong>Hati-hati!</strong>Musim atau Tahun yang Salah Data dari:"
 }
