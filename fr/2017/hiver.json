@@ -139,7 +139,12 @@
 		{
 			"name": "Gin no Guardian 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/86476.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Gintama. Gin no Tamashii-hen",
@@ -189,7 +194,12 @@
 		{
 			"name": "Hitori no Shita: The Outcast 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/88698.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hugtto! Precure",
@@ -346,7 +356,12 @@
 		{
 			"name": "Pop Team Epic",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/85096.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ramen Daisuki Koizumi-san",
