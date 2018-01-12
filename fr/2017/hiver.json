@@ -149,7 +149,12 @@
 		{
 			"name": "Gintama. Gin no Tamashii-hen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89603.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Grancrest Senki",
@@ -184,12 +189,22 @@
 		{
 			"name": "Hakyuu Houshin Engi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/88796.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hataraku Onii-san!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/88930.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hitori no Shita: The Outcast 2",
@@ -229,7 +244,12 @@
 		{
 			"name": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/89222.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Karakai Jouzu no Takagi-san",
@@ -255,19 +275,38 @@
 			"name": "Koi wa Ameagari no You ni",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/88808.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Kokkoku",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89076.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
 					"status": "planned",
 					"detail": [{
 						"name": "Houkago Fansub"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Kodoku no Kawarini"
 					}]
 				},
 				{
@@ -332,11 +371,18 @@
 			"name": "Nanatsu no Taizai: Imashime no Fukkatsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/88338.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Netflix"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Netflix"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Overlord II",
@@ -391,7 +437,12 @@
 		{
 			"name": "Sanrio Danshi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/87520.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Shinkansen Henkei Robo Shinkalion",
@@ -457,7 +508,13 @@
 			"name": "Violet Evergarden",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/89551.jpg",
 			"group": [{
-					"status": "incertain",
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
+					"status": "uncertain",
 					"detail": [{
 						"name": "Houkago Fansub"
 					}]
@@ -473,7 +530,12 @@
 		{
 			"name": "Yowamushi Pedal: Glory Line",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/88489.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Yuru Camp△",
