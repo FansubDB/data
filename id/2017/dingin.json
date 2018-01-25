@@ -6,6 +6,29 @@
 	"lbl_ova": "OVA/ONA/Special",
 	"lbl_movie": "Film",
 	"tv": [{
+			"name": "25-sai no Joshikousei",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89091.jpg",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kazefuri"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NekoPoi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NinkiSubs"
+					}]
+				}
+			]
+		},
+		{
 			"name": "Basilisk: Ouka Ninpouchou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/88384.jpg",
 			"group": [{
@@ -19,15 +42,18 @@
 			"name": "Citrus",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89559.jpg",
 			"group": [{
-				"status": "planned",
-				"detail": [{
+					"status": "planned",
+					"detail": [{
 						"name": "Kuroyuri"
-					},
-					{
+					}]
+				},
+				{
+					"status": "planned",
+					"detail": [{
 						"name": "Melody"
-					}
-				]
-			}]
+					}]
+				}
+			]
 		},
 		{
 			"name": "Dagashi Kashi 2",
