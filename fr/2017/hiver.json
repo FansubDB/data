@@ -281,6 +281,12 @@
 					}]
 				},
 				{
+					"status": "release",
+					"detail": [{
+						"name": "Subarashii no Fansub"
+					}]
+				},
+				{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Amazon Prime"
@@ -432,7 +438,23 @@
 		{
 			"name": "Saiki Kusuo no Ψ-nan 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/89348.jpg",
-			"group": []
+			"group": [{
+					"status": "release",
+					"detail": [{
+							"name": "Owlolf Fansub"
+						},
+						{
+							"name": "Yarashii Fansub"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Wislez-Fansub"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Sanrio Danshi",
