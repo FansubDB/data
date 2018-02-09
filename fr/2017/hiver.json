@@ -24,11 +24,30 @@
 			"name": "Beatless",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/89322.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Natsumi no Sekai"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shining Prism"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shuriken-Fansub"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Cardcaptor Sakura: Clear Card-hen",
@@ -94,6 +113,12 @@
 			"name": "Fate/Extra: Last Encore",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/83621.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "Natsumi no Sekai"
@@ -261,11 +286,18 @@
 			"name": "Killing Bites",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/89312.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Shining Prism"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Koi wa Ameagari no You ni",
@@ -275,6 +307,16 @@
 					"detail": [{
 						"name": "Despair-Paradise"
 					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Family Desuyo"
+						},
+						{
+							"name": "Mangakas Fansub"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -367,7 +409,12 @@
 		{
 			"name": "Nanatsu no Bitoku",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/89129.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Onii-ChanSub"
+				}]
+			}]
 		},
 		{
 			"name": "Nanatsu no Taizai: Imashime no Fukkatsu",
@@ -529,12 +576,6 @@
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
-					}]
-				},
-				{
-					"status": "uncertain",
-					"detail": [{
-						"name": "Houkago Fansub"
 					}]
 				},
 				{
