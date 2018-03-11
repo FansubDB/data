@@ -1227,7 +1227,7 @@
 					}]
 				},
 				{
-					"status": "Simulcast",
+					"status": "simulcast",
 					"detail": [{
 						"name": "The Playstation Network"
 					}]
