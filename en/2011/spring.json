@@ -1190,55 +1190,50 @@
 		}
 	],
 	"ova": [{
-		"name": "Kämpfer für die Liebe",
-		"image": "https://myanimelist.cdn-dena.com/images/anime/2/29811.jpg",
-		"group": [{
+			"name": "Kämpfer für die Liebe",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/29811.jpg",
+			"group": [{
 				"status": "release",
 				"detail": [{
 					"name": "UTW"
 				}]
-			},
-			{
-				"name": "Mobile Suit Gundam Unicorn",
-				"image": "https://myanimelist.cdn-dena.com/images/anime/12/50459.jpg",
-				"group": [{
-						"status": "release",
-						"detail": [{
-							"name": "animeload"
-						}]
-					},
-					{
-						"status": "release",
-						"detail": [{
-							"name": "BSS"
-						}]
-					},
-					{
-						"status": "release",
-						"detail": [{
-							"name": "CoalGirls"
-						}]
-					},
-					{
-						"status": "release",
-						"detail": [{
-							"name": "TV-Japan"
-						}]
-					},
-					{
-						"status": "Simulcast",
-						"detail": [{
-							"name": "The Playstation Network"
-						}]
-					}
-				]
-			},
-			{
-				"name": "Shimanchu MiRiKa",
-				"image": "https://myanimelist.cdn-dena.com/images/anime/6/28586.jpg",
-				"group": []
-			}
-		]
-	}],
+			}]
+		},
+		{
+			"name": "Mobile Suit Gundam Unicorn",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/50459.jpg",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "animeload"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "BSS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "CoalGirls"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "TV-Japan"
+					}]
+				},
+				{
+					"status": "Simulcast",
+					"detail": [{
+						"name": "The Playstation Network"
+					}]
+				}
+			]
+		}
+	],
 	"movie": []
 }
