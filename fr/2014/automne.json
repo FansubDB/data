@@ -11,15 +11,13 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Ekstasy Family",
-						"url": "http://www.ekstasy-family.com"
+						"name": "Ekstasy Family"
 					}]
 				},
 				{
 					"status": "dropped",
 					"detail": [{
-						"name": "Glandeur Nature",
-						"url": "http://glandeur-nature.fr"
+						"name": "Glandeur Nature"
 					}]
 				}
 			]
@@ -35,8 +33,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Bloody no Yume",
-						"url": "http://www.bloody-no-yume.com"
+						"name": "Bloody no Yume"
 					}]
 				},
 				{
@@ -53,8 +50,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-							"name": "Glandeur Nature",
-							"url": "http://glandeur-nature.fr"
+							"name": "Glandeur Nature"
 						},
 						{
 							"name": "Manga Family"
@@ -106,8 +102,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Imaginary-Fansub",
-						"url": "https://imaginaryfansub.wordpress.com/"
+						"name": "Imaginary-Fansub"
 					}]
 				},
 				{
@@ -188,8 +183,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-paradise.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -257,8 +251,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Bloody no Yume",
-						"url": "http://www.bloody-no-yume.com"
+						"name": "Bloody no Yume"
 					}]
 				},
 				{
@@ -316,8 +309,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-paradise.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -417,8 +409,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-							"name": "Despair-Paradise",
-							"url": "http://despair-paradise.com"
+							"name": "Despair-Paradise"
 						},
 						{
 							"name": "Houkago Fansub"
@@ -473,8 +464,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Space Fansub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Fansub"
 					}]
 				},
 				{
@@ -572,8 +562,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Space Ripsub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Ripsub"
 					}]
 				},
 				{
@@ -876,8 +865,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Space Ripsub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Ripsub"
 					}]
 				},
 				{
@@ -906,8 +894,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-paradise.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -942,8 +929,7 @@
 				{
 					"status": "dropped",
 					"detail": [{
-						"name": "Glandeur Nature",
-						"url": "http://glandeur-nature.fr"
+						"name": "Glandeur Nature"
 					}]
 				},
 				{
@@ -1001,12 +987,10 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-							"name": "Bloody no Yume",
-							"url": "http://www.bloody-no-yume.com"
+							"name": "Bloody no Yume"
 						},
 						{
-							"name": "Ekstasy Family",
-							"url": "http://www.ekstasy-family.com"
+							"name": "Ekstasy Family"
 						}
 					]
 				},
