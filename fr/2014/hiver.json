@@ -56,8 +56,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Space Ripsub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Ripsub"
 					}]
 				},
 				{
@@ -209,15 +208,13 @@
 			"group": [{
 					"status": "dropped",
 					"detail": [{
-						"name": "Bloody no Yume",
-						"url": "http://www.bloody-no-yume.com"
+						"name": "Bloody no Yume"
 					}]
 				},
 				{
 					"status": "release",
 					"detail": [{
-							"name": "Imaginary-Fansub",
-							"url": "https://imaginaryfansub.wordpress.com/"
+							"name": "Imaginary-Fansub"
 						},
 						{
 							"name": "Neurose-Fansub"
@@ -317,8 +314,7 @@
 							"name": "Akai-Kiseki"
 						},
 						{
-							"name": "Imaginary-Fansub",
-							"url": "https://imaginaryfansub.wordpress.com/"
+							"name": "Imaginary-Fansub"
 						},
 						{
 							"name": "Manga Family"
@@ -362,8 +358,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-							"name": "Despair-Paradise",
-							"url": "http://despair-paradise.com"
+							"name": "Despair-Paradise"
 						},
 						{
 							"name": "Houkago Fansub"
@@ -526,8 +521,7 @@
 							"name": "Akai-Kiseki"
 						},
 						{
-							"name": "Imaginary-Fansub",
-							"url": "https://imaginaryfansub.wordpress.com/"
+							"name": "Imaginary-Fansub"
 						}
 					]
 				},
@@ -616,8 +610,7 @@
 			"group": [{
 				"status": "release",
 				"detail": [{
-						"name": "Ekstasy Family",
-						"url": "http://www.ekstasy-family.com"
+						"name": "Ekstasy Family"
 					},
 					{
 						"name": "WESSO-Traduction"
@@ -669,8 +662,7 @@
 				{
 					"status": "dropped",
 					"detail": [{
-						"name": "Ekstasy Family",
-						"url": "http://www.ekstasy-family.com"
+						"name": "Ekstasy Family"
 					}]
 				}
 			]
