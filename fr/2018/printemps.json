@@ -248,7 +248,12 @@
 		{
 			"name": "Persona 5 the Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89645.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Piano no Mori",
@@ -293,7 +298,12 @@
 		{
 			"name": "Sword Art Online Alternative: Gun Gale Online",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1788/90355.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Tachibana-kan to Lie Angle",
