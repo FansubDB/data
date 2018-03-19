@@ -86,15 +86,13 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Bloody no Yume",
-						"url": "http://www.bloody-no-yume.com"
+						"name": "Bloody no Yume"
 					}]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-paradise.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -126,8 +124,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-paradise.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -313,8 +310,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-paradise.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -569,8 +565,7 @@
 			"group": [{
 					"status": "dropped",
 					"detail": [{
-						"name": "Ekstasy Family",
-						"url": "http://www.ekstasy-family.com"
+						"name": "Ekstasy Family"
 					}]
 				},
 				{
@@ -674,8 +669,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Space Fansub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Fansub"
 					}]
 				},
 				{
@@ -739,15 +733,13 @@
 			"group": [{
 					"status": "dropped",
 					"detail": [{
-						"name": "Ekstasy Family",
-						"url": "http://www.ekstasy-family.com"
+						"name": "Ekstasy Family"
 					}]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Space Ripsub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Ripsub"
 					}]
 				},
 				{
