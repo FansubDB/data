@@ -130,8 +130,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Miku-Fansub",
-						"url": "http://miku-fansub.fr/"
+						"name": "Miku-Fansub"
 					}]
 				},
 				{
@@ -755,8 +754,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-paradise.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -807,8 +805,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Miku-Fansub",
-						"url": "http://miku-fansub.fr/"
+						"name": "Miku-Fansub"
 					}]
 				},
 				{
