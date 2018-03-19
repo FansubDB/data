@@ -6,12 +6,356 @@
 	"lbl_ova": "OVA/ONA/Special",
 	"lbl_movie": "Movies",
 	"tv": [{
-			"name": "Name",
+			"name": "Arcana Famiglia",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NyanTaku"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "Whine-Subs"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Binbougami ga!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Campione!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Chitose Get You!!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "CMS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EveTaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hybrid-Subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WinTeam"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Chouyaku Hyakunin Isshu: Uta Koi",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Dakara Boku wa, H ga Dekinai.",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Anime-Koi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Gotwoot"
+						},
+						{
+							"name": "Hiryuu"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shikkaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SubDESU"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Dog Days&apos;",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Interrobang"
+						},
+						{
+							"name": "FFF"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Himatsubushi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Ebiten: Kouritsu Ebi Sugawa Koukou Tenmonbu",
 			"image": "",
 			"group": [{
 				"status": "release",
 				"detail": [{
-					"name": "Groups"
+					"name": "Staircase"
+				}]
+			}]
+		},
+		{
+			"name": "Hagure Yuusha no Estetica",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "CTSS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SubDESU"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Hakuouki: Reimei-roku",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Ruri"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tsuki"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Jinrui wa Suitai Shimashita",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Joshiraku",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "gg"
 				}]
 			}]
 		},
@@ -27,7 +371,320 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Hadena Simulcast: FUNimation"
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Koi to Senkyo to Chocolate",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "AniBlaze"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "FFF"
+						},
+						{
+							"name": "rori"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "m.3.3.w"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Sigh"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SubDESU"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kokoro Connect",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+							"name": "Chihiro"
+						},
+						{
+							"name": "Doki"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Oyatsu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "rori"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kono Naka ni Hitori, Imouto ga Iru!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+							"name": "AFFTW"
+						},
+						{
+							"name": "Hatsuyuki"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kyou no Asuka Show",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Migoto"
+				}]
+			}]
+		},
+		{
+			"name": "Kyoukai Senjou no Horizon II",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatena"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Choco"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EveTaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "m.3.3.w"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Moyashimon Returns 2nd Season",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "GotWoot"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Static-Subs"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Muv-Luv Alternative: Total Eclipse",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Warui"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Natsuyuki Rendezvous",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Taka"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Warui"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Oda Nobuna no Yabou",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
@@ -44,10 +701,103 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Underwater Simulcast: Viz Media via Hulu"
+						"name": "Underwater"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Hulu"
 					}]
 				}
 			]
+		},
+		{
+			"name": "Robin-kun to 100 nin no Otomodachi 2",
+			"image": "",
+			"group": []
+		},
+		{
+			"name": "Sword Art Online",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Cynic"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Derp"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "EC"
+						},
+						{
+							"name": "Sigh"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "GotWoot"
+						},
+						{
+							"name": "UTW"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NyanTaku"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Tanken Driland",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "sage"
+				}]
+			}]
+		},
+		{
+			"name": "Tantei Opera Milky Holmes Alternative One ~Kobayashi Opera to 5-Mai no Kaiga~",
+			"image": "",
+			"group": []
 		},
 		{
 			"name": "Tari Tari",
@@ -85,149 +835,19 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Underwater Simulcast: Crunchyroll (0.5 days late)"
+						"name": "Underwater"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
-			"name": "Arcana Famiglia",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Doki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hatsuyuki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "NyanTaku"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Whine-Subs Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Jinrui wa Suitai Shimashita",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Asenshi"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Doki Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Chitose Get You!!",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "CMS"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "EveTaku"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hybrid-Subs"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "WinTeam Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Muv-Luv Alternative: Total Eclipse",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Warui Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Chouyaku Hyakunin Isshu: Uta Koi",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "WhyNot Simulcast: Crunchyroll"
-				}]
-			}]
-		},
-		{
-			"name": "Yurumates 3D + 2nd Season",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "Simulcast: Crunchyroll"
-				}]
-			}]
-		},
-		{
-			"name": "Yuru Yuri 2 2nd Season",
+			"name": "Yuru Yuri 2",
 			"image": "",
 			"group": [{
 					"status": "release",
@@ -268,515 +888,24 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Tonde Simulcast: Crunchyroll"
+						"name": "Tonde"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
-			"name": "Binbougami ga!",
+			"name": "Yurumates 3D +",
 			"image": "",
 			"group": [{
-				"status": "release",
+				"status": "simulcast",
 				"detail": [{
-					"name": "gg Simulcast: FUNimation (2 days late)"
-				}]
-			}]
-		},
-		{
-			"name": "Moyashimon Returns 2nd Season",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "GotWoot"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Static-Subs"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "gg Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Natsuyuki Rendezvous",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Taka"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Warui"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "WhyNot Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Koi to Senkyo to Chocolate",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "AniBlaze"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Doki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "FFF-rori (Pomf)"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "m.3.3.w"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Sigh"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "SubDESU"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "WhyNot"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Kono Naka ni Hitori, Imouto ga Iru!",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "AFFTW-Hatsuyuki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Doki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "UTW Simulcast: Crunchyroll (1.5 days late)"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Joshiraku",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "gg"
-				}]
-			}]
-		},
-		{
-			"name": "Hagure Yuusha no Estetica",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "CTSS"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "SubDESU Simulcast: FUNimation (4 days late)"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Dakara Boku wa, H ga Dekinai.",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Anime-Koi"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "FFF"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Gotwoot-Hiryuu (Gotyuu)"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Shikkaku"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "SubDESU Simulcast: Crunchyroll (9 days late)"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Campione!",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "FFF"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Tsuki? Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Robin-kun to 100 nin no Otomodachi 2",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "DATS"
-				}]
-			}]
-		},
-		{
-			"name": "Tanken Driland",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "sage"
-				}]
-			}]
-		},
-		{
-			"name": "Dog Days' 2nd Season",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Doki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "FFF-Interrobang (FBI)"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Himatsubushi"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hiryuu Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Sword Art Online",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Cynic"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Derp"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "EC-Sigh"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hatsuyuki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "NyanTaku"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "UTW-GotWoot (UTWoots) Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Kokoro Connect",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Doki-Chihiro"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Oyatsu"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "rori Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Kyoukai Senjou no Horizon II 2nd Season",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hatena Simulcast: Crunchyroll (3 days late)"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Oda Nobuna no Yabou",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "FFF Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Hakuouki: Reimei-roku",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Ruri"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Tsuki Simulcast: Crunchyroll (1 day late)"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Ebiten: Kouritsu Ebi Sugawa Koukou Tenmonbu",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Staircase"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Nantodemo?"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Choco"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "EveTaku"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "m.3.3.w"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Kyou no Asuka Show",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "Migoto"
-				}]
-			}]
-		},
-		{
-			"name": "Tantei Opera Milky Holmes Alternative One ~Kobayashi Opera to 5-Mai no Kaiga~",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "Kiteseekers-Wasurenai"
+					"name": "Crunchyroll"
 				}]
 			}]
 		}
