@@ -21,8 +21,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-anime.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -40,8 +39,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Space Fansub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Fansub"
 					}]
 				},
 				{
@@ -85,8 +83,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-anime.com"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
@@ -264,15 +261,13 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Despair-Paradise",
-						"url": "http://despair-anime.com/"
+						"name": "Despair-Paradise"
 					}]
 				},
 				{
 					"status": "dropped",
 					"detail": [{
-						"name": "Space Fansub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Fansub"
 					}]
 				},
 				{
@@ -505,8 +500,7 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Space Ripsub",
-						"url": "http://www.la-space.ch"
+						"name": "Space Ripsub"
 					}]
 				},
 				{
