@@ -1,0 +1,174 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "BE CAREFUL: This is not an API.\nOur website hosts JSON files to load our HTML files content.",
+    "title": "FansubDB API",
+    "version": "2.0",
+    "contact": {
+      "email": "fansubdb@mail-me.com"
+    },
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  "host": "fansubdb.github.io",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "data",
+      "description": "Consult the data of our website"
+    }
+  ],
+  "schemes": [
+    "https"
+  ],
+  "paths": {
+    "/data/lang.json": {
+      "get": {
+        "tags": [
+          "data"
+        ],
+        "summary": "Have the different languages that our website hosts",
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Languages"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/{lang}/list.json": {
+      "get": {
+        "tags": [
+          "data"
+        ],
+        "summary": "Finds Pets by tags",
+        "description": "",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "lang",
+            "in": "path",
+            "description": "ID of pet to update",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "schema": {
+              "$ref": "#/definitions/Language"
+            }
+          },
+          "404": {
+            "description": "Invalid tag value"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Languages": {
+      "type": "object",
+      "properties": {
+        "lang": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "flag": {
+          "type": "string"
+        },
+        "view-page": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "index": {
+          "type": "string"
+        }
+      }
+    },
+    "Language": {
+      "type": "object",
+      "properties": {
+        "data": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Year"
+          }
+        },
+        "msg": {
+          "type": "string"
+        },
+        "msg_season": {
+          "type": "string"
+        },
+        "msg_year": {
+          "type": "string"
+        },
+        "msg_all": {
+          "type": "string"
+        }
+      }
+    },
+    "Year": {
+      "type": "object",
+      "properties": {
+        "year": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "seasons": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Season"
+          }
+        }
+      }
+    },
+    "Season": {
+      "type": "object",
+      "properties": {
+        "season": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      }
+    },
+    "Category": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "xml": {
+        "name": "Category"
+      }
+    }
+  }
+}
