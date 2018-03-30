@@ -123,7 +123,12 @@
 		{
 			"name": "Golden Kamuy",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1145/90880.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Gundam Build Divers",
@@ -338,7 +343,12 @@
 		{
 			"name": "Steins;Gate 0",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1031/90444.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Sword Art Online Alternative: Gun Gale Online",
