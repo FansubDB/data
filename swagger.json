@@ -42,6 +42,9 @@
                 "$ref": "#/definitions/Languages"
               }
             }
+          },
+          "404": {
+            "description": "Not found"
           }
         }
       }
@@ -51,7 +54,7 @@
         "tags": [
           "data"
         ],
-        "summary": "Finds Pets by tags",
+        "summary": "Have the different seasons for a language that our website hosts",
         "description": "",
         "produces": [
           "application/json"
@@ -60,7 +63,7 @@
           {
             "name": "lang",
             "in": "path",
-            "description": "ID of pet to update",
+            "description": "the lang value",
             "required": true,
             "type": "string"
           }
@@ -73,7 +76,53 @@
             }
           },
           "404": {
-            "description": "Invalid tag value"
+            "description": "Not found"
+          }
+        }
+      }
+    },
+    "/data/{lang}/{year}/{season}.json": {
+      "get": {
+        "tags": [
+          "data"
+        ],
+        "summary": "Have the season detail of subbing group for a language that our website hosts",
+        "description": "",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "lang",
+            "in": "path",
+            "description": "the lang value",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "in": "path",
+            "description": "the year value",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "name": "season",
+            "in": "path",
+            "description": "the season value",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "schema": {
+              "$ref": "#/definitions/AnimeoftheSeason"
+            }
+          },
+          "404": {
+            "description": "Not found"
           }
         }
       }
@@ -155,19 +204,72 @@
         }
       }
     },
-    "Category": {
+    "AnimeoftheSeason": {
       "type": "object",
       "properties": {
-        "id": {
-          "type": "integer",
-          "format": "int64"
+        "name": {
+          "type": "string"
         },
+        "group": {
+          "type": "string"
+        },
+        "message": {
+          "type": "string"
+        },
+        "lbl_tv": {
+          "type": "string"
+        },
+        "lbl_ova": {
+          "type": "string"
+        },
+        "lbl_movie": {
+          "type": "string"
+        },
+        "tv": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Anime"
+          }
+        }
+      }
+    },
+    "Anime": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string"
+        },
+        "group": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Release"
+          }
+        }
+      }
+    },
+    "Release": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string"
+        },
+        "detail": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Group"
+          }
+        }
+      }
+    },
+    "Group": {
+      "type": "object",
+      "properties": {
         "name": {
           "type": "string"
         }
-      },
-      "xml": {
-        "name": "Category"
       }
     }
   }
