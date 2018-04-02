@@ -113,12 +113,29 @@
 		{
 			"name": "Gegege no Kitarou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1552/90621.jpg",
-			"group": []
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Miracle Sharingan Fansub"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/87834.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Golden Kamuy",
@@ -183,7 +200,12 @@
 		{
 			"name": "Juushinki Pandora",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1901/90499.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Despair-Paradise"
+				}]
+			}]
 		},
 		{
 			"name": "Kakuriyo no Yadomeshi",
@@ -238,12 +260,22 @@
 		{
 			"name": "Mahou Shoujo Ore",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/89765.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mahou Shoujo Site",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1456/90843.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Major 2nd",
@@ -413,7 +445,19 @@
 		{
 			"name": "Wotaku ni Koi wa Muzukashii",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1545/90922.jpg",
-			"group": []
+			"group": [{
+					"status": "planned",
+					"detail": [{
+						"name": "Natsumi no Sekai"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Youkai Watch: Shadow Side",
