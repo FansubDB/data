@@ -230,6 +230,18 @@
           "items": {
             "$ref": "#/definitions/Anime"
           }
+        },
+        "ova": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Anime"
+          }
+        },
+        "movie": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Anime"
+          }
         }
       }
     },
