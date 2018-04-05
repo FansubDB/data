@@ -7,7 +7,7 @@
 	"lbl_movie": "Movies",
 	"tv": [{
 			"name": "Arcana Famiglia",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/39495.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -54,7 +54,7 @@
 		},
 		{
 			"name": "Binbougami ga!",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/39333.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -70,8 +70,8 @@
 			]
 		},
 		{
-			"name": "Campione!",
-			"image": "",
+			"name": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/75662.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -100,7 +100,7 @@
 		},
 		{
 			"name": "Chitose Get You!!",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/50537.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -134,8 +134,8 @@
 			]
 		},
 		{
-			"name": "Chouyaku Hyakunin Isshu: Uta Koi",
-			"image": "",
+			"name": "Chouyaku Hyakuninisshu: Uta Koi.",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/42007.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Dakara Boku wa, H ga Dekinai.",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/75102.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -203,7 +203,7 @@
 		},
 		{
 			"name": "Dog Days&apos;",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/42105.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -253,18 +253,8 @@
 			]
 		},
 		{
-			"name": "Ebiten: Kouritsu Ebi Sugawa Koukou Tenmonbu",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "Staircase"
-				}]
-			}]
-		},
-		{
-			"name": "Hagure Yuusha no Estetica",
-			"image": "",
+			"name": "Hagure Yuusha no Aesthetica",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/74047.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -298,8 +288,8 @@
 			]
 		},
 		{
-			"name": "Hakuouki: Reimei-roku",
-			"image": "",
+			"name": "Hakuouki Reimeiroku",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/71798.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -322,7 +312,7 @@
 		},
 		{
 			"name": "Jinrui wa Suitai Shimashita",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/45704.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -351,7 +341,7 @@
 		},
 		{
 			"name": "Joshiraku",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/48925.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
@@ -361,7 +351,7 @@
 		},
 		{
 			"name": "Kingdom",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/39511.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -384,7 +374,7 @@
 		},
 		{
 			"name": "Koi to Senkyo to Chocolate",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/42015.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -441,7 +431,7 @@
 		},
 		{
 			"name": "Kokoro Connect",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/39665.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -480,7 +470,7 @@
 		},
 		{
 			"name": "Kono Naka ni Hitori, Imouto ga Iru!",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/75534.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -512,18 +502,8 @@
 			]
 		},
 		{
-			"name": "Kyou no Asuka Show",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "Migoto"
-				}]
-			}]
-		},
-		{
-			"name": "Kyoukai Senjou no Horizon II",
-			"image": "",
+			"name": "Kyoukaisenjou no Horizon II",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/38227.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -546,7 +526,7 @@
 		},
 		{
 			"name": "Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/39693.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -568,8 +548,8 @@
 			]
 		},
 		{
-			"name": "Moyashimon Returns 2nd Season",
-			"image": "",
+			"name": "Moyashimon Returns",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/39775.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -604,7 +584,7 @@
 		},
 		{
 			"name": "Muv-Luv Alternative: Total Eclipse",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/44462.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -633,7 +613,7 @@
 		},
 		{
 			"name": "Natsuyuki Rendezvous",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/38181.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -668,7 +648,7 @@
 		},
 		{
 			"name": "Oda Nobuna no Yabou",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/39249.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -690,8 +670,8 @@
 			]
 		},
 		{
-			"name": "Rinne no Lagrange Season 2 2nd Season",
-			"image": "",
+			"name": "Rinne no Lagrange Season 2",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/39321.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -713,13 +693,8 @@
 			]
 		},
 		{
-			"name": "Robin-kun to 100 nin no Otomodachi 2",
-			"image": "",
-			"group": []
-		},
-		{
 			"name": "Sword Art Online",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -786,7 +761,7 @@
 		},
 		{
 			"name": "Tanken Driland",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/39357.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
@@ -795,18 +770,17 @@
 			}]
 		},
 		{
-			"name": "Tantei Opera Milky Holmes Alternative One ~Kobayashi Opera to 5-Mai no Kaiga~",
-			"image": "",
-			"group": []
-		},
-		{
 			"name": "Tari Tari",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83575.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "AnimeTL-Broken"
-					}]
+							"name": "AnimeTL"
+						},
+						{
+							"name": "Broken"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -847,8 +821,8 @@
 			]
 		},
 		{
-			"name": "Yuru Yuri 2",
-			"image": "",
+			"name": "Yuru Yuri♪♪",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/75174.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -900,12 +874,33 @@
 			]
 		},
 		{
-			"name": "Yurumates 3D +",
-			"image": "",
+			"name": "Yurumates 3D Plus",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/40001.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
+				}]
+			}]
+		}
+	],
+	"ova": [{
+			"name": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/75842.jpg",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Staircase"
+				}]
+			}]
+		},
+		{
+			"name": "Kyou no Asuka Show",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/77066.jpg",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Migoto"
 				}]
 			}]
 		}
