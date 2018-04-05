@@ -33,7 +33,12 @@
 		{
 			"name": "Amanchu! Advance",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1971/90778.jpg",
-			"group": []
+			"group": [{
+				"status": "planned",
+				"detail": [{
+					"name": "Mangakas Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Beyblade Burst Chouzetsu",
@@ -78,7 +83,12 @@
 		{
 			"name": "Comic Girls",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1148/90325.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Cutie Honey Universe",
@@ -150,7 +160,12 @@
 		{
 			"name": "Gundam Build Divers",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1701/90388.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Gurazeni",
@@ -170,7 +185,12 @@
 		{
 			"name": "Hinamatsuri",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89044.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hisone to Masotan",
