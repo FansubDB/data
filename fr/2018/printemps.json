@@ -8,7 +8,16 @@
 	"tv": [{
 			"name": "3D Kanojo: Real Girl",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1806/90190.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+						"name": "Kodoku no Kawarini"
+					},
+					{
+						"name": "Natsumi no Sekai"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Aikatsu Friends!",
@@ -18,7 +27,12 @@
 		{
 			"name": "Akkun to Kanojo",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1404/90601.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Alice or Alice",
@@ -195,7 +209,12 @@
 		{
 			"name": "Hisone to Masotan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1088/90505.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Hoozuki no Reitetsu 2nd Season Part II",
@@ -265,7 +284,12 @@
 		{
 			"name": "Lostorage conflated WIXOSS",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1558/90899.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Lost Song",
@@ -275,7 +299,12 @@
 		{
 			"name": "Lupin the Third: Part 5",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/90099.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Mahou Shoujo Ore",
@@ -291,16 +320,28 @@
 			"name": "Mahou Shoujo Site",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1456/90843.jpg",
 			"group": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Major 2nd",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1066/90145.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Megalo Box",
@@ -325,12 +366,22 @@
 		{
 			"name": "Nobunaga no Shinobi: Anegawa Ishiyama-hen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/90105.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Omae wa Mada Gunma wo Shiranai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1433/90426.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Persona 5 the Animation",
@@ -450,7 +501,12 @@
 		{
 			"name": "Uma Musume: Pretty Derby",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/89475.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Xtrem_Fansubs"
+				}]
+			}]
 		},
 		{
 			"name": "Usagi no Mathew",
