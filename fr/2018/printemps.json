@@ -9,15 +9,22 @@
 			"name": "3D Kanojo: Real Girl",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1806/90190.jpg",
 			"group": [{
-				"status": "release",
-				"detail": [{
-						"name": "Kodoku no Kawarini"
-					},
-					{
-						"name": "Natsumi no Sekai"
-					}
-				]
-			}]
+					"status": "release",
+					"detail": [{
+							"name": "Kodoku no Kawarini"
+						},
+						{
+							"name": "Natsumi no Sekai"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shining Prism"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Aikatsu Friends!",
@@ -67,7 +74,12 @@
 		{
 			"name": "Binan Koukou Chikyuu Bouei-bu Happy Kiss!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1109/90797.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Boku no Hero Academia 3rd Season",
@@ -82,12 +94,22 @@
 		{
 			"name": "Butlers: Chitose Momotose Monogatari",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1226/90632.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Caligula",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1196/90748.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Captain Tsubasa (2018)",
@@ -127,7 +149,12 @@
 		{
 			"name": "Dorei-ku The Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1801/90264.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Full Metal Panic! Invisible Victory",
@@ -234,12 +261,22 @@
 		{
 			"name": "Inazuma Eleven: Ares no Tenbin",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1188/90223.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Escadron des Cinefils"
+				}]
+			}]
 		},
 		{
 			"name": "Jikken-hin Kazoku: Creatures Family Days",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/88806.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Miaou Subs"
+				}]
+			}]
 		},
 		{
 			"name": "Juushinki Pandora",
@@ -264,7 +301,12 @@
 		{
 			"name": "Koneko no Chii Ponpora Dairyokou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1019/90915.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Kuroneko Monroe",
@@ -284,7 +326,23 @@
 		{
 			"name": "Layton Mystery Tanteisha: Katri no Nazotoki File",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1115/90222.jpg",
-			"group": []
+			"group": [{
+					"status": "release",
+					"detail": [{
+							"name": "Arcadios"
+						},
+						{
+							"name": "Escadron des Cinefils"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "D3T3R10R1TY"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Lostorage conflated WIXOSS",
@@ -366,7 +424,12 @@
 		{
 			"name": "Nil Admirari no Tenbin",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/87560.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Nobunaga no Shinobi: Anegawa Ishiyama-hen",
@@ -401,7 +464,19 @@
 		{
 			"name": "Piano no Mori",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1184/90334.jpg",
-			"group": []
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Escadron des Cinefils"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Netflix"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Puzzle & Dragon",
@@ -526,12 +601,23 @@
 		{
 			"name": "Waka Okami wa Shougakusei!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1416/90904.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Escadron des Cinefils"
+				}]
+			}]
 		},
 		{
 			"name": "Wotaku ni Koi wa Muzukashii",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1545/90922.jpg",
 			"group": [{
+					"status": "planned",
+					"detail": [{
+						"name": "Miaou Subs"
+					}]
+				},
+				{
 					"status": "planned",
 					"detail": [{
 						"name": "Natsumi no Sekai"
