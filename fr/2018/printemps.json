@@ -159,7 +159,19 @@
 		{
 			"name": "Full Metal Panic! Invisible Victory",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/88584.jpg",
-			"group": []
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
+					"status": "planned",
+					"detail": [{
+						"name": "Yarashii Fansub"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Fumikiri Jikan",
@@ -242,11 +254,18 @@
 			"name": "Hisone to Masotan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1088/90505.jpg",
 			"group": [{
-				"status": "simulcast uncertain",
-				"detail": [{
-					"name": "Netflix"
-				}]
-			}]
+					"status": "planned",
+					"detail": [{
+						"name": "Houkago Fansub"
+					}]
+				},
+				{
+					"status": "simulcast uncertain",
+					"detail": [{
+						"name": "Netflix"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Hoozuki no Reitetsu 2nd Season Part II",
@@ -329,6 +348,12 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
+						"name": "Ai no Senshi Fansub"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
 							"name": "Arcadios"
 						},
 						{
@@ -386,6 +411,12 @@
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Kodoku no Kawarini"
 					}]
 				},
 				{
@@ -465,6 +496,12 @@
 			"name": "Piano no Mori",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1184/90334.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Despair-Paradise"
+					}]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "Escadron des Cinefils"
@@ -612,16 +649,14 @@
 			"name": "Wotaku ni Koi wa Muzukashii",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1545/90922.jpg",
 			"group": [{
-					"status": "planned",
+					"status": "release",
 					"detail": [{
-						"name": "Miaou Subs"
-					}]
-				},
-				{
-					"status": "planned",
-					"detail": [{
-						"name": "Natsumi no Sekai"
-					}]
+							"name": "Miaou Subs"
+						},
+						{
+							"name": "Natsumi no Sekai"
+						}
+					]
 				},
 				{
 					"status": "simulcast",
