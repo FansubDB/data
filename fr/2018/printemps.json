@@ -166,7 +166,13 @@
 					}]
 				},
 				{
-					"status": "planned",
+					"status": "release",
+					"detail": [{
+						"name": "Shuriken-Fansub"
+					}]
+				},
+				{
+					"status": "release",
 					"detail": [{
 						"name": "Yarashii Fansub"
 					}]
@@ -182,15 +188,15 @@
 			"name": "Gegege no Kitarou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1552/90621.jpg",
 			"group": [{
-					"status": "release",
+					"status": "simulcast",
 					"detail": [{
-						"name": "Miracle Sharingan Fansub"
+						"name": "Crunchyroll"
 					}]
 				},
 				{
 					"status": "simulcast",
 					"detail": [{
-						"name": "Crunchyroll"
+						"name": "Wakanim"
 					}]
 				}
 			]
@@ -254,13 +260,13 @@
 			"name": "Hisone to Masotan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1088/90505.jpg",
 			"group": [{
-					"status": "planned",
+					"status": "release",
 					"detail": [{
 						"name": "Houkago Fansub"
 					}]
 				},
 				{
-					"status": "simulcast uncertain",
+					"status": "simulcast",
 					"detail": [{
 						"name": "Netflix"
 					}]
@@ -283,7 +289,7 @@
 			"group": [{
 				"status": "release",
 				"detail": [{
-					"name": "Escadron des Cinefils"
+					"name": "SnowSubs"
 				}]
 			}]
 		},
@@ -301,7 +307,7 @@
 			"name": "Juushinki Pandora",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1901/90499.jpg",
 			"group": [{
-				"status": "release",
+				"status": "dropped",
 				"detail": [{
 					"name": "Despair-Paradise"
 				}]
@@ -354,17 +360,13 @@
 				{
 					"status": "release",
 					"detail": [{
-							"name": "Arcadios"
-						},
-						{
-							"name": "Escadron des Cinefils"
-						}
-					]
+						"name": "D3T3R10R1TY"
+					}]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "D3T3R10R1TY"
+						"name": "SnowSubs"
 					}]
 				}
 			]
@@ -417,6 +419,12 @@
 					"status": "release",
 					"detail": [{
 						"name": "Kodoku no Kawarini"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Onii-ChanSub"
 					}]
 				},
 				{
@@ -499,12 +507,6 @@
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Escadron des Cinefils"
 					}]
 				},
 				{
@@ -603,7 +605,12 @@
 		{
 			"name": "To Be Hero 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/89785.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Tokyo Ghoul:re",
@@ -641,7 +648,7 @@
 			"group": [{
 				"status": "release",
 				"detail": [{
-					"name": "Escadron des Cinefils"
+					"name": "SnowSubs"
 				}]
 			}]
 		},
@@ -657,6 +664,12 @@
 							"name": "Natsumi no Sekai"
 						}
 					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Subarashii no Fansub"
+					}]
 				},
 				{
 					"status": "simulcast",
