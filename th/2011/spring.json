@@ -1,14 +1,14 @@
 {
-	"name": "ชื่อ",
-	"group": "แฟนซับ",
-	"message": "ไม่ทราบข้อมูล",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/SP",
-	"lbl_movie": "Movie",
+	"name_lbl": "ชื่อ",
+	"group_lbl": "แฟนซับ",
+	"message_empty_list": "ไม่ทราบข้อมูล",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/SP",
+	"movie_lbl": "Movie",
 	"tv": [{
 		"name": "Dog Days",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/75378.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DAI-TAKU"
@@ -17,7 +17,7 @@
 	}, {
 		"name": "Pretty Rhythm: Aurora Dream - Prism Shougekijou",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/33291.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "MONNAPOP"
@@ -26,7 +26,7 @@
 	}, {
 		"name": "Qwaser of Stigmata II",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/75450.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Askura-sub"
@@ -35,7 +35,7 @@
 	}, {
 		"name": "Sket Dance",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/73974.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Anime@it-fs"
@@ -44,7 +44,7 @@
 	}, {
 		"name": "Steins;Gate",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/73199.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "SBSubs"

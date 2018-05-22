@@ -1,14 +1,14 @@
 {
-	"name": "ชื่อ",
-	"group": "แฟนซับ",
-	"message": "ไม่ทราบข้อมูล",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/SP",
-	"lbl_movie": "Movie",
+	"name_lbl": "ชื่อ",
+	"group_lbl": "แฟนซับ",
+	"message_empty_list": "ไม่ทราบข้อมูล",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/SP",
+	"movie_lbl": "Movie",
 	"tv": [{
 		"name": "Aiura",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/60699.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "AB-FS"
@@ -49,7 +49,7 @@
 	}, {
 		"name": "Aku no Hana",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/50559.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DAI-TAKU"
@@ -67,7 +67,7 @@
 	}, {
 		"name": "Arata Kangatari",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/47011.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -78,7 +78,7 @@
 	}, {
 		"name": "Blood Lad",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/47677.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "1MS"
@@ -126,7 +126,7 @@
 	}, {
 		"name": "Dansai Bunri no Crime Edge",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/52137.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Artstyle Fansub"
@@ -164,7 +164,7 @@
 	}, {
 		"name": "Date A Live",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/44844.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -252,7 +252,7 @@
 	}, {
 		"name": "Devil Survivor 2 The Animation",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/47191.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Bless"
@@ -296,7 +296,7 @@
 	}, {
 		"name": "Haiyore! Nyaruko-san W",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/47533.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -322,7 +322,7 @@
 	}, {
 		"name": "Hayate no Gotoku! Cuties",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/48953.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Anime@it-fs"
@@ -374,7 +374,7 @@
 	}, {
 		"name": "Hentai Ouji to Warawanai Neko",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/75788.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -499,7 +499,7 @@
 	}, {
 		"name": "Kakumeiki Valvrave",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/49251.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DAI-TAKU"
@@ -515,7 +515,7 @@
 	}, {
 		"name": "Karneval",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/46639.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -538,7 +538,7 @@
 	}, {
 		"name": "Ketsuekigata-kun!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/49273.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ASP-FS"
@@ -559,7 +559,7 @@
 	}, {
 		"name": "Mushibugyou",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/48827.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "InMyHeart-Fs"
@@ -568,7 +568,7 @@
 	}, {
 		"name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/24875.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CaliburnCouvert"
@@ -589,7 +589,7 @@
 	}, {
 		"name": "Photokano",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/49199.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CrimsonV-Fs"
@@ -625,7 +625,7 @@
 	}, {
 		"name": "RDG: Red Data Girl",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/50313.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chimera-fs"
@@ -651,7 +651,7 @@
 	}, {
 		"name": "Shingeki no Kyojin",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -724,7 +724,7 @@
 	}, {
 		"name": "Suisei no Gargantia",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/48817.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Hojui-FS"
@@ -750,7 +750,7 @@
 	}, {
 		"name": "Toaru Kagaku no Railgun",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/53581.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CaliburnCouvert"
@@ -786,7 +786,7 @@
 	}, {
 		"name": "Uta no☆Prince-sama♪ Maji Love 2000%",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/44019.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "KIRINA"
@@ -795,7 +795,7 @@
 	}, {
 		"name": "Yahari Ore no Seishun Love Come wa Machigatteiru",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/49459.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "A"
@@ -877,7 +877,7 @@
 	}, {
 		"name": "Yuyushiki",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/48747.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chimera-fs"
@@ -896,7 +896,7 @@
 	}, {
 		"name": "Zettai Bouei Leviathan",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/47499.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ZetsuChrist-FS"
@@ -907,7 +907,7 @@
 	"movie": [{
 		"name": "Kick-Heart",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/46509.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DAI-TAKU"

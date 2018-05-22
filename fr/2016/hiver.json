@@ -1,10 +1,10 @@
 {
-	"name": "nom",
-	"group": "groupe",
-	"message": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
-	"lbl_tv": "TV",
-	"lbl_ova": "OAV/ONA/Spéciaux",
-	"lbl_movie": "Films",
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
 	"tv": [{
 			"name": "6HP (Six Hearts Princess)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/72448.jpg",
@@ -13,7 +13,7 @@
 		{
 			"name": "ACCA 13-ku Kansatsu-ka",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/83776.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -23,7 +23,7 @@
 		{
 			"name": "Ai Mai Mii: Surgical Friends",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/83846.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -33,7 +33,7 @@
 		{
 			"name": "Akiba&apos;s Trip: The Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/83185.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -43,7 +43,7 @@
 		{
 			"name": "Ao no Exorcist: Kyoto Fujouou-hen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/85201.jpg",
-			"group": [{
+			"groups": [{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Anime Digital Network"
@@ -66,7 +66,7 @@
 		{
 			"name": "BanG Dream!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/82414.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -76,7 +76,7 @@
 		{
 			"name": "Chain Chronicle: Haecceitas no Hikari",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83740.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -86,7 +86,7 @@
 		{
 			"name": "ChäoS;Child",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/83805.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -96,7 +96,7 @@
 		{
 			"name": "Chiruran: Nibun no Ichi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/82948.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -111,7 +111,7 @@
 		{
 			"name": "Demi-chan wa Kataritai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/83417.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -121,7 +121,7 @@
 		{
 			"name": "ēlDLIVE",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/82348.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -131,7 +131,7 @@
 		{
 			"name": "Forest Fairy Five",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/83713.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -141,7 +141,7 @@
 		{
 			"name": "Fuuka",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/83735.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Despair-Paradise"
@@ -151,7 +151,7 @@
 		{
 			"name": "Gabriel Dropout",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/82590.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -166,7 +166,7 @@
 		{
 			"name": "Gintama.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/83132.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -176,7 +176,7 @@
 		{
 			"name": "Hand Shakers",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/83395.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -186,7 +186,7 @@
 		{
 			"name": "Idol Jihen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/81928.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -196,7 +196,7 @@
 		{
 			"name": "Kemono Friends",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/82509.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -211,7 +211,7 @@
 		{
 			"name": "Kobayashi-san Chi no Maid Dragon",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/85434.jpg",
-			"group": [{
+			"groups": [{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Crunchyroll"
@@ -233,7 +233,7 @@
 		{
 			"name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/83188.jpg",
-			"group": [{
+			"groups": [{
 				"status": "planned",
 				"detail": [{
 					"name": "Despair-Paradise"
@@ -243,7 +243,7 @@
 		{
 			"name": "Kuzu no Honkai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/83937.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Houkago Fansub"
@@ -264,7 +264,7 @@
 		{
 			"name": "Little Witch Academia (TV)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/83934.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "champagne_subs"
@@ -293,7 +293,7 @@
 		{
 			"name": "Marginal#4 Kiss Kara Tsukuru Big Bang",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83799.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -303,7 +303,7 @@
 		{
 			"name": "Masamune-kun no Revenge",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/83709.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -313,7 +313,7 @@
 		{
 			"name": "Minami Kamakura Koukou Joshi Jitensha-Bu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83345.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -328,7 +328,7 @@
 		{
 			"name": "Nyanko Days",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/82950.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -338,7 +338,7 @@
 		{
 			"name": "One Room",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/83777.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -358,7 +358,7 @@
 		{
 			"name": "Piace: Watashi no Italian",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/83098.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -373,7 +373,7 @@
 		{
 			"name": "Reikenzan: Eichi e no Shikaku",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/79217.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "AP-Fansub"
@@ -383,7 +383,7 @@
 		{
 			"name": "Rewrite 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/83930.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -398,7 +398,7 @@
 		{
 			"name": "Schoolgirl Strikers: Animation Channel",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/82560.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -408,7 +408,7 @@
 		{
 			"name": "Seiren",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/82969.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -418,7 +418,7 @@
 		{
 			"name": "Sengoku Choujuu Giga: Otsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/83737.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -433,7 +433,7 @@
 		{
 			"name": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/82947.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -443,7 +443,7 @@
 		{
 			"name": "Spiritpact",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -453,7 +453,7 @@
 		{
 			"name": "Super Lovers 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/83807.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -463,7 +463,7 @@
 		{
 			"name": "Tales of Zestiria the X 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/82039.jpg",
-			"group": [{
+			"groups": [{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Anime Digital Network"
@@ -480,7 +480,7 @@
 		{
 			"name": "Urara Meirochou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/84119.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Natsumi no Sekai"
@@ -490,7 +490,7 @@
 		{
 			"name": "Yami Shibai 4th Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/83113.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -500,7 +500,7 @@
 		{
 			"name": "Youjo Senki",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/82890.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -510,7 +510,7 @@
 		{
 			"name": "Yowamushi Pedal: New Generation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/83782.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -521,7 +521,7 @@
 	"ova": [{
 			"name": "Fate/Grand Order: First Order",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/82651.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -531,7 +531,7 @@
 		{
 			"name": "Granblue Fantasy the Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/81630.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -541,7 +541,7 @@
 		{
 			"name": "Nanbaka 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/83263.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"

@@ -1,14 +1,14 @@
 {
-	"name": "nom",
-	"group": "groupe",
-	"message": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
-	"lbl_tv": "TV",
-	"lbl_ova": "OAV/ONA/Spéciaux",
-	"lbl_movie": "Films",
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
 	"tv": [{
 			"name": "Absolute Duo",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/68073.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Houkago Fansub"
@@ -41,7 +41,7 @@
 		{
 			"name": "Aldnoah Zero 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/67581.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga Family"
@@ -70,7 +70,7 @@
 		{
 			"name": "Ansatsu Kyoushitsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/64595.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anonimu-Fansubu"
@@ -105,7 +105,7 @@
 		{
 			"name": "Binan Koukou Chikyuu Bouei-bu Love!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/68451.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -115,7 +115,7 @@
 		{
 			"name": "Death Parade",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/71553.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "based"
@@ -161,7 +161,7 @@
 		{
 			"name": "Dog Days″",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/65687.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "GoldenKai"
@@ -178,7 +178,7 @@
 		{
 			"name": "Durarara!!×2 Shou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/67743.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anonimu-Fansubu"
@@ -195,7 +195,7 @@
 		{
 			"name": "Go! Princess Precure",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/69695.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Ai no Senshi Fansub"
@@ -205,7 +205,7 @@
 		{
 			"name": "Isuca",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/71767.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "Bloody no Yume"
@@ -238,7 +238,7 @@
 		{
 			"name": "JoJo&apos;s Bizarre Adventure Part 3",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/55267.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Houkago Fansub"
@@ -261,7 +261,7 @@
 		{
 			"name": "Junketsu no Maria",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/69301.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "Akai-Kiseki"
@@ -308,7 +308,7 @@
 		{
 			"name": "Juuou Mujin no Fafnir",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/63869.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Akai-Kiseki"
@@ -338,7 +338,7 @@
 		{
 			"name": "Kamisama Hajimemashita◎",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/67405.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Circus Fansub"
@@ -355,7 +355,7 @@
 		{
 			"name": "Kantai Collection: KanColle",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/65321.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Despair-Paradise"
@@ -381,7 +381,7 @@
 		{
 			"name": "Koufuku Graffiti",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/67839.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
@@ -404,7 +404,7 @@
 		{
 			"name": "Kuroko no Basket 3rd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/68299.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anime Hunter Fansub"
@@ -451,7 +451,7 @@
 		{
 			"name": "Military!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/68837.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Tyrannosaure~Fansub"
@@ -488,7 +488,7 @@
 		{
 			"name": "Rolling☆Girls",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/69281.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -498,7 +498,7 @@
 		{
 			"name": "Saenai Heroine no Sodatekata",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/60189.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga Family"
@@ -515,7 +515,7 @@
 		{
 			"name": "Seiken Tsukai no World Break",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/66855.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Akai-Kiseki"
@@ -536,7 +536,7 @@
 		{
 			"name": "Sengoku Musou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/71770.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Kaerizaki-Fansub"
@@ -553,7 +553,7 @@
 		{
 			"name": "Shinmai Maou no Testament",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/67627.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga Family"
@@ -570,7 +570,7 @@
 		{
 			"name": "Shounen Hollywood: Holly Stage for 50",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/70705.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -580,7 +580,7 @@
 		{
 			"name": "Soukyuu no Fafner: Dead Aggressor - Exodus",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/61059.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Alvis"
@@ -597,7 +597,7 @@
 		{
 			"name": "Tantei Kageki Milky Holmes TD",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/66891.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Shining Prism"
@@ -607,7 +607,7 @@
 		{
 			"name": "The IDOLM@STER: Cinderella Girls",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/61055.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 						"name": "Ekstasy Family"
@@ -621,7 +621,7 @@
 		{
 			"name": "Tokyo Ghoul √A",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/71777.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anonimu-Fansubu"
@@ -638,7 +638,7 @@
 		{
 			"name": "Tsukimonogatari: Yotsugi Doll",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/68259.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -653,7 +653,7 @@
 		{
 			"name": "Yoru no Yatterman",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/70011.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Circus Fansub"
@@ -670,7 +670,7 @@
 		{
 			"name": "Yuri Kuma Arashi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/69203.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"

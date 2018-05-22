@@ -1,14 +1,14 @@
 {
-	"name": "name",
-	"group": "group",
-	"message": "This list is empty.<br>Feel free to contribute.",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/Special",
-	"lbl_movie": "Movies",
+	"name_lbl": "name",
+	"group_lbl": "group",
+	"message_empty_list": "This list is empty.<br>Feel free to contribute.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/Special",
+	"movie_lbl": "Movies",
 	"tv": [{
 			"name": "Amagami SS+ Plus",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/33359.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Chihiro"
@@ -25,7 +25,7 @@
 		{
 			"name": "Ano Natsu de Matteru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/59405.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Chihiro"
@@ -76,7 +76,7 @@
 		{
 			"name": "Another",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/75509.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "AniYoshi"
@@ -129,7 +129,7 @@
 		{
 			"name": "Aquarion Evol",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/72743.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "gg"
@@ -146,7 +146,7 @@
 		{
 			"name": "Area no Kishi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/73987.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Oyatsu"
@@ -169,7 +169,7 @@
 		{
 			"name": "Black★Rock Shooter (TV)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/53909.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "AFFTW"
@@ -232,7 +232,7 @@
 		{
 			"name": "Brave 10",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/34043.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Doki"
@@ -266,7 +266,7 @@
 		{
 			"name": "Danshi Koukousei no Nichijou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/33257.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "sage"
@@ -276,7 +276,7 @@
 		{
 			"name": "Gokujo.: Gokurakuin Joshikou Ryou Monogatari",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/35659.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "CMS"
@@ -286,7 +286,7 @@
 		{
 			"name": "High School DxD",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/32527.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "AFFTW"
@@ -335,7 +335,7 @@
 		{
 			"name": "Inu x Boku SS",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/35893.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -370,7 +370,7 @@
 		{
 			"name": "Kill Me Baby",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/32723.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "ESC"
@@ -401,7 +401,7 @@
 		{
 			"name": "Mouretsu Pirates",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/36247.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -430,7 +430,7 @@
 		{
 			"name": "Natsume Yuujinchou Shi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/37449.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -453,7 +453,7 @@
 		{
 			"name": "New Prince of Tennis",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/33591.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "O-L"
@@ -470,7 +470,7 @@
 		{
 			"name": "Nisemonogatari",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/35619.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -505,7 +505,7 @@
 		{
 			"name": "Papa no Iukoto wo Kikinasai!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/35039.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Doki"
@@ -552,7 +552,7 @@
 		{
 			"name": "Poyopoyo Kansatsu Nikki",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/35455.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Muteki"
@@ -581,7 +581,7 @@
 		{
 			"name": "Rinne no Lagrange",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/50439.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -614,7 +614,7 @@
 		{
 			"name": "Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then...",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/42943.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ayako"
@@ -649,7 +649,7 @@
 		{
 			"name": "Smile Precure!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/76179.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Anxious"
@@ -682,7 +682,7 @@
 		{
 			"name": "Tantei Opera Milky Holmes Dai 2 Maku",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/35372.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "KiteSeekers"
@@ -709,7 +709,7 @@
 		{
 			"name": "Thermae Romae",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/35635.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "gg"
@@ -732,7 +732,7 @@
 		{
 			"name": "Zero no Tsukaima F",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/75559.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -772,7 +772,7 @@
 	"ova": [{
 			"name": "Kyousou Giga",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/61947.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -789,7 +789,7 @@
 		{
 			"name": "Lupin III: Chi no Kokuin - Eien no Mermaid",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/32929.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "sage"
@@ -799,7 +799,7 @@
 		{
 			"name": "Recorder to Randoseru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/40081.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "CMS"

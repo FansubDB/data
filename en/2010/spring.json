@@ -1,14 +1,14 @@
 {
-	"name": "name",
-	"group": "group",
-	"message": "This list is empty.<br>Feel free to contribute.",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/Special",
-	"lbl_movie": "Movies",
+	"name_lbl": "name",
+	"group_lbl": "group",
+	"message_empty_list": "This list is empty.<br>Feel free to contribute.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/Special",
+	"movie_lbl": "Movies",
 	"tv": [{
 		"name": "Angel Beats!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/22061.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Alephnaught Subs"
@@ -51,7 +51,7 @@
 	}, {
 		"name": "Arakawa under the Bridge",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/59197.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Formula"
@@ -80,7 +80,7 @@
 	}, {
 		"name": "B Gata H Kei",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/75227.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CoalGuys"
@@ -103,7 +103,7 @@
 	}, {
 		"name": "Giant Killing",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/30191.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ANBU"
@@ -124,7 +124,7 @@
 	}, {
 		"name": "Hakuouki",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/71800.jpg",
-		"group": [{
+		"groups": [{
 			"status": "dropped",
 			"detail": [{
 				"name": "Alephnaught Subs"
@@ -159,7 +159,7 @@
 	}, {
 		"name": "Heroman",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/23841.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Darksoul-Subs"
@@ -173,7 +173,7 @@
 	}, {
 		"name": "Hetalia World Series",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/75792.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Hetare"
@@ -187,7 +187,7 @@
 	}, {
 		"name": "Hime Chen! Otogi Chikku Idol Lilpri",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/71891.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chihiro"
@@ -201,7 +201,7 @@
 	}, {
 		"name": "Ichiban Ushiro no Daimaou",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/75554.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Darksoul-Subs"
@@ -230,7 +230,7 @@
 	}, {
 		"name": "Ikkitousen: Xtreme Xecutor",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/18209.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Ryuumaru"
@@ -246,7 +246,7 @@
 	}, {
 		"name": "Jewelpet Twinkle☆",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/73943.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Critter Subs"
@@ -255,7 +255,7 @@
 	}, {
 		"name": "K-On!!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/76121.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chihiro"
@@ -284,7 +284,7 @@
 	}, {
 		"name": "Kaichou wa Maid-sama!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/25254.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Eclipse"
@@ -312,7 +312,7 @@
 	}, {
 		"name": "Kiss x Sis (TV)",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/25518.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Ayako"
@@ -341,7 +341,7 @@
 	}, {
 		"name": "Magic Kaito",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/46095.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DCTP"
@@ -350,7 +350,7 @@
 	}, {
 		"name": "Major S6",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/75216.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Minor Ja Nai"
@@ -368,7 +368,7 @@
 	}, {
 		"name": "Mayoi Neko Overrun!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/23770.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CXC"
@@ -406,7 +406,7 @@
 	}, {
 		"name": "Ookiku Furikabutte: Natsu no Taikai-hen",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/18671.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Central Anime"
@@ -425,7 +425,7 @@
 	}, {
 		"name": "Rainbow: Nisha Rokubou no Shichinin",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/72697.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "AFFTW"
@@ -455,7 +455,7 @@
 	}, {
 		"name": "Saraiya Goyou",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/75203.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -474,7 +474,7 @@
 	}, {
 		"name": "SD Gundam Sangokuden Brave Battle Warriors",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/21471.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Huzzah"
@@ -483,7 +483,7 @@
 	}, {
 		"name": "Senkou no Night Raid",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/32065.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Animanda"
@@ -533,7 +533,7 @@
 	}, {
 		"name": "Shin Koihime†Musou: Otome Tairan",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/74034.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -552,7 +552,7 @@
 	}, {
 		"name": "Shoka",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/21936.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Pretentious"
@@ -561,7 +561,7 @@
 	}, {
 		"name": "Uragiri wa Boku no Namae wo Shitteiru",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/26525.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Yuurisan-Subs"
@@ -575,7 +575,7 @@
 	}, {
 		"name": "Working!!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/75262.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chihiro"
@@ -606,7 +606,7 @@
 	}, {
 		"name": "Yokoyama Mitsuteru Sangokushi",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/76348.jpg",
-		"group": [{
+		"groups": [{
 			"status": "dropped",
 			"detail": [{
 				"name": "Commie"
@@ -615,7 +615,7 @@
 	}, {
 		"name": "Yutori-chan",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/38359.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Tonde"

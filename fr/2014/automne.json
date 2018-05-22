@@ -1,14 +1,14 @@
 {
-	"name": "nom",
-	"group": "groupe",
-	"message": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
-	"lbl_tv": "TV",
-	"lbl_ova": "OAV/ONA/Spéciaux",
-	"lbl_movie": "Films",
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
 	"tv": [{
 			"name": "Ai · Tenchi Muyo!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/67801.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ekstasy Family"
@@ -30,7 +30,7 @@
 		{
 			"name": "Akatsuki no Yona",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/64225.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Bloody no Yume"
@@ -47,7 +47,7 @@
 		{
 			"name": "Amagi Brilliant Park",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/65293.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Glandeur Nature"
@@ -79,7 +79,7 @@
 		{
 			"name": "Cardfight!! Vanguard G",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/69867.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Team Synchro Fansub"
@@ -89,7 +89,7 @@
 		{
 			"name": "Cross Ange: Tenshi to Ryuu no Rondo",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/67515.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -99,7 +99,7 @@
 		{
 			"name": "Daitoshokan no Hitsujikai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/75230.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Imaginary-Fansub"
@@ -134,7 +134,7 @@
 		{
 			"name": "Danna ga Nani o Itteiru ka Wakaranai Ken",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/75287.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Houkago Fansub"
@@ -163,7 +163,7 @@
 		{
 			"name": "Denki-Gai no Honya-san",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/65339.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "RipIsBad"
@@ -180,7 +180,7 @@
 		{
 			"name": "Donten ni Warau",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/57309.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
@@ -203,7 +203,7 @@
 		{
 			"name": "Fate/Stay Night: Unlimited Blade Works",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/67333.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anonimu-Fansubu"
@@ -248,7 +248,7 @@
 		{
 			"name": "Garo: Honoo no Kokuin",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/63667.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Bloody no Yume"
@@ -283,7 +283,7 @@
 		{
 			"name": "Girlfriend (Kari)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/67045.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Shining Prism"
@@ -306,7 +306,7 @@
 		{
 			"name": "Grisaia no Kajitsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/73591.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
@@ -329,7 +329,7 @@
 		{
 			"name": "Gugure! Kokkuri-san",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/65665.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -339,7 +339,7 @@
 		{
 			"name": "Gundam Build Fighters Try",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/67511.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Endless Manga"
@@ -368,7 +368,7 @@
 		{
 			"name": "Gundam: G no Reconguista",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/63753.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -383,7 +383,7 @@
 		{
 			"name": "Hitsugi no Chaika: Avenging Battle",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/67797.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "RipIsBad"
@@ -406,7 +406,7 @@
 		{
 			"name": "Inou Battle wa Nichijou-kei no Naka de",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/67047.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Despair-Paradise"
@@ -433,7 +433,7 @@
 		{
 			"name": "Kaitou Joker",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/64975.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -443,7 +443,7 @@
 		{
 			"name": "Kiseijuu: Sei no Kakuritsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Houkago Fansub"
@@ -478,7 +478,7 @@
 		{
 			"name": "Log Horizon 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/68097.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "HALsub"
@@ -507,7 +507,7 @@
 		{
 			"name": "Madan no ou to Vanadis",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/64911.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga Family"
@@ -530,7 +530,7 @@
 		{
 			"name": "Magic Kaito 1412",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/67807.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "GS no Fansub"
@@ -553,7 +553,7 @@
 		{
 			"name": "Mushishi Zoku Shou 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/68095.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "Kyoto Fansub"
@@ -576,7 +576,7 @@
 		{
 			"name": "Nanatsu no Taizai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ame no Tsuki"
@@ -622,7 +622,7 @@
 		{
 			"name": "Ookami Shoujo to Kuro Ouji",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/67805.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "GoldenKai"
@@ -639,7 +639,7 @@
 		{
 			"name": "Ore, Twintails ni Narimasu.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/75057.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga Family"
@@ -656,7 +656,7 @@
 		{
 			"name": "Orenchi no Furo Jijou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/67085.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "RipIsBad"
@@ -673,7 +673,7 @@
 		{
 			"name": "Oshiri Kajiri Mushi 3",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/67051.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -683,7 +683,7 @@
 		{
 			"name": "Psycho-Pass 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/67509.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Dominator"
@@ -723,7 +723,7 @@
 		{
 			"name": "Selector Spread WIXOSS",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/75495.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Bro-Team"
@@ -740,7 +740,7 @@
 		{
 			"name": "Shigatsu wa Kimi no Uso",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/67177.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anonimu-Fansubu"
@@ -757,7 +757,7 @@
 		{
 			"name": "Shingeki no Bahamut: Genesis",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/65715.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -767,7 +767,7 @@
 		{
 			"name": "Shirobako",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/68021.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "MiniMax-Fansub"
@@ -784,7 +784,7 @@
 		{
 			"name": "Sora no Method",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/62485.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "GoldenKai"
@@ -801,7 +801,7 @@
 		{
 			"name": "Terra Formars",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/67117.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Kiwi"
@@ -842,7 +842,7 @@
 		{
 			"name": "Tribe Cool Crew",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/67523.jpg",
-			"group": [{
+			"groups": [{
 				"status": "dropped",
 				"detail": [{
 					"name": "Glandeur Nature"
@@ -852,7 +852,7 @@
 		{
 			"name": "Trinity Seven",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/67795.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Houkago Fansub"
@@ -891,7 +891,7 @@
 		{
 			"name": "Ushinawareta Mirai wo Motomete",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/66637.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
@@ -920,7 +920,7 @@
 		{
 			"name": "World Trigger",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/66705.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Akai-Kiseki"
@@ -967,7 +967,7 @@
 		{
 			"name": "Yowamushi Pedal: Grande Road",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/67799.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "MiniMax-Fansub"
@@ -984,7 +984,7 @@
 		{
 			"name": "Yuuki Yuuna wa Yuusha de Aru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/67359.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "Bloody no Yume"

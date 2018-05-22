@@ -1,14 +1,14 @@
 {
-	"name": "ชื่อ",
-	"group": "แฟนซับ",
-	"message": "ไม่ทราบข้อมูล",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/SP",
-	"lbl_movie": "Movie",
+	"name_lbl": "ชื่อ",
+	"group_lbl": "แฟนซับ",
+	"message_empty_list": "ไม่ทราบข้อมูล",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/SP",
+	"movie_lbl": "Movie",
 	"tv": [{
 		"name": "Accel World",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/38155.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -72,7 +72,7 @@
 	}, {
 		"name": "Acchi Kocchi",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/46489.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z Jr"
@@ -103,7 +103,7 @@
 	}, {
 		"name": "AKB0048",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/74157.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -132,7 +132,7 @@
 	}, {
 		"name": "Eureka Seven AO",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/36313.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Grider-Fs"
@@ -151,7 +151,7 @@
 	}, {
 		"name": "Fate/Zero 2nd Season",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/41125.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Akiraz-FS"
@@ -170,7 +170,7 @@
 	}, {
 		"name": "Gon",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/36931.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Nuclear Fusion"
@@ -179,7 +179,7 @@
 	}, {
 		"name": "Haiyore! Nyaruko-san",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/49081.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DL-FS"
@@ -205,7 +205,7 @@
 	}, {
 		"name": "Hyouka",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/50521.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "AomsinHD-FS"
@@ -278,7 +278,7 @@
 	}, {
 		"name": "Jormungand",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/73280.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "APP"
@@ -296,7 +296,7 @@
 	}, {
 		"name": "Jormungand",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/73280.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "APP"
@@ -305,7 +305,7 @@
 	}, {
 		"name": "Kimi to Boku. 2",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/42107.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "merritt-10011"
@@ -314,7 +314,7 @@
 	}, {
 		"name": "Kore wa Zombie Desu ka? of the Dead OVA",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/43515.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CrimsonV-FS"
@@ -328,7 +328,7 @@
 	}, {
 		"name": "Kuroko no Basket 2nd Season",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/56155.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CheeZe-FS"
@@ -352,7 +352,7 @@
 	}, {
 		"name": "Medaka Box",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/37947.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -376,7 +376,7 @@
 	}, {
 		"name": "Natsu-iro Kiseki",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/53913.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DW"
@@ -397,7 +397,7 @@
 	}, {
 		"name": "Nazo no Kanojo X",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/75205.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Akira"
@@ -438,7 +438,7 @@
 	}, {
 		"name": "One Piece",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DL-FS"
@@ -447,7 +447,7 @@
 	}, {
 		"name": "Queen's Blade: Rebellion",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/75502.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "MONNAPOP"
@@ -456,7 +456,7 @@
 	}, {
 		"name": "Saint Seiya Omega",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/76052.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "idoli-z"
@@ -470,7 +470,7 @@
 	}, {
 		"name": "Sakamichi no Apollon",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/79781.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Higu-FS"
@@ -489,7 +489,7 @@
 	}, {
 		"name": "Saki Achiga-hen: Episode of Side-A Specials",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/45084.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Darkwing-fs"
@@ -518,7 +518,7 @@
 	}, {
 		"name": "Sankarea",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/79033.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z Jr"
@@ -564,7 +564,7 @@
 	}, {
 		"name": "Sengoku Collection",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/35329.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CrimsonV-FS"
@@ -583,7 +583,7 @@
 	}, {
 		"name": "Shining Hearts: Shiawase no Pan",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/38329.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Mame Fansub Group"
@@ -592,7 +592,7 @@
 	}, {
 		"name": "Shirokuma Cafe",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/75649.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "FAngeL-FS"
@@ -601,7 +601,7 @@
 	}, {
 		"name": "Tasogare Otome x Amnesia",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/64435.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z Jr"
@@ -674,7 +674,7 @@
 	}, {
 		"name": "Tsuritama",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/69909.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CheeZe-FS"
@@ -693,7 +693,7 @@
 	}, {
 		"name": "Uchuu Kyoudai",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/7/37573.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "AK Miyazaki Fansub"
@@ -724,7 +724,7 @@
 	}, {
 		"name": "Zetman",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/7/35529.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Lolicon-FS"
@@ -734,7 +734,7 @@
 	"ova": [{
 		"name": "Upotte!!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/35121.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Kami-Tama FS"
