@@ -45,7 +45,7 @@
 			"name": "Alice or Alice",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/89571.jpg",
 			"group": [{
-				"status": "planned",
+				"status": "release",
 				"detail": [{
 					"name": "Mangakas Fansub"
 				}]
@@ -60,11 +60,18 @@
 			"name": "Amanchu! Advance",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1971/90778.jpg",
 			"group": [{
-				"status": "planned",
-				"detail": [{
-					"name": "Mangakas Fansub"
-				}]
-			}]
+					"status": "planned",
+					"detail": [{
+						"name": "Mangakas Fansub"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shining Prism"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Beyblade Burst Chouzetsu",
@@ -134,7 +141,16 @@
 		{
 			"name": "Cutie Honey Universe",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/89592.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+						"name": "Onii-ChanSub"
+					},
+					{
+						"name": "Saiko no Chimu-Fansub"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Devil&apos;s Line",
@@ -182,7 +198,12 @@
 		{
 			"name": "Fumikiri Jikan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1974/90764.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Gegege no Kitarou",
@@ -316,7 +337,19 @@
 		{
 			"name": "Kakuriyo no Yadomeshi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1554/90270.jpg",
-			"group": []
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kawaii Neko Team"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Kokoro no Tamago"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Kiratto Pri☆chan",
@@ -346,7 +379,12 @@
 		{
 			"name": "Last Period: Owarinaki Rasen no Monogatari",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1538/90420.jpg",
-			"group": []
+			"group": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Layton Mystery Tanteisha: Katri no Nazotoki File",
@@ -390,11 +428,22 @@
 			"name": "Lupin the Third: Part 5",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/90099.jpg",
 			"group": [{
-				"status": "simulcast uncertain",
-				"detail": [{
-					"name": "Netflix"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+							"name": "GSK"
+						},
+						{
+							"name": "Saiko no Chimu-Fansub\n                                                                    "
+						}
+					]
+				},
+				{
+					"status": "simulcast uncertain",
+					"detail": [{
+						"name": "Netflix"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Mahou Shoujo Ore",
@@ -625,17 +674,29 @@
 		{
 			"name": "Uchuu Senkan Tiramisu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1031/90738.jpg",
-			"group": []
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Uma Musume: Pretty Derby",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/89475.jpg",
 			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "Xtrem_Fansubs"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Kodoku no Kawarini"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "Xtrem_Fansubs"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Usagi no Mathew",
