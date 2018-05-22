@@ -121,7 +121,7 @@
 		{
 			"name": "Hetalia Axis Powers",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/75791.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Hakuouki Hekketsuroku",
@@ -212,12 +212,12 @@
 		{
 			"name": "Ichigo Ichie: Kimi no Kotoba",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/26390.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Kakko Kawaii Sengen!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/26662.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Kami nomi zo Shiru Sekai",
@@ -293,7 +293,7 @@
 		{
 			"name": "Karl to Fushigi na Tou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/26411.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Katanagatari",
@@ -577,7 +577,7 @@
 		{
 			"name": "Rita to Nantoka",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/26412.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Robin-kun to 100 nin no Otomodachi",
@@ -800,7 +800,7 @@
 		{
 			"name": "Tachumaru Gekijou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/26468.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Tantei Opera Milky Holmes",

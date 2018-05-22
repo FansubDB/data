@@ -28,7 +28,7 @@
 		{
 			"name": "3-Nen D-Gumi Glass no Kamen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/85641.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Ajin 2nd Season",
@@ -67,7 +67,7 @@
 		{
 			"name": "Ameiro Cocoa 3rd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/79880.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Anitore! XX",
@@ -102,7 +102,7 @@
 		{
 			"name": "Bishoujo Yuugi Unit Crane Game Galaxy",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/80673.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Bloodivores",
@@ -198,7 +198,7 @@
 		{
 			"name": "Digimon Universe: Appli Monsters",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/80075.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Drifters",
@@ -513,7 +513,7 @@
 		{
 			"name": "Neko no Dayan: Fushigi Gekijou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/81109.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Nobunaga no Shinobi",
@@ -558,12 +558,12 @@
 		{
 			"name": "PJ Berri no Mogu Mogu Munya Munya",
 			"image": "",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Pokémon Sun & Moon",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/84673.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Sengoku Choujuu Giga",
@@ -658,7 +658,7 @@
 		{
 			"name": "Time Bokan 24",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/82232.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "To Be Hero",
@@ -712,7 +712,7 @@
 		{
 			"name": "Uchi no Tama Shirimasenka?",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/78387.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Udon no Kuni no Kiniro Kemari",
@@ -780,7 +780,7 @@
 		{
 			"name": "Yasamura Yasashi no Yasashii Sekai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/81641.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Yuri!!! on Ice",

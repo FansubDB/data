@@ -8,7 +8,7 @@
 	"tv": [{
 			"name": "100% Pascal-sensei",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/86858.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Alice to Zouroku",
@@ -53,7 +53,7 @@
 		{
 			"name": "Beyblade Burst God",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/84211.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Boku no Hero Academia 2nd Season",
@@ -127,7 +127,7 @@
 		{
 			"name": "Duel Masters (2017)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/86604.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
@@ -172,7 +172,7 @@
 		{
 			"name": "Future Card Buddyfight (2017)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/84075.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Gin no Guardian",
@@ -307,7 +307,7 @@
 		{
 			"name": "Puripuri Chii-chan!!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/83963.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Re:Creators",
@@ -500,12 +500,12 @@
 		{
 			"name": "The Snack World",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/83341.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/83751.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Tsugumomo",
@@ -567,12 +567,12 @@
 		{
 			"name": "Yu☆Gi☆Oh! VRAINS",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/84370.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Yume Oukoku to Nemureru 100 Nin no Ouji-sama Short Stories",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/84446.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Zero kara Hajimeru Mahou no Sho",

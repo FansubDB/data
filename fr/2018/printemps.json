@@ -29,7 +29,7 @@
 		{
 			"name": "Aikatsu Friends!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1198/90430.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Akkun to Kanojo",
@@ -44,7 +44,7 @@
 		{
 			"name": "Alice or Alice",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/89571.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Mangakas Fansub"
@@ -54,7 +54,7 @@
 		{
 			"name": "Amai Choubatsu: Watashi wa Kanshu Senyou Pet",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1374/90580.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Amanchu! Advance",
@@ -76,12 +76,12 @@
 		{
 			"name": "Beyblade Burst Chouzetsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1290/90486.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Binan Koukou Chikyuu Bouei-bu Happy Kiss!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1109/90797.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -101,7 +101,7 @@
 		{
 			"name": "Butlers: Chitose Momotose Monogatari",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1226/90632.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -111,7 +111,7 @@
 		{
 			"name": "Caligula",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1196/90748.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -141,7 +141,7 @@
 		{
 			"name": "Cutie Honey Universe",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/89592.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 						"name": "Onii-ChanSub"
@@ -165,7 +165,7 @@
 		{
 			"name": "Dorei-ku The Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1801/90264.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -175,7 +175,7 @@
 		{
 			"name": "Full Metal Panic! Invisible Victory",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/88584.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
@@ -198,7 +198,7 @@
 		{
 			"name": "Fumikiri Jikan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1974/90764.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -255,7 +255,7 @@
 		{
 			"name": "Gurazeni",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1444/90440.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "High School DxD Hero",
@@ -307,7 +307,7 @@
 		{
 			"name": "Inazuma Eleven: Ares no Tenbin",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1188/90223.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "SnowSubs"
@@ -317,7 +317,7 @@
 		{
 			"name": "Jikken-hin Kazoku: Creatures Family Days",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/88806.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Miaou Subs"
@@ -337,7 +337,7 @@
 		{
 			"name": "Kakuriyo no Yadomeshi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1554/90270.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Kawaii Neko Team"
@@ -354,12 +354,12 @@
 		{
 			"name": "Kiratto Pri☆chan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1543/90234.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Koneko no Chii Ponpora Dairyokou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1019/90915.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Amazon Prime"
@@ -369,17 +369,17 @@
 		{
 			"name": "Kuroneko Monroe",
 			"image": "",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "LadySpo",
 			"image": "",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Last Period: Owarinaki Rasen no Monogatari",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1538/90420.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -389,7 +389,7 @@
 		{
 			"name": "Layton Mystery Tanteisha: Katri no Nazotoki File",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1115/90222.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ai no Senshi Fansub"
@@ -422,7 +422,7 @@
 		{
 			"name": "Lost Song",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1022/90389.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Lupin the Third: Part 5",
@@ -507,12 +507,12 @@
 		{
 			"name": "Neko Neko Nihonshi 3rd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1689/90730.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Nil Admirari no Tenbin",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/87560.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -552,7 +552,7 @@
 		{
 			"name": "Piano no Mori",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1184/90334.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
@@ -569,12 +569,12 @@
 		{
 			"name": "Puzzle & Dragon",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/89994.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Rokuhoudou Yotsuiro Biyori",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1015/90727.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Saredo Tsumibito wa Ryuu to Odoru: Dances with the Dragons",
@@ -599,7 +599,7 @@
 		{
 			"name": "Shounen Ashibe GO! GO! Goma-chan 3rd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1510/90729.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Souten no Ken: Regenesis",
@@ -634,7 +634,7 @@
 		{
 			"name": "Tachibana-kan to Lie Angle",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1520/90647.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -654,7 +654,7 @@
 		{
 			"name": "To Be Hero 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/89785.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -701,12 +701,12 @@
 		{
 			"name": "Usagi no Mathew",
 			"image": "",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Waka Okami wa Shougakusei!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1416/90904.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "SnowSubs"
@@ -743,7 +743,7 @@
 		{
 			"name": "Youkai Watch: Shadow Side",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1072/90600.jpg",
-			"group": []
+			"groups": []
 		}
 	],
 	"movie": [],

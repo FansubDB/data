@@ -8,7 +8,7 @@
 	"tv": [{
 			"name": "25-sai no Jyoshikousei",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89091.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Basilisk: Ouka Ninpouchou",
@@ -135,12 +135,12 @@
 		{
 			"name": "Fate/Grand Order × Himuro no Tenchi: 7-nin no Saikyou Ijin-hen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/89346.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Fate/Grand Order: Moonlight/Lostroom",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/89337.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Gakuen Babysitters",
@@ -155,7 +155,7 @@
 		{
 			"name": "gdgd Men&apos;s Party",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/88981.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Gin no Guardian 2nd Season",
@@ -240,7 +240,7 @@
 		{
 			"name": "Hugtto! Precure",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/89689.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "IDOLiSH7",
@@ -364,7 +364,7 @@
 		{
 			"name": "Mameneko",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/88812.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Märchen Mädchen",
@@ -446,7 +446,7 @@
 		{
 			"name": "Pochitto Hatsumei: Pikachin-Kit",
 			"image": "",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Pop Team Epic",
@@ -512,7 +512,7 @@
 		{
 			"name": "Shinkansen Henkei Robo Shinkalion",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/89576.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Slow Start",
@@ -537,22 +537,22 @@
 		{
 			"name": "Spiritpact: Yomi no Chigiri",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/89623.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Sword Dynasty",
 			"image": "",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Takunomi.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/87252.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/89382.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Toji no Miko",
@@ -567,7 +567,7 @@
 		{
 			"name": "Uchi no Oochopus",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/89674.jpg",
-			"group": []
+			"groups": []
 		},
 		{
 			"name": "Violet Evergarden",
@@ -609,7 +609,7 @@
 		{
 			"name": "Zoku Touken Ranbu: Hanamaru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/89579.jpg",
-			"group": []
+			"groups": []
 		}
 	]
 }
