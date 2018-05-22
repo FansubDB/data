@@ -1,188 +1,184 @@
-swagger: "2.0"
+swagger: '2.0'
 info:
-  description: "BE CAREFUL: This is not an API.\nOur website hosts JSON files to load our HTML files content."
-  title: "FansubDB API"
-  version: "2.0"
+  description: |-
+    BE CAREFUL: This is not an API.
+    Our website hosts JSON files to load our HTML files content.
+  title: FansubDB API
+  version: '2.0'
   contact:
-    email: "fansubdb@mail-me.com"
+    email: fansubdb@mail-me.com
   license:
-    name: "CC BY-SA 4.0"
-    url: "https://creativecommons.org/licenses/by-sa/4.0/"
-host: "fansubdb.github.io"
-basePath: "/"
+    name: CC BY-SA 4.0
+    url: 'https://creativecommons.org/licenses/by-sa/4.0/'
+host: fansubdb.github.io
+basePath: /
 tags:
-- name: "data"
-  description: "Consult the data of our website"
+  - name: data
+    description: Consult the data of our website
 schemes:
-- "https"
+  - https
 paths:
   /data/lang.json:
     get:
       tags:
-      - "data"
-      summary: "Have the different languages that our website hosts"
+        - data
+      summary: Have the different languages that our website hosts
       produces:
-      - "application/json"
+        - application/json
       responses:
-        200:
-          description: "successful operation"
+        '200':
+          description: successful operation
           schema:
-            type: "array"
+            type: array
             items:
-              $ref: "#/definitions/Languages"
-        404:
-          description: "Not found"
-  /data/{lang}/list.json:
+              $ref: '#/definitions/Languages'
+        '404':
+          description: Not found
+  '/data/{lang}/list.json':
     get:
       tags:
-      - "data"
-      summary: "Have the different seasons for a language that our website hosts"
-      description: ""
+        - data
+      summary: Have the different seasons for a language that our website hosts
+      description: ''
       produces:
-      - "application/json"
+        - application/json
       parameters:
-      - name: "lang"
-        in: "path"
-        description: "the lang value"
-        required: true
-        type: "string"
+        - name: lang
+          in: path
+          description: the lang value
+          required: true
+          type: string
       responses:
-        200:
-          description: "successful operation"
+        '200':
+          description: successful operation
           schema:
-            $ref: "#/definitions/Language"
-        404:
-          description: "Not found"
-  /data/{lang}/{year}/{season}.json:
+            $ref: '#/definitions/Language'
+        '404':
+          description: Not found
+  '/data/{lang}/{year}/{season}.json':
     get:
       tags:
-      - "data"
-      summary: "Have the season detail of subbing group for a language that our website hosts"
-      description: ""
+        - data
+      summary: >-
+        Have the season detail of subbing group for a language that our website
+        hosts
+      description: ''
       produces:
-      - "application/json"
+        - application/json
       parameters:
-      - name: "lang"
-        in: "path"
-        description: "the lang value"
-        required: true
-        type: "string"
-      - name: "year"
-        in: "path"
-        description: "the year value"
-        required: true
-        type: "string"
-      - name: "season"
-        in: "path"
-        description: "the season value"
-        required: true
-        type: "string"
+        - name: lang
+          in: path
+          description: the lang value
+          required: true
+          type: string
+        - name: year
+          in: path
+          description: the year value
+          required: true
+          type: string
+        - name: season
+          in: path
+          description: the season value
+          required: true
+          type: string
       responses:
-        200:
-          description: "successful operation"
+        '200':
+          description: successful operation
           schema:
-            $ref: "#/definitions/AnimeoftheSeason"
-        404:
-          description: "Not found"
+            $ref: '#/definitions/AnimeoftheSeason'
+        '404':
+          description: Not found
 definitions:
   Languages:
-    type: "object"
+    type: object
     properties:
       lang:
-        type: "string"
-      title:
-        type: "string"
+        type: string
       flag:
-        type: "string"
-      view-page:
-        type: "string"
+        type: string
+      goto_lbl:
+        type: string
       url:
-        type: "string"
-      index:
-        type: "string"
+        type: string
   Language:
-    type: "object"
+    type: object
     properties:
       data:
-        type: "array"
+        type: array
         items:
-          $ref: "#/definitions/Year"
-      msg:
-        type: "string"
-      msg_season:
-        type: "string"
-      msg_year:
-        type: "string"
-      msg_all:
-        type: "string"
+          $ref: '#/definitions/Year'
+      datafrom_msg:
+        type: string
+      erroryearorseason_msg:
+        type: string
   Year:
-    type: "object"
+    type: object
     properties:
       year:
-        type: "integer"
-        format: "int64"
+        type: integer
+        format: int64
       seasons:
-          type: "array"
-          items:
-            $ref: "#/definitions/Season"
+        type: array
+        items:
+          $ref: '#/definitions/Season'
   Season:
-    type: "object"
+    type: object
     properties:
       season:
-        type: "string"
+        type: string
       title:
-        type: "string"
+        type: string
       url:
-        type: "string"
+        type: string
   AnimeoftheSeason:
-    type: "object"
+    type: object
     properties:
-      name:
-        type: "string"
-      group:
-        type: "string"
-      message:
-        type: "string"
-      lbl_tv:
-        type: "string"
-      lbl_ova:
-        type: "string"
-      lbl_movie:
-        type: "string"
+      name_lbl:
+        type: string
+      group_lbl:
+        type: string
+      message_empty_list:
+        type: string
+      tv_lbl:
+        type: string
+      ova_lbl:
+        type: string
+      movie_lbl:
+        type: string
       tv:
-        type: "array"
+        type: array
         items:
-          $ref: "#/definitions/Anime"
+          $ref: '#/definitions/Anime'
       ova:
-        type: "array"
+        type: array
         items:
-          $ref: "#/definitions/Anime"
+          $ref: '#/definitions/Anime'
       movie:
-        type: "array"
+        type: array
         items:
-          $ref: "#/definitions/Anime"
+          $ref: '#/definitions/Anime'
   Anime:
-    type: "object"
+    type: object
     properties:
       name:
-        type: "string"
+        type: string
       image:
-        type: "string"
-      group:
-        type: "array"
+        type: string
+      groups:
+        type: array
         items:
-          $ref: "#/definitions/Release"
+          $ref: '#/definitions/Release'
   Release:
-    type: "object"
+    type: object
     properties:
       status:
-        type: "string"
+        type: string
       detail:
-        type: "array"
+        type: array
         items:
-          $ref: "#/definitions/Group"
+          $ref: '#/definitions/Group'
   Group:
-    type: "object"
+    type: object
     properties:
       name:
-        type: "string"
+        type: string
