@@ -1,14 +1,14 @@
 {
-	"name": "name",
-	"group": "fansub group",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/Special",
-	"lbl_movie": "Movie",
-	"message": "This list is empty! <br>Don't hesitate to submit a PR.",
+	"name_lbl": "name",
+	"group_lbl": "fansub group",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/Special",
+	"movie_lbl": "Movie",
+	"message_empty_list": "This list is empty! <br>Don't hesitate to submit a PR.",
 	"tv": [{
 			"name": "Ad Lib Anime Kenkyuujo",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/33869.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "EveTaku"
@@ -18,7 +18,7 @@
 		{
 			"name": "Bakuman. 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/34923.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "A_Destiny"
@@ -54,7 +54,7 @@
 		{
 			"name": "Ben-To",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/73984.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "EveTaku"
@@ -77,7 +77,7 @@
 		{
 			"name": "Boku wa Tomodachi ga Sukunai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/32873.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Chihiro"
@@ -124,7 +124,7 @@
 		{
 			"name": "Busou Shinki Moon Angel",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/37953.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "Commie"
@@ -141,7 +141,7 @@
 		{
 			"name": "C³",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/32285.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "&"
@@ -182,7 +182,7 @@
 		{
 			"name": "Chibi☆Devi!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/35927.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Doki"
@@ -205,7 +205,7 @@
 		{
 			"name": "Chihayafuru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/35749.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -240,7 +240,7 @@
 		{
 			"name": "Cross Fight B-Daman",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/32803.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Gimme"
@@ -250,7 +250,7 @@
 		{
 			"name": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/31793.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Critter-Subs"
@@ -285,7 +285,7 @@
 		{
 			"name": "Fate/Zero",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/73249.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -325,7 +325,7 @@
 		{
 			"name": "gdgd Fairies",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/34963.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -335,7 +335,7 @@
 		{
 			"name": "Guilty Crown",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/33713.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "CoalGuys"
@@ -386,7 +386,7 @@
 		{
 			"name": "High Score",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/36265.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Shoukaku"
@@ -396,7 +396,7 @@
 		{
 			"name": "Hunter x Hunter (2011)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "sayonara-group"
@@ -435,7 +435,7 @@
 		{
 			"name": "Kimi to Boku.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/34949.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "CTSS"
@@ -464,7 +464,7 @@
 		{
 			"name": "Kyoukaisenjou no Horizon",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/79598.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -509,7 +509,7 @@
 		{
 			"name": "Last Exile: Ginyoku no Fam",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/33541.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "ACIFT"
@@ -550,7 +550,7 @@
 		{
 			"name": "Maji de Watashi ni Koi Shinasai!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/32541.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ahodomo"
@@ -573,7 +573,7 @@
 		{
 			"name": "Maken-Ki!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/75234.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "FFFpeeps"
@@ -612,7 +612,7 @@
 		{
 			"name": "Mashiro-iro Symphony: The Color of Lovers",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/39303.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "ACIFT"
@@ -655,7 +655,7 @@
 		{
 			"name": "Mirai Nikki (TV)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/33465.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -690,7 +690,7 @@
 		{
 			"name": "Mobile Suit Gundam AGE",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/42535.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anime-Gundam"
@@ -719,7 +719,7 @@
 		{
 			"name": "Persona 4 the Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/29107.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -770,7 +770,7 @@
 		{
 			"name": "Phi Brain: Kami no Puzzle",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/34045.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "SubDESU"
@@ -793,7 +793,7 @@
 		{
 			"name": "Sekaiichi Hatsukoi 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/34871.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "sage"
@@ -821,7 +821,7 @@
 		{
 			"name": "Shakugan no Shana III (Final)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/32539.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -854,7 +854,7 @@
 		{
 			"name": "Shinryaku!? Ika Musume",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/30120.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "AQUA"
@@ -895,7 +895,7 @@
 		{
 			"name": "Tamayura: Hitotose",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/45368.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "AnxiousHelium"
@@ -932,7 +932,7 @@
 		{
 			"name": "UN-GO",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/33009.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 							"name": "CCS"
@@ -965,7 +965,7 @@
 		{
 			"name": "Working'!!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/75263.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 							"name": "Ayako"
@@ -1023,7 +1023,7 @@
 	"ova": [{
 			"name": "Hidamari Sketch Specials",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/14372.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "AFFTW"
@@ -1051,7 +1051,7 @@
 		{
 			"name": "Plastic Neesan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/76583.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Kagayaki"

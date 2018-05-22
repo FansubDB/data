@@ -1,14 +1,14 @@
 {
-	"name": "ชื่อ",
-	"group": "แฟนซับ",
-	"message": "ไม่ทราบข้อมูล",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/SP",
-	"lbl_movie": "Movie",
+	"name_lbl": "ชื่อ",
+	"group_lbl": "แฟนซับ",
+	"message_empty_list": "ไม่ทราบข้อมูล",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/SP",
+	"movie_lbl": "Movie",
 	"tv": [{
 		"name": "Amagami SS: Tachibana Miya-hen - Imouto",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/27464.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "FAngeL-FS"
@@ -22,7 +22,7 @@
 	}, {
 		"name": "Ano Natsu de Matteru",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/59405.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Darkwing-fs"
@@ -43,7 +43,7 @@
 	}, {
 		"name": "Another",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/75509.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -62,7 +62,7 @@
 	}, {
 		"name": "Aquarion Evol",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/72743.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "RE9-FS"
@@ -71,7 +71,7 @@
 	}, {
 		"name": "Danshi Koukousei no Nichijou Specials",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/38527.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "BTN"
@@ -85,7 +85,7 @@
 	}, {
 		"name": "High School DxD",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/32527.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "KaroZ-FS"
@@ -94,7 +94,7 @@
 	}, {
 		"name": "Inu x Boku SS",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/35893.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "pandoramon"
@@ -103,7 +103,7 @@
 	}, {
 		"name": "Kill Me Baby",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/32723.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Cactus-Sub"
@@ -122,7 +122,7 @@
 	}, {
 		"name": "Natsume Yuujinchou Shi",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/37449.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DSG"
@@ -131,7 +131,7 @@
 	}, {
 		"name": "Nisemonogatari",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/35619.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "neruneko"
@@ -140,7 +140,7 @@
 	}, {
 		"name": "Papa no Iukoto wo Kikinasai!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/35039.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -154,7 +154,7 @@
 	}, {
 		"name": "Poyopoyo Kansatsu Nikki",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/35455.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "NekoSis-FS"
@@ -163,7 +163,7 @@
 	}, {
 		"name": "Rinne no Lagrange Season 2 Specials",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/60967.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DW"
@@ -174,7 +174,7 @@
 	}, {
 		"name": "Senki Zesshou Symphogear",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/42943.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -183,7 +183,7 @@
 	}, {
 		"name": "Smile Precure!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/76179.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "A!Love.Dream.Fate.Subs"
@@ -202,7 +202,7 @@
 	}, {
 		"name": "Zero no Tsukaima F",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/75559.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Darkwing-fs"
@@ -212,7 +212,7 @@
 	"ova": [{
 		"name": "A-Channel+smile",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/35321.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Suzukaze-FS"
@@ -222,7 +222,7 @@
 	"movie": [{
 		"name": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/62179.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Variax"
@@ -231,7 +231,7 @@
 	}, {
 		"name": "Precure All Stars Movie New Stage: Mirai no Tomodachi",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/39609.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "A!Love.Dream.Fate.Subs"
@@ -240,7 +240,7 @@
 	}, {
 		"name": "Strike Witches Movie",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/34907.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Avalon"

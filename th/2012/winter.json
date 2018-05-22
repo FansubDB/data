@@ -1,14 +1,14 @@
 {
-	"name": "ชื่อ",
-	"group": "แฟนซับ",
-	"message": "ไม่ทราบข้อมูล",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/SP",
-	"lbl_movie": "Movie",
+	"name_lbl": "ชื่อ",
+	"group_lbl": "แฟนซับ",
+	"message_empty_list": "ไม่ทราบข้อมูล",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/SP",
+	"movie_lbl": "Movie",
 	"tv": [{
 		"name": "AKB0048: Next Stage",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/44450.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chuy"
@@ -27,7 +27,7 @@
 	}, {
 		"name": "Boku wa Tomodachi ga Sukunai NEXT",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/44724.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -58,7 +58,7 @@
 	}, {
 		"name": "Chihayafuru 2",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/47435.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "AK Miyazaki Fansub"
@@ -67,7 +67,7 @@
 	}, {
 		"name": "Cuticle Tantei Inaba",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/73934.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "AC-FS"
@@ -95,7 +95,7 @@
 	}, {
 		"name": "Da Capo III",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/44167.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -109,7 +109,7 @@
 	}, {
 		"name": "GJ-bu",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/45995.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"status": "release",
@@ -133,7 +133,7 @@
 	}, {
 		"name": "Haitai Nanafa 2",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/7/47233.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Allot-FS"
@@ -147,7 +147,7 @@
 	}, {
 		"name": "I My Me! Strawberry Eggs",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/62113.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DAI-TAKU"
@@ -163,7 +163,7 @@
 	}, {
 		"name": "Ishida to Asakura",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/44996.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "HA-CHI-CO FS"
@@ -177,7 +177,7 @@
 	}, {
 		"name": "Kotoura-san",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/75585.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Fuyuu"
@@ -196,7 +196,7 @@
 	}, {
 		"name": "Line Offline: Salaryman",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/45518.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chocosundae"
@@ -207,7 +207,7 @@
 	}, {
 		"name": "Love Live!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/56849.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "AquaDevil-fs"
@@ -231,7 +231,7 @@
 	}, {
 		"name": "Mangirl!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/45314.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DAI-TAKU"
@@ -245,7 +245,7 @@
 	}, {
 		"name": "Maoyuu Maou Yuusha",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/46041.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Anime@it-fs"
@@ -296,7 +296,7 @@
 	}, {
 		"name": "Minami-ke Tadaima",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/7/53133.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Amai-Fs"
@@ -310,7 +310,7 @@
 	}, {
 		"name": "Nekomonogatari: Kuro",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/84001.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Onigiri-FS"
@@ -319,7 +319,7 @@
 	}, {
 		"name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/44187.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "AC-FS"
@@ -373,7 +373,7 @@
 	}, {
 		"name": "Sasami-san@Ganbaranai",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/53951.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Mame Fansub Group"
@@ -392,7 +392,7 @@
 	}, {
 		"name": "Senran Kagura",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/45640.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DW"
@@ -408,7 +408,7 @@
 	}, {
 		"name": "Senyuu.",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/44858.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Deklnw-Fs"
@@ -447,7 +447,7 @@
 	}, {
 		"name": "Tamako Market",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/79594.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -470,7 +470,7 @@
 	}, {
 		"name": "Vividred Operation",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/45935.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ACE-Z"
@@ -511,7 +511,7 @@
 	}, {
 		"name": "Yama no Susume",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/7/75525.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Kami-Tama FS"
@@ -531,7 +531,7 @@
 	"ova": [{
 		"name": "Cyclops Shoujo Saipuu",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/47377.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Hara-Fs"

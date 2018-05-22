@@ -135,19 +135,13 @@
         "lang": {
           "type": "string"
         },
-        "title": {
-          "type": "string"
-        },
         "flag": {
           "type": "string"
         },
-        "view-page": {
+        "goto_lbl": {
           "type": "string"
         },
         "url": {
-          "type": "string"
-        },
-        "index": {
           "type": "string"
         }
       }
@@ -161,16 +155,10 @@
             "$ref": "#/definitions/Year"
           }
         },
-        "msg": {
+        "datafrom_msg": {
           "type": "string"
         },
-        "msg_season": {
-          "type": "string"
-        },
-        "msg_year": {
-          "type": "string"
-        },
-        "msg_all": {
+        "erroryearorseason_msg": {
           "type": "string"
         }
       }
@@ -207,22 +195,22 @@
     "AnimeoftheSeason": {
       "type": "object",
       "properties": {
-        "name": {
+        "name_lbl": {
           "type": "string"
         },
-        "group": {
+        "group_lbl": {
           "type": "string"
         },
-        "message": {
+        "message_empty_list": {
           "type": "string"
         },
-        "lbl_tv": {
+        "tv_lbl": {
           "type": "string"
         },
-        "lbl_ova": {
+        "ova_lbl": {
           "type": "string"
         },
-        "lbl_movie": {
+        "movie_lbl": {
           "type": "string"
         },
         "tv": {
@@ -254,7 +242,7 @@
         "image": {
           "type": "string"
         },
-        "group": {
+        "groups": {
           "type": "array",
           "items": {
             "$ref": "#/definitions/Release"

@@ -1,14 +1,14 @@
 {
-	"name": "nom",
-	"group": "groupe",
-	"message": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
-	"lbl_tv": "TV",
-	"lbl_ova": "OAV/ONA/Spéciaux",
-	"lbl_movie": "Films",
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
 	"tv": [{
 			"name": "Active Raid: Kidou Kyoushuushitsu Dai-Hakkei",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/76669.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -18,7 +18,7 @@
 		{
 			"name": "Ajin",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/77968.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
@@ -53,7 +53,7 @@
 		{
 			"name": "Akagami no Shirayuki-hime 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/74939.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga No Maou Fansub"
@@ -70,7 +70,7 @@
 		{
 			"name": "Ansatsu Kyoushitsu (TV) 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/77966.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -80,7 +80,7 @@
 		{
 			"name": "Ao no Kanata no Four Rhythm",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/68585.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Despair-Paradise"
@@ -103,7 +103,7 @@
 		{
 			"name": "Boku Dake ga Inai Machi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/76932.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -113,7 +113,7 @@
 		{
 			"name": "Bubuki Buranki",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/79758.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -123,7 +123,7 @@
 		{
 			"name": "Dagashi Kashi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/77833.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga Family"
@@ -146,7 +146,7 @@
 		{
 			"name": "Dimension W",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/74938.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "TsundereChan Fansub"
@@ -163,7 +163,7 @@
 		{
 			"name": "Divine Gate",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/76412.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -173,7 +173,7 @@
 		{
 			"name": "Durarara!!×2 Ketsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/68271.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -188,7 +188,7 @@
 		{
 			"name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/77382.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "TsundereChan Fansub"
@@ -205,7 +205,7 @@
 		{
 			"name": "Hai to Gensou no Grimgar",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/77976.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
@@ -215,7 +215,7 @@
 		{
 			"name": "HaruChika: Haruta to Chika wa Seishun Suru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/76399.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Houkago Fansub"
@@ -242,7 +242,7 @@
 		{
 			"name": "Kono Danshi, Mahou ga Oshigoto Desu.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/78220.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -252,7 +252,7 @@
 		{
 			"name": "Kono Subarashii Sekai ni Shukufuku wo!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/77831.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "about-blank no fansub"
@@ -281,7 +281,7 @@
 		{
 			"name": "Koukaku no Pandora",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/77843.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Onii-ChanSub"
@@ -291,7 +291,7 @@
 		{
 			"name": "Luck & Logic",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/77134.jpg",
-			"group": [{
+			"groups": [{
 					"status": "dropped",
 					"detail": [{
 						"name": "TsundereChan Fansub"
@@ -328,7 +328,7 @@
 		{
 			"name": "Musaigen no Phantom World",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/76723.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Houkago Fansub"
@@ -363,7 +363,7 @@
 		{
 			"name": "Nijiiro Days",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/76691.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -373,7 +373,7 @@
 		{
 			"name": "Norn9: Norn+Nonet",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/77974.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Circus Fansub"
@@ -390,7 +390,7 @@
 		{
 			"name": "Nurse Witch Komugi-chan R",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/76792.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -400,7 +400,7 @@
 		{
 			"name": "Ojisan to Marshmallow",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/78113.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga Family"
@@ -423,7 +423,7 @@
 		{
 			"name": "Ooyasan wa Shishunki!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/77832.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Imaginary-Fansub"
@@ -440,7 +440,7 @@
 		{
 			"name": "Oshiete! Galko-chan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/77000.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -450,7 +450,7 @@
 		{
 			"name": "Phantasy Star Online 2 The Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/75730.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -460,7 +460,7 @@
 		{
 			"name": "Prince of Stride: Alternative",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/77842.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Shining Prism"
@@ -487,7 +487,7 @@
 		{
 			"name": "Saijaku Muhai no Bahamut",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/76664.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -497,7 +497,7 @@
 		{
 			"name": "Schwarzesmarken",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/76448.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Space Ripsub"
@@ -514,7 +514,7 @@
 		{
 			"name": "Sekkou Boys",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/76030.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -524,7 +524,7 @@
 		{
 			"name": "Shoujo-tachi wa Kouya wo Mezasu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/77837.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Anime Digital Network"
@@ -534,7 +534,7 @@
 		{
 			"name": "Shouwa Genroku Rakugo Shinjuu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/77907.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Manga No Maou Fansub"
@@ -551,7 +551,7 @@
 		{
 			"name": "Sushi Police",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/76236.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Mangakas Fansub"
@@ -568,7 +568,7 @@
 		{
 			"name": "Tabi Machi Late Show",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/78140.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -583,7 +583,7 @@
 		{
 			"name": "Yami Shibai 3rd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/5/78074.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"

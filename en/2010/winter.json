@@ -1,14 +1,14 @@
 {
-	"name": "name",
-	"group": "group",
-	"message": "This list is empty.<br>Feel free to contribute.",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/Special",
-	"lbl_movie": "Movies",
+	"name_lbl": "name",
+	"group_lbl": "group",
+	"message_empty_list": "This list is empty.<br>Feel free to contribute.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/Special",
+	"movie_lbl": "Movies",
 	"tv": [{
 			"name": "Beelzebub",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/28013.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "ColorMeSubbed"
@@ -43,7 +43,7 @@
 		{
 			"name": "Cardfight!! Vanguard",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/41625.jpg",
-			"group": [{
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
@@ -53,7 +53,7 @@
 		{
 			"name": "DD Hokuto no Ken",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/12/28072.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Hokuto no Gun"
@@ -63,7 +63,7 @@
 		{
 			"name": "Dragon Crisis!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/50311.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Coalgirls"
@@ -102,7 +102,7 @@
 		{
 			"name": "Fractale",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/28197.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Coalgirls"
@@ -149,7 +149,7 @@
 		{
 			"name": "Freezing",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/10/28535.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Hatsuyuki"
@@ -184,7 +184,7 @@
 		{
 			"name": "Gosick",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/27906.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "ACT-SUB"
@@ -237,7 +237,7 @@
 		{
 			"name": "Haiyoru! Nyaruani: Remember My Love(craft-sensei)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/27429.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ahodomo"
@@ -260,7 +260,7 @@
 		{
 			"name": "Hourou Musuko",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/53945.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "ANBU"
@@ -301,7 +301,7 @@
 		{
 			"name": "IS: Infinite Stratos",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/74045.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ayako"
@@ -354,7 +354,7 @@
 		{
 			"name": "Katanagatari",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/2/50023.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Mazui"
@@ -364,7 +364,7 @@
 		{
 			"name": "Kimi ni Todoke 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/27174.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Eclipse"
@@ -393,7 +393,7 @@
 		{
 			"name": "Kore wa Zombie Desu ka?",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/13/75521.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ayako"
@@ -432,7 +432,7 @@
 		{
 			"name": "Level E",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/4/29668.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Baka"
@@ -485,7 +485,7 @@
 		{
 			"name": "Mahou Shoujo Madoka★Magica",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/55225.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Chihiro"
@@ -520,7 +520,7 @@
 		{
 			"name": "Mitsudomoe Zouryouchuu!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/71554.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ayako-m.3.3.w"
@@ -555,7 +555,7 @@
 		{
 			"name": "Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/75499.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ayako-Shikkaku"
@@ -578,7 +578,7 @@
 		{
 			"name": "Rio: Rainbow Gate!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/27707.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "KiteSeekers"
@@ -601,7 +601,7 @@
 		{
 			"name": "Suite Precure♪",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/32129.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Doremi-CureCom"
@@ -618,7 +618,7 @@
 		{
 			"name": "Yumekui Merry",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/30869.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ayako"
@@ -653,7 +653,7 @@
 		{
 			"name": "Wolverine",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/28039.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Weapon+"
@@ -664,7 +664,7 @@
 	"ova": [{
 			"name": "Houkago no Pleiades",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/9/47741.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Ayako-Himatsubushi"
@@ -699,7 +699,7 @@
 		{
 			"name": "Mai no Mahou to Katei no Hi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/11/27495.jpg",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": []
 			}]
@@ -707,7 +707,7 @@
 		{
 			"name": "Starry☆Sky",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/7/27459.jpg",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Hadena"

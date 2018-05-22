@@ -1,14 +1,14 @@
 {
-	"name": "name",
-	"group": "group",
-	"message": "This list is empty.<br>Feel free to contribute.",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/Special",
-	"lbl_movie": "Movies",
+	"name_lbl": "name",
+	"group_lbl": "group",
+	"message_empty_list": "This list is empty.<br>Feel free to contribute.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/Special",
+	"movie_lbl": "Movies",
 	"tv": [{
 		"name": "Amagami SS",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/78699.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ANBU-Formula"
@@ -42,7 +42,7 @@
 	}, {
 		"name": "Asobi ni Iku yo!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/7/75583.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Ayako"
@@ -73,7 +73,7 @@
 	}, {
 		"name": "Densetsu no Yuusha no Densetsu",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/73651.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -107,7 +107,7 @@
 	}, {
 		"name": "Digimon Xros Wars",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/7/24495.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "MADAOmon"
@@ -128,7 +128,7 @@
 	}, {
 		"name": "Gakuen Mokushiroku: Highschool of the Dead",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/78311.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "aRK"
@@ -162,7 +162,7 @@
 	}, {
 		"name": "Kuroshitsuji II",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/25464.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -196,7 +196,7 @@
 	}, {
 		"name": "Mitsudomoe",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/53947.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "E-kun"
@@ -229,7 +229,7 @@
 	}, {
 		"name": "MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/25713.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "darkcloud"
@@ -238,7 +238,7 @@
 	}, {
 		"name": "Nurarihyon no Mago",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/75631.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -272,7 +272,7 @@
 	}, {
 		"name": "Ookami-san to Shichinin no Nakama-tachi",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/75240.jpg",
-		"group": [{
+		"groups": [{
 			"status": "dropped",
 			"detail": [{
 				"name": "Coalgirls"
@@ -301,7 +301,7 @@
 	}, {
 		"name": "Seikimatsu Occult Gakuin",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/75257.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -330,7 +330,7 @@
 	}, {
 		"name": "Seitokai Yakuindomo",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/75550.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Ayako"
@@ -359,7 +359,7 @@
 	}, {
 		"name": "Sekirei: Pure Engagement",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/75178.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chihiro"
@@ -398,7 +398,7 @@
 	}, {
 		"name": "Sengoku Basara Ni",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/80999.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -432,7 +432,7 @@
 	}, {
 		"name": "Shiki",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/21343.jpg",
-		"group": [{
+		"groups": [{
 			"status": "dropped",
 			"detail": [{
 				"name": "Chihiro"
@@ -476,7 +476,7 @@
 	}, {
 		"name": "Shukufuku no Campanella",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/75556.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -514,7 +514,7 @@
 	}, {
 		"name": "Strike Witches 2",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/25477.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Coalgirls"
@@ -533,7 +533,7 @@
 	}, {
 		"name": "Tono to Issho: Ippunkan Gekijou",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/24947.jpg",
-		"group": [{
+		"groups": [{
 			"status": "simulcast",
 			"detail": [{
 				"name": "Crunchyroll"
@@ -543,7 +543,7 @@
 	"ova": [{
 		"name": "Cat Shit One",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/25928.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Commie"
@@ -557,7 +557,7 @@
 	}, {
 		"name": "Kaichuu!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/25520.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "4L"

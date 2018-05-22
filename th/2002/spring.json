@@ -1,14 +1,14 @@
 {
-	"name": "ชื่อ",
-	"group": "แฟนซับ",
-	"message": "ไม่ทราบข้อมูล",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/SP",
-	"lbl_movie": "Movie",
+	"name_lbl": "ชื่อ",
+	"group_lbl": "แฟนซับ",
+	"message_empty_list": "ไม่ทราบข้อมูล",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/SP",
+	"movie_lbl": "Movie",
 	"tv": [{
 		"name": ".hack//Sign",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/15142.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Endless-FS"
@@ -19,7 +19,7 @@
 	}, {
 		"name": "Full Moon wo Sagashite",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/6265.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "NMT-Sub"
@@ -28,7 +28,7 @@
 	}, {
 		"name": "Tenshi na Konamaiki",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/32701.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "x105sub"

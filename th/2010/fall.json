@@ -1,14 +1,14 @@
 {
-	"name": "ชื่อ",
-	"group": "แฟนซับ",
-	"message": "ไม่ทราบข้อมูล",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/SP",
-	"lbl_movie": "Movie",
+	"name_lbl": "ชื่อ",
+	"group_lbl": "แฟนซับ",
+	"message_empty_list": "ไม่ทราบข้อมูล",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/SP",
+	"movie_lbl": "Movie",
 	"tv": [{
 		"name": "Hyakka Ryouran: Samurai Girls",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/27705.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DL-FS"
@@ -17,7 +17,7 @@
 	}, {
 		"name": "Tantei Opera Milky Holmes",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/26676.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "DAI-TAKU"

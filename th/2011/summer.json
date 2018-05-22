@@ -1,14 +1,14 @@
 {
-	"name": "ชื่อ",
-	"group": "แฟนซับ",
-	"message": "ไม่ทราบข้อมูล",
-	"lbl_tv": "TV",
-	"lbl_ova": "OVA/ONA/SP",
-	"lbl_movie": "Movie",
+	"name_lbl": "ชื่อ",
+	"group_lbl": "แฟนซับ",
+	"message_empty_list": "ไม่ทราบข้อมูล",
+	"tv_lbl": "TV",
+	"ova_lbl": "OVA/ONA/SP",
+	"movie_lbl": "Movie",
 	"tv": [{
 		"name": "Blood-C",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/31649.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "pandoramon"
@@ -17,7 +17,7 @@
 	}, {
 		"name": "Dantalian no Shoka",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/52683.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CrimsonV-FS"
@@ -28,7 +28,7 @@
 	}, {
 		"name": "Manyuu Hikenchou",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/80487.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Genshokyou"
@@ -37,7 +37,7 @@
 	}, {
 		"name": "Mayo Chiki!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/29971.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "idoli-z"
@@ -51,7 +51,7 @@
 	}, {
 		"name": "Nurarihyon no Mago: Sennen Makyou",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/77300.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Fuuny-Fs"
@@ -60,7 +60,7 @@
 	}, {
 		"name": "Ro-Kyu-Bu!",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/11/32643.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "ASP-FS"
@@ -93,7 +93,7 @@
 	}, {
 		"name": "The iDOLM@STER",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/9/41085.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "NoGod-FS"
@@ -102,7 +102,7 @@
 	}, {
 		"name": "Usagi Drop",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/29665.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Aomtaku"
@@ -116,7 +116,7 @@
 	}, {
 		"name": "Uta no☆Prince-sama♪ Maji Love 1000%",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/30248.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "CrimsonV"
@@ -128,7 +128,7 @@
 	"ova": [{
 		"name": "Carnival Phantasm",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/64283.jpg",
-		"group": [{
+		"groups": [{
 			"status": "release",
 			"detail": [{
 				"name": "Chocosundae"
