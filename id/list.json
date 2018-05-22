@@ -8,8 +8,6 @@
 			"url": "dingin.json"
 		}]
 	}],
-	"msg": "<strong>Hati-hati!</strong> Data dari:",
-	"msg_season": "<strong>Hati-hati!</strong> Data dari:",
-	"msg_year": "<strong>Hati-hati!</strong> Data dari:",
-	"msg_all": "<strong>Hati-hati!</strong>Musim atau Tahun yang Salah Data dari:"
+	"datafrom_msg": "<strong>Hati-hati!</strong> Data dari:",
+	"erroryearorseason_msg": "<strong>Hati-hati!</strong>Musim atau Tahun yang Salah Data dari:"
 }

@@ -1,22 +1,22 @@
 [{
 	"lang": "english",
 	"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png",
-	"view-page": "Go to the english page",
+	"goto_lbl": "Go to the english page",
 	"url": "en/"
 
 }, {
 	"lang": "français",
 	"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png",
-	"view-page": "Aller sur la page française",
+	"goto_lbl": "Aller sur la page française",
 	"url": "fr/"
 }, {
 	"lang": "indonesia",
 	"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png",
-	"view-page": "Pergi Ke Halaman Indonesia",
+	"goto_lbl": "Pergi Ke Halaman Indonesia",
 	"url": "id/"
 }, {
 	"lang": "ไทย",
 	"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png",
-	"view-page": "Go to the thai page",
+	"goto_lbl": "Go to the thai page",
 	"url": "th/"
 }]
