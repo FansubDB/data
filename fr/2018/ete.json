@@ -1,6 +1,6 @@
 {
 	"name_lbl": "nom",
-	"groups_lbl": "groupe",
+	"group_lbl": "groupe",
 	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
 	"tv_lbl": "TV",
 	"ova_lbl": "OAV/ONA/Spéciaux",
