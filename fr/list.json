@@ -93,10 +93,16 @@
 			"year": 2018,
 			"url": "2018/",
 			"seasons": [{
-				"season": "spring",
-				"title": "printemps",
-				"url": "printemps.json"
-			}]
+					"season": "spring",
+					"title": "printemps",
+					"url": "printemps.json"
+				},
+				{
+					"season": "summer",
+					"title": "été",
+					"url": "ete.json"
+				}
+			]
 		}
 	],
 	"datafrom_msg": "<strong>Attention !</strong> Données de : ",
