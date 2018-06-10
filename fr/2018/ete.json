@@ -1,0 +1,284 @@
+{
+	"name_lbl": "nom",
+	"groups_lbl": "groupse",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "Aguu: Tensai Ningyou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1208/92825.jpg",
+			"groups": []
+		},
+		{
+			"name": "Angolmois: Genkou Kassenki",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1981/92678.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ani ni Tsukeru Kusuri wa Nai! 2",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1937/93037.jpg",
+			"groups": []
+		},
+		{
+			"name": "Asobi Asobase",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1311/91372.jpg",
+			"groups": []
+		},
+		{
+			"name": "Back Street Girls",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1262/92144.jpg",
+			"groups": []
+		},
+		{
+			"name": "Banana Fish",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1428/93074.jpg",
+			"groups": []
+		},
+		{
+			"name": "BanG Dream! Garupa☆Pico",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Chio-chan no Tsuugakuro",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1819/92602.jpg",
+			"groups": []
+		},
+		{
+			"name": "Chuukan Kanriroku Tonegawa",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1539/90634.jpg",
+			"groups": []
+		},
+		{
+			"name": "Cinderella Girls Gekijou 3rd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1618/90871.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1951/92475.jpg",
+			"groups": []
+		},
+		{
+			"name": "FLCL Progressive",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1736/91291.jpg",
+			"groups": []
+		},
+		{
+			"name": "Free! Dive to the Future",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1517/92608.jpg",
+			"groups": []
+		},
+		{
+			"name": "Future Card Shin Buddyfight",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1795/91907.jpg",
+			"groups": []
+		},
+		{
+			"name": "Gintama. Gin no Tamashii-hen 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1587/91094.jpg",
+			"groups": []
+		},
+		{
+			"name": "Grand Blue",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1011/92109.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hanebado!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1916/90432.jpg",
+			"groups": []
+		},
+		{
+			"name": "Happy Sugar Life",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1086/91313.jpg",
+			"groups": []
+		},
+		{
+			"name": "Harukana Receive",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1439/91363.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hataraku Onii-san! No 2!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1871/91555.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hataraku Saibou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1620/90143.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "High Score Girl",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1668/91345.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hyakuren no Haou to Seiyaku no Valkyria",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1420/92951.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1493/91303.jpg",
+			"groups": []
+		},
+		{
+			"name": "Island",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1319/92145.jpg",
+			"groups": [{
+				"simulcast": "Crunchyroll",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Jashin-chan Dropkick",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1484/90477.jpg",
+			"groups": []
+		},
+		{
+			"name": "Joshi Ochi!!: 2-kai kara Ero Musume ga Futte kite, Ore no Areni!?",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kyoto Teramachi Sanjou no Holmes",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1304/92930.jpg",
+			"groups": []
+		},
+		{
+			"name": "Lord of Vermilion: Guren no Ou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1121/91419.jpg",
+			"groups": []
+		},
+		{
+			"name": "Marvel Future Avengers 2nd Season",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Muhyo to Roujii no Mahouritsu Soudan Jimusho",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1454/91272.jpg",
+			"groups": []
+		},
+		{
+			"name": "One Room Second Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1966/92677.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ongaku Shoujo (TV)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1811/91043.jpg",
+			"groups": []
+		},
+		{
+			"name": "Oshiete Mahou no Pendulum: Mahou no Pendulum",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1584/90605.jpg",
+			"groups": []
+		},
+		{
+			"name": "Overlord III",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1319/91709.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
+		},
+		{
+			"name": "Phantom in the Twilight",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1501/91399.jpg",
+			"groups": []
+		},
+		{
+			"name": "Planet With",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1112/91337.jpg",
+			"groups": []
+		},
+		{
+			"name": "Satsuriku no Tenshi",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1786/91257.jpg",
+			"groups": []
+		},
+		{
+			"name": "Senjuushi",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1259/91376.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shichisei no Subaru",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1629/91971.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shingeki no Kyojin Season 3",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1173/92110.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shinya! Tensai Bakabon",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1031/92911.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shoujo ☆ Kageki Revue Starlight",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/89944.jpg",
+			"groups": []
+		},
+		{
+			"name": "Sunohara-sou no Kanrinin-san",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1054/91107.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tenrou: Sirius the Jaeger",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1933/91326.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tsukumogami Kashimasu",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1715/91114.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yama no Susume: Third Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1462/91648.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yami Shibai 6th Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1349/92953.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yume Oukoku to Nemureru 100 Nin no Ouji-sama",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1637/91566.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yuragi-sou no Yuuna-san",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/89484.jpg",
+			"groups": []
+		},
+		{
+			"name": "Zoids Wild",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1910/92316.jpg",
+			"groups": []
+		}
+	]
+}
