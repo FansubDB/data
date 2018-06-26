@@ -133,13 +133,18 @@
 		{
 			"name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1493/91303.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Island",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1319/92145.jpg",
 			"groups": [{
-				"simulcast": "Crunchyroll",
+				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
 				}]
@@ -213,7 +218,12 @@
 		{
 			"name": "Satsuriku no Tenshi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1786/91257.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Senjuushi",
