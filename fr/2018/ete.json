@@ -48,7 +48,12 @@
 		{
 			"name": "Chuukan Kanriroku Tonegawa",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1539/90634.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Cinderella Girls Gekijou 3rd Season",
@@ -88,7 +93,12 @@
 		{
 			"name": "Hanebado!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1916/90432.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Happy Sugar Life",
@@ -103,7 +113,12 @@
 		{
 			"name": "Hataraku Onii-san! No 2!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1871/91555.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hataraku Saibou",
@@ -183,7 +198,12 @@
 		{
 			"name": "One Room Second Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1966/92677.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ongaku Shoujo (TV)",
@@ -268,12 +288,22 @@
 		{
 			"name": "Yama no Susume: Third Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1462/91648.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Yami Shibai 6th Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1349/92953.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Yume Oukoku to Nemureru 100 Nin no Ouji-sama",
