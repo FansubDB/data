@@ -298,7 +298,12 @@
 		{
 			"name": "Shichisei no Subaru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1629/91971.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Natsumi no Sekai"
+				}]
+			}]
 		},
 		{
 			"name": "Shingeki no Kyojin Season 3",
