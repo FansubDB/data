@@ -43,7 +43,12 @@
 		{
 			"name": "Banana Fish",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1428/93074.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "BanG Dream! Garupa☆Pico",
@@ -53,7 +58,12 @@
 		{
 			"name": "Chio-chan no Tsuugakuro",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1819/92602.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Chuukan Kanriroku Tonegawa",
@@ -133,7 +143,12 @@
 		{
 			"name": "Harukana Receive",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1439/91363.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Hataraku Onii-san! No 2!",
@@ -213,7 +228,12 @@
 		{
 			"name": "Lord of Vermilion: Guren no Ou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1121/91419.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Marvel Future Avengers 2nd Season",
@@ -239,11 +259,18 @@
 			"name": "Ongaku Shoujo (TV)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1811/91043.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Crunchyroll"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Oshiete Mahou no Pendulum: Mahou no Pendulum",
@@ -353,7 +380,12 @@
 		{
 			"name": "Tsukumogami Kashimasu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1715/91114.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Yama no Susume: Third Season",
