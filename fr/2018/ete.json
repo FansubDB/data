@@ -123,7 +123,19 @@
 		{
 			"name": "Grand Blue",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1011/92109.jpg",
-			"groups": []
+			"groups": [{
+					"status": "planned",
+					"detail": [{
+						"name": "Miaou Subs"
+					}]
+				},
+				{
+					"status": "simulcast uncertain",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Hanebado!",
@@ -208,7 +220,19 @@
 		{
 			"name": "Jashin-chan Dropkick",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1484/90477.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Natsumi no Sekai"
+					}]
+				},
+				{
+					"status": "simulcast uncertain",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Joshi Ochi!!: 2-kai kara Ero Musume ga Futte kite, Ore no Areni!?",
@@ -243,7 +267,12 @@
 		{
 			"name": "Muhyo to Roujii no Mahouritsu Soudan Jimusho",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1454/91272.jpg",
-			"groups": []
+			"groups": [{
+				"status": "planned",
+				"detail": [{
+					"name": "Miaou Subs"
+				}]
+			}]
 		},
 		{
 			"name": "One Room Second Season",
@@ -370,7 +399,12 @@
 		{
 			"name": "Sunohara-sou no Kanrinin-san",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1054/91107.jpg",
-			"groups": []
+			"groups": [{
+				"status": "planned",
+				"detail": [{
+					"name": "Miaou Subs"
+				}]
+			}]
 		},
 		{
 			"name": "Tenrou: Sirius the Jaeger",
