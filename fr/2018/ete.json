@@ -384,7 +384,16 @@
 		{
 			"name": "Shoujo ☆ Kageki Revue Starlight",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/8/89944.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Houkago Fansub"
+					},
+					{
+						"name": "Family Desuyo"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Space Bug",
@@ -402,8 +411,12 @@
 			"groups": [{
 				"status": "planned",
 				"detail": [{
-					"name": "Miaou Subs"
-				}]
+						"name": "Family Desuyo"
+					},
+					{
+						"name": "Miaou Subs"
+					}
+				]
 			}]
 		},
 		{
