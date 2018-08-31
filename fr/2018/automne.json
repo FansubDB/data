@@ -1,0 +1,299 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "Akanesasu Shoujo",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Anima Yell!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Bakumatsu",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Bakutsuri Bar Hunter",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Beatless: Final Stage",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Beelzebub-jou no Okinimesu mama.",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Conception",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Dakaretai Otoko 1-i ni Odosarete Imasu.",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Double Decker! Doug & Kirill",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Fairy Tail (2018)",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "FLCL Alternative",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Gaikotsu Shotenin Honda-san",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Gakuen Basara",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Goblin Slayer",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Golden Kamuy 2nd Season",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Gurazeni Season 2",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Gyakuten Saiban: Sono \"Shinjitsu,\" Igiari! Season 2",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Han-Gyaku-sei Million Arthur",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Himote House",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Hinomaru Zumou",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Hora, Mimi ga Mieteru yo!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Hoshi no Shima no Nyanko",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Inazuma Eleven: Orion no Kokuin",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Ingress the Animation",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Irozuku Sekai no Ashita kara",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Jingai-san no Yome",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Jojo no Kimyou na Bouken: Ougon no Kaze",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Karakuri Circus",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kaze ga Tsuyoku Fuiteiru",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Ken En Ken: Aoki Kagayaki",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kira Kira Happy★Hirake! Cocotama",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kishuku Gakkou no Juliet",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kitsune no Koe",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Okoshiyasu, Chitose-chan",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Radiant",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Release the Spyce",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "RErideD: Tokigoe no Derrida",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Senran Kagura: Shinovi Master - Tokyo Youma-hen",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Shuudengo, Capsule Hotel de, Joushi ni Binetsu Utawaru Yoru.",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Sono Toki, Kanojo wa.",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Sora to Umi no Aida",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Souten no Ken: Regenesis 2nd Season",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "SSSS.Gridman",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Sword Art Online: Alicization",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Tensei Shitara Slime Datta Ken",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "The iDOLM@STER Side M: Wake atte Mini!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Toaru Majutsu no Index III",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Tokyo Ghoul:re 2nd Season",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Tonari no Kyuuketsuki-san",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Tsurune: Kazemai Koukou Kyuudou-bu",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Uchi no Maid ga Uzasugiru!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Uchuu Senkan Tiramisu II",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Ulysses: Jeanne d'Arc to Renkin no Kishi",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Yagate Kimi ni Naru",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Zombieland Saga",
+			"image": "",
+			"groups": []
+		}
+	]
+}
