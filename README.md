@@ -71,8 +71,7 @@ An anime object contains:
 		"groups": [{
 			"status": "release",
 			"detail": [{
-				"name": "SUBS 1",
-				"url": "URL of the SUBS 1"
+				"name": "SUBS 1"
 			}]
 		}]
 	}, {
