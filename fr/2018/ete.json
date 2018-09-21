@@ -38,7 +38,12 @@
 		{
 			"name": "Back Street Girls",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1262/92144.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Tyrannosaure~Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Banana Fish",
@@ -93,7 +98,12 @@
 		{
 			"name": "FLCL Progressive",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1736/91291.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Owlolf Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Free! Dive to the Future",
@@ -124,13 +134,13 @@
 			"name": "Grand Blue",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1011/92109.jpg",
 			"groups": [{
-					"status": "planned",
+					"status": "release",
 					"detail": [{
 						"name": "Miaou Subs"
 					}]
 				},
 				{
-					"status": "simulcast uncertain",
+					"status": "simulcast",
 					"detail": [{
 						"name": "Amazon Prime"
 					}]
@@ -150,7 +160,23 @@
 		{
 			"name": "Happy Sugar Life",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1086/91313.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "Houkago Fansub"
+						},
+						{
+							"name": "Family Desuyo"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Harukana Receive",
@@ -227,7 +253,7 @@
 					}]
 				},
 				{
-					"status": "simulcast uncertain",
+					"status": "simulcast",
 					"detail": [{
 						"name": "Amazon Prime"
 					}]
@@ -268,9 +294,9 @@
 			"name": "Muhyo to Roujii no Mahouritsu Soudan Jimusho",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1454/91272.jpg",
 			"groups": [{
-				"status": "planned",
+				"status": "simulcast",
 				"detail": [{
-					"name": "Miaou Subs"
+					"name": "Crunchyroll"
 				}]
 			}]
 		},
@@ -349,7 +375,12 @@
 		{
 			"name": "Senjuushi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1259/91376.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Shichisei no Subaru",
@@ -409,7 +440,7 @@
 			"name": "Sunohara-sou no Kanrinin-san",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1054/91107.jpg",
 			"groups": [{
-				"status": "planned",
+				"status": "release",
 				"detail": [{
 						"name": "Family Desuyo"
 					},
@@ -422,7 +453,16 @@
 		{
 			"name": "Tenrou: Sirius the Jaeger",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1933/91326.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Kodoku no Kawarini"
+					},
+					{
+						"name": "Natsumi no Sekai"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Tsukumogami Kashimasu",
@@ -457,7 +497,12 @@
 		{
 			"name": "Yume Oukoku to Nemureru 100 Nin no Ouji-sama",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1637/91566.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Yuragi-sou no Yuuna-san",
@@ -472,7 +517,12 @@
 		{
 			"name": "Zoids Wild",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1910/92316.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Miracle Sharingan Fansub"
+				}]
+			}]
 		}
 	]
 }
