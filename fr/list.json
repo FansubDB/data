@@ -101,6 +101,11 @@
 					"season": "summer",
 					"title": "été",
 					"url": "ete.json"
+				},
+				{
+					"season": "automn",
+					"title": "automne",
+					"url": "automne.json"
 				}
 			]
 		}
