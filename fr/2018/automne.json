@@ -46,9 +46,19 @@
 			"groups": []
 		},
 		{
+			"name": "Devidol!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1094/93923.jpg",
+			"groups": []
+		},
+		{
 			"name": "Double Decker! Doug & Kirill",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1954/91116.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Fairy Tail (2018)",
@@ -73,12 +83,22 @@
 		{
 			"name": "Goblin Slayer",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1949/93415.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Golden Kamuy 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1880/93189.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Gurazeni Season 2",
@@ -93,6 +113,11 @@
 		{
 			"name": "Han-Gyaku-sei Million Arthur",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1881/93383.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hashiri Tsuzukete Yokattatte.",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1533/94555.jpg",
 			"groups": []
 		},
 		{
@@ -112,12 +137,12 @@
 		},
 		{
 			"name": "Hoshi no Shima no Nyanko",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1519/93376.jpg",
 			"groups": []
 		},
 		{
 			"name": "Inazuma Eleven: Orion no Kokuin",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1629/93729.jpg",
 			"groups": []
 		},
 		{
@@ -186,6 +211,11 @@
 			"groups": []
 		},
 		{
+			"name": "Pingu in the City (2018)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1063/93601.jpg",
+			"groups": []
+		},
+		{
 			"name": "Radiant",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1963/91314.jpg",
 			"groups": []
@@ -208,16 +238,21 @@
 		{
 			"name": "Senran Kagura: Shinovi Master - Tokyo Youma-hen",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1855/93385.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Shuudengo, Capsule Hotel de, Joushi ni Binetsu Utawaru Yoru.",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1418/93509.jpg",
 			"groups": []
 		},
 		{
 			"name": "Sono Toki, Kanojo wa.",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1908/93910.jpg",
 			"groups": []
 		},
 		{
@@ -238,12 +273,22 @@
 		{
 			"name": "Sword Art Online: Alicization",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1319/93489.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Tensei Shitara Slime Datta Ken",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1694/93337.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "The iDOLM@STER Side M: Wake atte Mini!",
@@ -258,7 +303,12 @@
 		{
 			"name": "Tokyo Ghoul:re 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1752/93411.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Tonari no Kyuuketsuki-san",
