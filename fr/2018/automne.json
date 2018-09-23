@@ -63,7 +63,12 @@
 		{
 			"name": "Fairy Tail (2018)",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1927/93556.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "FLCL Alternative",
@@ -163,7 +168,12 @@
 		{
 			"name": "Jojo no Kimyou na Bouken: Ougon no Kaze",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1491/93565.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Karakuri Circus",
@@ -263,7 +273,12 @@
 		{
 			"name": "Souten no Ken: Regenesis 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1940/93458.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "SSSS.Gridman",
@@ -328,7 +343,12 @@
 		{
 			"name": "Uchuu Senkan Tiramisu II",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1642/93188.jpg",
-			"groups": []
+			"groups": [{
+				"status": "planned uncertain",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Ulysses: Jeanne d&apos;Arc to Renkin no Kishi",
