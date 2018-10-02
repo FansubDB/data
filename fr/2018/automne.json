@@ -78,12 +78,22 @@
 		{
 			"name": "Gaikotsu Shotenin Honda-san",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1884/93425.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Gakuen Basara",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1706/93380.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Goblin Slayer",
@@ -113,7 +123,12 @@
 		{
 			"name": "Gyakuten Saiban: Sono \"Shinjitsu,\" Igiari! Season 2",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1861/91089.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Han-Gyaku-sei Million Arthur",
@@ -163,17 +178,29 @@
 		{
 			"name": "Jingai-san no Yome",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1764/93406.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Jojo no Kimyou na Bouken: Ougon no Kaze",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1491/93565.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Anime Digital Network"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Karakuri Circus",
@@ -188,7 +215,12 @@
 		{
 			"name": "Ken En Ken: Aoki Kagayaki",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1863/93274.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kira Kira Happy★Hirake! Cocotama",
@@ -208,7 +240,12 @@
 		{
 			"name": "Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1818/93386.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Okoshiyasu, Chitose-chan",
@@ -228,7 +265,19 @@
 		{
 			"name": "Radiant",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1963/91314.jpg",
-			"groups": []
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Release the Spyce",
@@ -238,7 +287,12 @@
 		{
 			"name": "RErideD: Tokigoe no Derrida",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1010/91293.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
@@ -338,7 +392,12 @@
 		{
 			"name": "Uchi no Maid ga Uzasugiru!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1937/91847.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Uchuu Senkan Tiramisu II",
@@ -358,12 +417,22 @@
 		{
 			"name": "Yagate Kimi ni Naru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1338/93419.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Zombieland Saga",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1696/93177.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		}
 	]
 }
