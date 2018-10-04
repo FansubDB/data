@@ -43,7 +43,12 @@
 		{
 			"name": "Dakaretai Otoko 1-i ni Odosarete Imasu.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1575/93569.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Devidol!",
@@ -210,7 +215,12 @@
 		{
 			"name": "Kaze ga Tsuyoku Fuiteiru",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1029/93168.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ken En Ken: Aoki Kagayaki",
@@ -297,7 +307,12 @@
 		{
 			"name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1301/93586.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Senran Kagura: Shinovi Master - Tokyo Youma-hen",
@@ -382,7 +397,12 @@
 		{
 			"name": "Tonari no Kyuuketsuki-san",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1513/93379.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Tsurune: Kazemai Koukou Kyuudou-bu",
