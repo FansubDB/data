@@ -28,7 +28,19 @@
 		{
 			"name": "Beatless: Final Stage",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1745/93307.jpg",
-			"groups": []
+			"groups": [{
+					"status": "planned",
+					"detail": [{
+						"name": "Natsumi no Sekai"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Beelzebub-jou no Okinimesu mama.",
@@ -178,7 +190,12 @@
 		{
 			"name": "Irozuku Sekai no Ashita kara",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1710/91368.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Jingai-san no Yome",
@@ -210,7 +227,19 @@
 		{
 			"name": "Karakuri Circus",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1152/93384.jpg",
-			"groups": []
+			"groups": [{
+					"status": "planned",
+					"detail": [{
+						"name": "Natsumi no Sekai"
+					}]
+				},
+				{
+					"status": "simulcast uncertain",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Kaze ga Tsuyoku Fuiteiru",
@@ -240,12 +269,22 @@
 		{
 			"name": "Kishuku Gakkou no Juliet",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1908/93416.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Kitsune no Koe",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1087/93424.jpg",
-			"groups": []
+			"groups": [{
+				"status": "planned",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo",
@@ -382,7 +421,12 @@
 		{
 			"name": "Toaru Majutsu no Index III",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1307/93413.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Tokyo Ghoul:re 2nd Season",
