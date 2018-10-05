@@ -1,6 +1,6 @@
 {
 	"name": "name",
-	"group": "group",
+	"groups": "group",
 	"message": "This list is empty.<br>Feel free to contribute.",
 	"lbl_tv": "TV",
 	"lbl_ova": "OVA/ONA/Special",
@@ -8,7 +8,7 @@
 	"tv": [{
 			"name": "Name",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Groups"
@@ -18,7 +18,7 @@
 		{
 			"name": "Monchicchiisu",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": ""
@@ -28,7 +28,7 @@
 		{
 			"name": "Boku no Imouto wa\"Oosaka Okan\"",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -45,7 +45,7 @@
 		{
 			"name": "Saki: Achiga-hen - Episode of Side-A Special Episode",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Simulcast: Crunchyroll"
@@ -55,7 +55,7 @@
 		{
 			"name": "Inferno Cop",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -72,7 +72,7 @@
 		{
 			"name": "Aoi Sekai no Chuushin de",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Simulcast: Crunchyroll"
@@ -82,7 +82,7 @@
 		{
 			"name": "Kokoro Connect Michi Random",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -99,7 +99,7 @@
 		{
 			"name": "Tantei Opera Milky Holmes Alternative TWO: Kobayashi Opera to Koku no Ogarasu",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "KiteSeekers-Wasurenai"
@@ -109,7 +109,7 @@
 		{
 			"name": "Nekomonogatari (Kuro)",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -138,7 +138,7 @@
 		{
 			"name": "Puchimas! Petit Idolmaster.",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Chibiki (UTW) Simulcast: FUNimation (1 day late)"
@@ -148,7 +148,7 @@
 		{
 			"name": "Yama no Susume",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -171,7 +171,7 @@
 		{
 			"name": "Mangirl!",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -188,7 +188,7 @@
 		{
 			"name": "Ai Mai Mi",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Migoto Simulcast: Crunchyroll (2 days late)"
@@ -198,7 +198,7 @@
 		{
 			"name": "Cuticle Tantei Inaba",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Simulcast: Crunchyroll (0.5 days late)"
@@ -208,7 +208,7 @@
 		{
 			"name": "Maoyuu Maou Yuusha",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anime-Koi"
@@ -243,7 +243,7 @@
 		{
 			"name": "D.C. III ~Da Capo III~ 3rd Season",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "ASF-Oyatsu"
@@ -266,7 +266,7 @@
 		{
 			"name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -295,7 +295,7 @@
 		{
 			"name": "Minami-ke Tadaima 4th Season",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Hadena"
@@ -318,7 +318,7 @@
 		{
 			"name": "AKB0048 next stage 2nd Season",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "EveTaku"
@@ -335,7 +335,7 @@
 		{
 			"name": "Hakkenden: Touhou Hakken Ibun",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anime-Koi"
@@ -358,7 +358,7 @@
 		{
 			"name": "Senran Kagura",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -381,7 +381,7 @@
 		{
 			"name": "Love Live!",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "FFF"
@@ -398,7 +398,7 @@
 		{
 			"name": "Ishida to Asakura",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Migoto Simulcast: Crunchyroll"
@@ -408,7 +408,7 @@
 		{
 			"name": "AMNESIA",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -437,7 +437,7 @@
 		{
 			"name": "Line Offline Salaryman",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Cookie"
@@ -454,7 +454,7 @@
 		{
 			"name": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Whine-Subs Simulcast: Crunchyroll"
@@ -464,7 +464,7 @@
 		{
 			"name": "Bakumatsu Gijinden Roman",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "WhyNot Simulcast: Crunchyroll"
@@ -474,7 +474,7 @@
 		{
 			"name": "Senyuu.",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Commie Simulcast: Crunchyroll"
@@ -484,7 +484,7 @@
 		{
 			"name": "Jigoku Youchien",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "GotWoot"
@@ -494,7 +494,7 @@
 		{
 			"name": "Tamako Market",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -523,7 +523,7 @@
 		{
 			"name": "GJ-bu",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Anime-Koi"
@@ -540,7 +540,7 @@
 		{
 			"name": "Gudaguda Fairies 2 2nd Season",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Simulcast: Crunchyroll"
@@ -550,7 +550,7 @@
 		{
 			"name": "Sasami-san @ Ganbaranai",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -573,7 +573,7 @@
 		{
 			"name": "Vividred Operation",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -596,7 +596,7 @@
 		{
 			"name": "Boku wa Tomodachi ga Sukunai NEXT 2nd Season",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -619,7 +619,7 @@
 		{
 			"name": "Kotoura-san",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -654,7 +654,7 @@
 		{
 			"name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -683,7 +683,7 @@
 		{
 			"name": "Chihayafuru 2 2nd Season",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Commie Simulcast: Crunchyroll"
@@ -693,7 +693,7 @@
 		{
 			"name": "Ganbare! Oden-kun",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": ""
@@ -703,7 +703,7 @@
 		{
 			"name": "Beast Saga",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Ruri-Saizen"
@@ -713,7 +713,7 @@
 		{
 			"name": "Cardfight!! Vanguard: Link Joker Hen 3rd Season",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Simulcast: Crunchyroll"
@@ -723,7 +723,7 @@
 		{
 			"name": "Ganbare! Lulu Lolo",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": ""
@@ -733,7 +733,7 @@
 		{
 			"name": "Hetalia: The Beautiful World 3rd Season",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Simulcast: FUNimation"
@@ -743,7 +743,7 @@
 		{
 			"name": "Saki: Achiga-hen - Episode of Side-A Special Episode",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Simulcast: Crunchyroll"
@@ -753,7 +753,7 @@
 		{
 			"name": "Dokidoki! Precure",
 			"image": "",
-			"group": [{
+			"groups": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -782,7 +782,7 @@
 		{
 			"name": "Chokkyuu Hyoudai Robot Anime",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": "Simulcast: Crunchyroll (1 day late)"
@@ -792,7 +792,7 @@
 		{
 			"name": "Tenpou Suikoden Neo",
 			"image": "",
-			"group": [{
+			"groups": [{
 				"status": "release",
 				"detail": [{
 					"name": ""
