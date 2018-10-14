@@ -28,7 +28,12 @@
 		{
 			"name": "Bakumatsu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1420/93437.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Bakutsuri Bar Hunter",
@@ -55,12 +60,22 @@
 		{
 			"name": "Beelzebub-jou no Okinimesu mama.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1889/93555.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Conception",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1424/92295.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Dakaretai Otoko 1-i ni Odosarete Imasu.",
@@ -170,12 +185,22 @@
 		{
 			"name": "Himote House",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1460/93423.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hinomaru Zumou",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1825/93422.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hora, Mimi ga Mieteru yo!",
@@ -394,7 +419,12 @@
 		{
 			"name": "Shuudengo, Capsule Hotel de, Joushi ni Binetsu Utawaru Yoru.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1418/93509.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Sono Toki, Kanojo wa.",
@@ -404,7 +434,12 @@
 		{
 			"name": "Sora to Umi no Aida",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1837/93454.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Souten no Ken: Regenesis 2nd Season",
@@ -419,7 +454,12 @@
 		{
 			"name": "SSSS.Gridman",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1720/93408.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Onii-ChanSub"
+				}]
+			}]
 		},
 		{
 			"name": "Sword Art Online: Alicization",
@@ -444,7 +484,12 @@
 		{
 			"name": "The iDOLM@STER Side M: Wake atte Mini!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1711/93506.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Toaru Majutsu no Index III",
@@ -502,7 +547,7 @@
 			"name": "Uchuu Senkan Tiramisu II",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1642/93188.jpg",
 			"groups": [{
-				"status": "planned uncertain",
+				"status": "release",
 				"detail": [{
 					"name": "Kawaii Neko Team"
 				}]
@@ -511,7 +556,12 @@
 		{
 			"name": "Ulysses: Jeanne d&apos;Arc to Renkin no Kishi",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1711/93328.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Yagate Kimi ni Naru",
