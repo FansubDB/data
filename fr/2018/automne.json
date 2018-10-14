@@ -8,12 +8,22 @@
 	"tv": [{
 			"name": "Akanesasu Shoujo",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1867/93436.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Miaou Subs"
+				}]
+			}]
 		},
 		{
 			"name": "Anima Yell!",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1000/93295.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Bakumatsu",
@@ -299,7 +309,16 @@
 		{
 			"name": "Okoshiyasu, Chitose-chan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1311/93281.jpg",
-			"groups": []
+			"groups": [{
+				"status": "planned",
+				"detail": [{
+						"name": "Kokoro no Tamago"
+					},
+					{
+						"name": "Miaou Subs"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
@@ -331,7 +350,16 @@
 		{
 			"name": "Release the Spyce",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1416/91403.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Houkago Fansub"
+					},
+					{
+						"name": "Yarashii Fansub"
+					}
+				]
+			}]
 		},
 		{
 			"name": "RErideD: Tokigoe no Derrida",
@@ -422,11 +450,18 @@
 			"name": "Toaru Majutsu no Index III",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1307/93413.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Crunchyroll"
-				}]
-			}]
+					"status": "planned uncertain",
+					"detail": [{
+						"name": "Houkago Fansub"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Tokyo Ghoul:re 2nd Season",
