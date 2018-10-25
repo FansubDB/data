@@ -226,7 +226,7 @@
 			"name": "Irozuku Sekai no Ashita kara",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1710/91368.jpg",
 			"groups": [{
-				"status": "simulcast uncertain",
+				"status": "simulcast",
 				"detail": [{
 					"name": "Amazon Prime"
 				}]
@@ -269,7 +269,7 @@
 					}]
 				},
 				{
-					"status": "simulcast uncertain",
+					"status": "simulcast",
 					"detail": [{
 						"name": "Amazon Prime"
 					}]
@@ -305,7 +305,7 @@
 			"name": "Kishuku Gakkou no Juliet",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1908/93416.jpg",
 			"groups": [{
-				"status": "simulcast uncertain",
+				"status": "simulcast",
 				"detail": [{
 					"name": "Amazon Prime"
 				}]
@@ -495,18 +495,11 @@
 			"name": "Toaru Majutsu no Index III",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1307/93413.jpg",
 			"groups": [{
-					"status": "planned uncertain",
-					"detail": [{
-						"name": "Houkago Fansub"
-					}]
-				},
-				{
-					"status": "simulcast",
-					"detail": [{
-						"name": "Crunchyroll"
-					}]
-				}
-			]
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Tokyo Ghoul:re 2nd Season",
