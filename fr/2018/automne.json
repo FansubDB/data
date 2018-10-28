@@ -315,9 +315,9 @@
 			"name": "Kitsune no Koe",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1087/93424.jpg",
 			"groups": [{
-				"status": "planned",
+				"status": "simulcast",
 				"detail": [{
-					"name": "Kawaii Neko Team"
+					"name": "Crunchyroll"
 				}]
 			}]
 		},
@@ -524,7 +524,12 @@
 		{
 			"name": "Tsurune: Kazemai Koukou Kyuudou-bu",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1360/93571.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Uchi no Maid ga Uzasugiru!",
