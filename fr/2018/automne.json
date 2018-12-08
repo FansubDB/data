@@ -44,7 +44,7 @@
 			"name": "Beatless: Final Stage",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1745/93307.jpg",
 			"groups": [{
-					"status": "planned",
+					"status": "release",
 					"detail": [{
 						"name": "Natsumi no Sekai"
 					}]
@@ -115,7 +115,12 @@
 		{
 			"name": "FLCL Alternative",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1988/91292.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Owlolf Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Gaikotsu Shotenin Honda-san",
@@ -175,12 +180,29 @@
 		{
 			"name": "Han-Gyaku-sei Million Arthur",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1881/93383.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Mangakas Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Hashiri Tsuzukete Yokattatte.",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1533/94555.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kokoro no Tamago"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Mangakas Fansub"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Himote House",
@@ -220,7 +242,12 @@
 		{
 			"name": "Ingress the Animation",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1944/93421.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Irozuku Sekai no Ashita kara",
@@ -263,7 +290,7 @@
 			"name": "Karakuri Circus",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1152/93384.jpg",
 			"groups": [{
-					"status": "planned",
+					"status": "release",
 					"detail": [{
 						"name": "Natsumi no Sekai"
 					}]
@@ -334,16 +361,7 @@
 		{
 			"name": "Okoshiyasu, Chitose-chan",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1311/93281.jpg",
-			"groups": [{
-				"status": "planned",
-				"detail": [{
-						"name": "Kokoro no Tamago"
-					},
-					{
-						"name": "Miaou Subs"
-					}
-				]
-			}]
+			"groups": []
 		},
 		{
 			"name": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
