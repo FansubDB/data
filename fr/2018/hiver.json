@@ -5,5 +5,250 @@
 	"tv_lbl": "TV",
 	"ova_lbl": "OAV/ONA/Spéciaux",
 	"movie_lbl": "Films",
-	"tv": []
+	"tv": [{
+			"name": "3D Kanojo: Real Girl 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1104/95391.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ame-iro Cocoa: Side G",
+			"image": "https://cdn.myanimelist.net/images/anime/1632/95805.jpg",
+			"groups": []
+		},
+		{
+			"name": "BanG Dream! 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/1306/92896.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bermuda Triangle: Colorful Pastrale",
+			"image": "https://cdn.myanimelist.net/images/anime/1449/93947.jpg",
+			"groups": []
+		},
+		{
+			"name": "Boogiepop wa Warawanai",
+			"image": "https://cdn.myanimelist.net/images/anime/1135/95454.jpg",
+			"groups": []
+		},
+		{
+			"name": "B-Project: Zecchou＊Emotion",
+			"image": "https://cdn.myanimelist.net/images/anime/1370/97026.jpg",
+			"groups": []
+		},
+		{
+			"name": "Circlet Princess",
+			"image": "https://cdn.myanimelist.net/images/anime/1813/93697.jpg",
+			"groups": []
+		},
+		{
+			"name": "Date A Live III",
+			"image": "https://cdn.myanimelist.net/images/anime/1102/95810.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dimension High School",
+			"image": "https://cdn.myanimelist.net/images/anime/1549/96181.jpg",
+			"groups": []
+		},
+		{
+			"name": "Domestic na Kanojo",
+			"image": "https://cdn.myanimelist.net/images/anime/1021/95670.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dororo",
+			"image": "https://cdn.myanimelist.net/images/anime/1933/97061.jpg",
+			"groups": []
+		},
+		{
+			"name": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+			"image": "https://cdn.myanimelist.net/images/anime/1203/93374.jpg",
+			"groups": []
+		},
+		{
+			"name": "Egao no Daika",
+			"image": "https://cdn.myanimelist.net/images/anime/1935/96963.jpg",
+			"groups": []
+		},
+		{
+			"name": "Endro~!",
+			"image": "https://cdn.myanimelist.net/images/anime/1475/96180.jpg",
+			"groups": []
+		},
+		{
+			"name": "Flying Babies",
+			"image": "https://cdn.myanimelist.net/images/anime/10/89632.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fukigen na Mononokean: Tsuzuki",
+			"image": "https://cdn.myanimelist.net/images/anime/1960/95662.jpg",
+			"groups": []
+		},
+		{
+			"name": "Girly Air Force",
+			"image": "https://cdn.myanimelist.net/images/anime/1046/97025.jpg",
+			"groups": []
+		},
+		{
+			"name": "Go-toubun no Hanayome",
+			"image": "https://cdn.myanimelist.net/images/anime/1644/95779.jpg",
+			"groups": []
+		},
+		{
+			"name": "Grimms Notes The Animation",
+			"image": "https://cdn.myanimelist.net/images/anime/1708/96962.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ikki Tousen: Western Wolves",
+			"image": "https://cdn.myanimelist.net/images/anime/1914/95106.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+			"image": "https://cdn.myanimelist.net/images/anime/1291/97023.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kakegurui××",
+			"image": "https://cdn.myanimelist.net/images/anime/1151/93653.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kemono Friends 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1003/94945.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kemurikusa",
+			"image": "https://cdn.myanimelist.net/images/anime/1741/94887.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kouya no Kotobuki Hikoutai",
+			"image": "https://cdn.myanimelist.net/images/anime/1252/96179.jpg",
+			"groups": []
+		},
+		{
+			"name": "Lalala Lala-chan: Lala to Mai ni Chi",
+			"image": "https://cdn.myanimelist.net/images/anime/1771/96059.jpg",
+			"groups": []
+		},
+		{
+			"name": "Lupin III (2019)",
+			"image": "https://cdn.myanimelist.net/images/anime/1194/96573.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mahou Shoujo Tokushusen Asuka",
+			"image": "https://cdn.myanimelist.net/images/anime/1993/96614.jpg",
+			"groups": []
+		},
+		{
+			"name": "Manaria Friends",
+			"image": "https://cdn.myanimelist.net/images/anime/1580/95199.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mannaka no Rikkun",
+			"image": "https://cdn.myanimelist.net/images/anime/1206/91318.jpg",
+			"groups": []
+		},
+		{
+			"name": "Meiji Tokyo Renka",
+			"image": "https://cdn.myanimelist.net/images/anime/1205/96175.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mini Toji",
+			"image": "https://cdn.myanimelist.net/images/anime/1604/96194.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mob Psycho 100 II",
+			"image": "https://cdn.myanimelist.net/images/anime/1793/93254.jpg",
+			"groups": []
+		},
+		{
+			"name": "New Type-Moon Anime",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Oshiri Tantei 2nd Series",
+			"image": "https://cdn.myanimelist.net/images/anime/1215/92909.jpg",
+			"groups": []
+		},
+		{
+			"name": "Papa Datte, Shitai",
+			"image": "https://cdn.myanimelist.net/images/anime/1273/97100.jpg",
+			"groups": []
+		},
+		{
+			"name": "Pastel Memories",
+			"image": "https://cdn.myanimelist.net/images/anime/1563/95294.jpg",
+			"groups": []
+		},
+		{
+			"name": "Piano no Mori 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1670/93176.jpg",
+			"groups": []
+		},
+		{
+			"name": "Revisions",
+			"image": "https://cdn.myanimelist.net/images/anime/1062/97007.jpg",
+			"groups": []
+		},
+		{
+			"name": "Rinshi!! Ekoda-chan",
+			"image": "https://cdn.myanimelist.net/images/anime/1953/95142.jpg",
+			"groups": []
+		},
+		{
+			"name": "Saiki Kusuo no Ψ-nan Conclusion",
+			"image": "https://cdn.myanimelist.net/images/anime/1159/95661.jpg",
+			"groups": []
+		},
+		{
+			"name": "Star☆Twinkle Precure",
+			"image": "https://cdn.myanimelist.net/images/anime/1034/95846.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tantei Opera Milky Holmes: Psycho no Aisatsu",
+			"image": "https://cdn.myanimelist.net/images/anime/1370/96895.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tate no Yuusha no Nariagari",
+			"image": "https://cdn.myanimelist.net/images/anime/1659/93564.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ueno-san wa Bukiyou",
+			"image": "https://cdn.myanimelist.net/images/anime/1276/96178.jpg",
+			"groups": []
+		},
+		{
+			"name": "Watashi ni Tenshi ga Maiorita!",
+			"image": "https://cdn.myanimelist.net/images/anime/1030/96183.jpg",
+			"groups": []
+		},
+		{
+			"name": "W'z",
+			"image": "https://cdn.myanimelist.net/images/anime/1838/96177.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yakusoku no Neverland",
+			"image": "https://cdn.myanimelist.net/images/anime/1903/96943.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		}
+	]
 }
