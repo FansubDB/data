@@ -108,12 +108,22 @@
 		{
 			"name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
 			"image": "https://cdn.myanimelist.net/images/anime/1291/97023.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Kakegurui××",
 			"image": "https://cdn.myanimelist.net/images/anime/1151/93653.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Kemono Friends 2",
@@ -163,12 +173,22 @@
 		{
 			"name": "Mini Toji",
 			"image": "https://cdn.myanimelist.net/images/anime/1604/96194.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mob Psycho 100 II",
 			"image": "https://cdn.myanimelist.net/images/anime/1793/93254.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "New Type-Moon Anime",
@@ -193,7 +213,12 @@
 		{
 			"name": "Piano no Mori 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1670/93176.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Revisions",
@@ -208,7 +233,12 @@
 		{
 			"name": "Saiki Kusuo no Ψ-nan Conclusion",
 			"image": "https://cdn.myanimelist.net/images/anime/1159/95661.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Star☆Twinkle Precure",
@@ -223,7 +253,12 @@
 		{
 			"name": "Tate no Yuusha no Nariagari",
 			"image": "https://cdn.myanimelist.net/images/anime/1659/93564.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ueno-san wa Bukiyou",
