@@ -18,7 +18,12 @@
 		{
 			"name": "BanG Dream! 2nd Season",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/1306/92896.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Bermuda Triangle: Colorful Pastrale",
