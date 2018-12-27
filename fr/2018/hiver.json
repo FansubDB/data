@@ -63,7 +63,12 @@
 		{
 			"name": "Dororo",
 			"image": "https://cdn.myanimelist.net/images/anime/1933/97061.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
@@ -73,7 +78,12 @@
 		{
 			"name": "Egao no Daika",
 			"image": "https://cdn.myanimelist.net/images/anime/1935/96963.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Endro~!",
@@ -88,12 +98,22 @@
 		{
 			"name": "Fukigen na Mononokean: Tsuzuki",
 			"image": "https://cdn.myanimelist.net/images/anime/1960/95662.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Girly Air Force",
 			"image": "https://cdn.myanimelist.net/images/anime/1046/97025.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Go-toubun no Hanayome",
@@ -228,7 +248,12 @@
 		{
 			"name": "Revisions",
 			"image": "https://cdn.myanimelist.net/images/anime/1062/97007.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Rinshi!! Ekoda-chan",
@@ -278,7 +303,12 @@
 		{
 			"name": "W'z",
 			"image": "https://cdn.myanimelist.net/images/anime/1838/96177.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Yakusoku no Neverland",
