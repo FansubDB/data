@@ -33,7 +33,12 @@
 		{
 			"name": "Boogiepop wa Warawanai",
 			"image": "https://cdn.myanimelist.net/images/anime/1135/95454.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "B-Project: Zecchou＊Emotion",
@@ -48,7 +53,12 @@
 		{
 			"name": "Date A Live III",
 			"image": "https://cdn.myanimelist.net/images/anime/1102/95810.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Dimension High School",
