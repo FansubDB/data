@@ -68,7 +68,12 @@
 		{
 			"name": "Domestic na Kanojo",
 			"image": "https://cdn.myanimelist.net/images/anime/1021/95670.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Dororo",
@@ -133,7 +138,12 @@
 		{
 			"name": "Grimms Notes The Animation",
 			"image": "https://cdn.myanimelist.net/images/anime/1708/96962.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Ikki Tousen: Western Wolves",
@@ -243,7 +253,12 @@
 		{
 			"name": "Pastel Memories",
 			"image": "https://cdn.myanimelist.net/images/anime/1563/95294.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Piano no Mori 2nd Season",
