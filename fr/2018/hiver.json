@@ -173,7 +173,12 @@
 		{
 			"name": "Kemono Friends 2",
 			"image": "https://cdn.myanimelist.net/images/anime/1003/94945.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kemurikusa",
@@ -323,7 +328,12 @@
 		{
 			"name": "Watashi ni Tenshi ga Maiorita!",
 			"image": "https://cdn.myanimelist.net/images/anime/1030/96183.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "W'z",
