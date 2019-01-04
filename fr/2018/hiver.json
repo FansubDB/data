@@ -203,7 +203,12 @@
 		{
 			"name": "Mahou Shoujo Tokushusen Asuka",
 			"image": "https://cdn.myanimelist.net/images/anime/1993/96614.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Manaria Friends",
