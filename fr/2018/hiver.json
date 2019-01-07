@@ -13,7 +13,12 @@
 		{
 			"name": "Ame-iro Cocoa: Side G",
 			"image": "https://cdn.myanimelist.net/images/anime/1632/95805.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "BanG Dream! 2nd Season",
@@ -88,7 +93,12 @@
 		{
 			"name": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
 			"image": "https://cdn.myanimelist.net/images/anime/1203/93374.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Egao no Daika",
@@ -293,7 +303,12 @@
 		{
 			"name": "Rinshi!! Ekoda-chan",
 			"image": "https://cdn.myanimelist.net/images/anime/1953/95142.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Saiki Kusuo no Ψ-nan Conclusion",
