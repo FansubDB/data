@@ -48,7 +48,12 @@
 		{
 			"name": "B-Project: Zecchou＊Emotion",
 			"image": "https://cdn.myanimelist.net/images/anime/1370/97026.jpg",
-			"groups": []
+			"groups": [{
+				"status": "planned",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Circlet Princess",
@@ -84,11 +89,28 @@
 			"name": "Dororo",
 			"image": "https://cdn.myanimelist.net/images/anime/1933/97061.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+							"name": "Family Desuyo"
+						},
+						{
+							"name": "Natsumi no Sekai"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shin Sekai"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
@@ -193,7 +215,12 @@
 		{
 			"name": "Kemurikusa",
 			"image": "https://cdn.myanimelist.net/images/anime/1741/94887.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Kouya no Kotobuki Hikoutai",
@@ -223,7 +250,12 @@
 		{
 			"name": "Manaria Friends",
 			"image": "https://cdn.myanimelist.net/images/anime/1580/95199.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mannaka no Rikkun",
@@ -233,7 +265,12 @@
 		{
 			"name": "Meiji Tokyo Renka",
 			"image": "https://cdn.myanimelist.net/images/anime/1205/96175.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Mini Toji",
@@ -256,11 +293,6 @@
 			}]
 		},
 		{
-			"name": "New Type-Moon Anime",
-			"image": "",
-			"groups": []
-		},
-		{
 			"name": "Oshiri Tantei 2nd Series",
 			"image": "https://cdn.myanimelist.net/images/anime/1215/92909.jpg",
 			"groups": []
@@ -268,7 +300,12 @@
 		{
 			"name": "Papa Datte, Shitai",
 			"image": "https://cdn.myanimelist.net/images/anime/1273/97100.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Pastel Memories",
