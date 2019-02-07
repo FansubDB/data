@@ -49,7 +49,7 @@
 			"name": "B-Project: Zecchou＊Emotion",
 			"image": "https://cdn.myanimelist.net/images/anime/1370/97026.jpg",
 			"groups": [{
-				"status": "planned",
+				"status": "release",
 				"detail": [{
 					"name": "Kawaii Neko Team"
 				}]
@@ -135,7 +135,23 @@
 		{
 			"name": "Endro~!",
 			"image": "https://cdn.myanimelist.net/images/anime/1475/96180.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kodoku no Kawarini"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Kokoro no Tamago"
+						},
+						{
+							"name": "Onii-ChanSub"
+						}
+					]
+				}
+			]
 		},
 		{
 			"name": "Flying Babies",
@@ -165,7 +181,12 @@
 		{
 			"name": "Go-toubun no Hanayome",
 			"image": "https://cdn.myanimelist.net/images/anime/1644/95779.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Grimms Notes The Animation",
@@ -196,11 +217,24 @@
 			"name": "Kakegurui××",
 			"image": "https://cdn.myanimelist.net/images/anime/1151/93653.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Netflix"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "matheousse"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shin Sekai"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Netflix"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Kemono Friends 2",
@@ -225,16 +259,16 @@
 		{
 			"name": "Kouya no Kotobuki Hikoutai",
 			"image": "https://cdn.myanimelist.net/images/anime/1252/96179.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kodoku no Kawarini"
+				}]
+			}]
 		},
 		{
 			"name": "Lalala Lala-chan: Lala to Mai ni Chi",
 			"image": "https://cdn.myanimelist.net/images/anime/1771/96059.jpg",
-			"groups": []
-		},
-		{
-			"name": "Lupin III (2019)",
-			"image": "https://cdn.myanimelist.net/images/anime/1194/96573.jpg",
 			"groups": []
 		},
 		{
@@ -380,7 +414,12 @@
 		{
 			"name": "Ueno-san wa Bukiyou",
 			"image": "https://cdn.myanimelist.net/images/anime/1276/96178.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "DeepL Sub"
+				}]
+			}]
 		},
 		{
 			"name": "Watashi ni Tenshi ga Maiorita!",
