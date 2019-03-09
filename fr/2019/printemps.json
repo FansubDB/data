@@ -1,0 +1,289 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "Aikatsu Friends!: Kagayaki no Jewel",
+			"image": "https://cdn.myanimelist.net/images/anime/1026/98476.jpg",
+			"groups": []
+		},
+		{
+			"name": "Araiya-san! Ore to Aitsu ga Onnayu de!?",
+			"image": "https://cdn.myanimelist.net/images/anime/1756/99295.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bakugan: Battle Planet",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Bakumatsu: Crisis",
+			"image": "https://cdn.myanimelist.net/images/anime/1585/99180.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bokutachi wa Benkyou ga Dekinai",
+			"image": "https://cdn.myanimelist.net/images/anime/1256/97725.jpg",
+			"groups": []
+		},
+		{
+			"name": "B Rappers Street",
+			"image": "https://cdn.myanimelist.net/images/anime/1126/99095.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bungou Stray Dogs 3rd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1829/98115.jpg",
+			"groups": []
+		},
+		{
+			"name": "Cardfight!! Vanguard: Zoku Koukousei-hen",
+			"image": "https://cdn.myanimelist.net/images/anime/1669/99015.jpg",
+			"groups": []
+		},
+		{
+			"name": "Carole & Tuesday",
+			"image": "https://cdn.myanimelist.net/images/anime/1611/96157.jpg",
+			"groups": []
+		},
+		{
+			"name": "Chou Kadou Girl ⅙: Amazing Stranger",
+			"image": "https://cdn.myanimelist.net/images/anime/1492/99084.jpg",
+			"groups": []
+		},
+		{
+			"name": "Cinderella Girls Gekijou: Climax Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1705/96923.jpg",
+			"groups": []
+		},
+		{
+			"name": "Diamond no Ace: Act II",
+			"image": "https://cdn.myanimelist.net/images/anime/1571/99220.jpg",
+			"groups": []
+		},
+		{
+			"name": "Duel Masters!!",
+			"image": "https://cdn.myanimelist.net/images/anime/1741/98339.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fairy Gone",
+			"image": "https://cdn.myanimelist.net/images/anime/1040/98426.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fruits Basket (2019)",
+			"image": "https://cdn.myanimelist.net/images/anime/1964/96427.jpg",
+			"groups": []
+		},
+		{
+			"name": "Gunjou no Magmel",
+			"image": "https://cdn.myanimelist.net/images/anime/1063/98597.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hachigatsu no Cinderella Nine",
+			"image": "https://cdn.myanimelist.net/images/anime/1937/99005.jpg",
+			"groups": []
+		},
+		{
+			"name": "Han-Gyaku-sei Million Arthur 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1251/99666.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hitoribocchi no ○○ Seikatsu",
+			"image": "https://cdn.myanimelist.net/images/anime/1130/99458.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hora, Mimi ga Mieteru yo! Season 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1309/99419.jpg",
+			"groups": []
+		},
+		{
+			"name": "Isekai Quartet",
+			"image": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg",
+			"groups": []
+		},
+		{
+			"name": "Jimoto ga Japan",
+			"image": "https://cdn.myanimelist.net/images/anime/1396/99145.jpg",
+			"groups": []
+		},
+		{
+			"name": "Joshi Kausei",
+			"image": "https://cdn.myanimelist.net/images/anime/1660/98376.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kabuki-chou Sherlock",
+			"image": "https://cdn.myanimelist.net/images/anime/1272/93430.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kedama no Gonjiro",
+			"image": "https://cdn.myanimelist.net/images/anime/1225/98340.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kenja no Mago",
+			"image": "https://cdn.myanimelist.net/images/anime/1745/99413.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kidou Senshi Gundam: The Origin - Zenya Akai Suisei",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kimetsu no Yaiba",
+			"image": "https://cdn.myanimelist.net/images/anime/1211/97710.jpg",
+			"groups": []
+		},
+		{
+			"name": "King of Prism: Shiny Seven Stars (TV)",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kiratto Pri☆chan 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1676/98992.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kono Oto Tomare!",
+			"image": "https://cdn.myanimelist.net/images/anime/1801/93272.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+			"image": "https://cdn.myanimelist.net/images/anime/1976/99003.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mayonaka no Occult Koumuin",
+			"image": "https://cdn.myanimelist.net/images/anime/1698/95008.jpg",
+			"groups": []
+		},
+		{
+			"name": "Midara na Ao-chan wa Benkyou ga Dekinai",
+			"image": "https://cdn.myanimelist.net/images/anime/1718/98214.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mix",
+			"image": "https://cdn.myanimelist.net/images/anime/1722/99022.jpg",
+			"groups": []
+		},
+		{
+			"name": "Namu Amida Butsu!: Rendai Utena",
+			"image": "https://cdn.myanimelist.net/images/anime/1598/99004.jpg",
+			"groups": []
+		},
+		{
+			"name": "Nande Koko ni Sensei ga!?",
+			"image": "https://cdn.myanimelist.net/images/anime/1765/99673.jpg",
+			"groups": []
+		},
+		{
+			"name": "Neko Neko Nihonshi 4th Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1092/99365.jpg",
+			"groups": []
+		},
+		{
+			"name": "Neko no Niagho",
+			"image": "https://cdn.myanimelist.net/images/anime/1714/97643.jpg",
+			"groups": []
+		},
+		{
+			"name": "Nintama Rantarou no Uchuu Daibouken with Cosmic Front☆Next (2019)",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Nobunaga-sensei no Osanazuma",
+			"image": "https://cdn.myanimelist.net/images/anime/1524/97286.jpg",
+			"groups": []
+		},
+		{
+			"name": "One Punch Man 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1805/99571.jpg",
+			"groups": []
+		},
+		{
+			"name": "Persona 5 the Animation: Stars and Ours",
+			"image": "https://cdn.myanimelist.net/images/anime/1469/98067.jpg",
+			"groups": []
+		},
+		{
+			"name": "Pop Team Epic (2019)",
+			"image": "https://cdn.myanimelist.net/images/anime/1842/91397.jpg",
+			"groups": []
+		},
+		{
+			"name": "RobiHachi",
+			"image": "https://cdn.myanimelist.net/images/anime/1315/99433.jpg",
+			"groups": []
+		},
+		{
+			"name": "Sarazanmai",
+			"image": "https://cdn.myanimelist.net/images/anime/1970/99302.jpg",
+			"groups": []
+		},
+		{
+			"name": "Senryuu Shoujo",
+			"image": "https://cdn.myanimelist.net/images/anime/1751/98216.jpg",
+			"groups": []
+		},
+		{
+			"name": "Sewayaki Kitsune no Senko-san",
+			"image": "https://cdn.myanimelist.net/images/anime/1814/99677.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shingeki no Kyojin Season 3 Part 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1711/99678.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shoumetsu Toshi",
+			"image": "https://cdn.myanimelist.net/images/anime/1022/98071.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shounen Ashibe GO! GO! Goma-chan 4th Season",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Strike Witches: 501-butai Hasshin Shimasu!",
+			"image": "https://cdn.myanimelist.net/images/anime/1791/99459.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yatogame-chan Kansatsu Nikki",
+			"image": "https://cdn.myanimelist.net/images/anime/1142/99002.jpg",
+			"groups": []
+		},
+		{
+			"name": "Youkai Watch!",
+			"image": "https://cdn.myanimelist.net/images/anime/1194/99093.jpg",
+			"groups": []
+		},
+		{
+			"name": "Zannen na Ikimono Jiten (2019)",
+			"image": "https://cdn.myanimelist.net/images/anime/1678/99514.jpg",
+			"groups": []
+		},
+		{
+			"name": "Zoku Owarimonogatari (TV)",
+			"image": "",
+			"groups": []
+		}
+	]
+}
