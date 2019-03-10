@@ -23,7 +23,12 @@
 		{
 			"name": "Bakumatsu: Crisis",
 			"image": "https://cdn.myanimelist.net/images/anime/1585/99180.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Bokutachi wa Benkyou ga Dekinai",
@@ -38,7 +43,12 @@
 		{
 			"name": "Bungou Stray Dogs 3rd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1829/98115.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Cardfight!! Vanguard: Zoku Koukousei-hen",
@@ -143,7 +153,12 @@
 		{
 			"name": "Kimetsu no Yaiba",
 			"image": "https://cdn.myanimelist.net/images/anime/1211/97710.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "King of Prism: Shiny Seven Stars (TV)",
@@ -213,12 +228,22 @@
 		{
 			"name": "One Punch Man 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1805/99571.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Persona 5 the Animation: Stars and Ours",
 			"image": "https://cdn.myanimelist.net/images/anime/1469/98067.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Pop Team Epic (2019)",
@@ -283,7 +308,12 @@
 		{
 			"name": "Zoku Owarimonogatari (TV)",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		}
 	]
 }
