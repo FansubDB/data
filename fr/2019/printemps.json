@@ -33,7 +33,12 @@
 		{
 			"name": "Bokutachi wa Benkyou ga Dekinai",
 			"image": "https://cdn.myanimelist.net/images/anime/1256/97725.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "B Rappers Street",
@@ -68,7 +73,12 @@
 		{
 			"name": "Cinderella Girls Gekijou: Climax Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1705/96923.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Diamond no Ace: Act II",
@@ -88,7 +98,19 @@
 		{
 			"name": "Fruits Basket (2019)",
 			"image": "https://cdn.myanimelist.net/images/anime/1964/96427.jpg",
-			"groups": []
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Wakanim"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Gunjou no Magmel",
@@ -98,7 +120,19 @@
 		{
 			"name": "Hachigatsu no Cinderella Nine",
 			"image": "https://cdn.myanimelist.net/images/anime/1937/99005.jpg",
-			"groups": []
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Han-Gyaku-sei Million Arthur 2nd Season",
@@ -173,7 +207,12 @@
 		{
 			"name": "Kono Oto Tomare!",
 			"image": "https://cdn.myanimelist.net/images/anime/1801/93272.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
@@ -183,7 +222,12 @@
 		{
 			"name": "Mayonaka no Occult Koumuin",
 			"image": "https://cdn.myanimelist.net/images/anime/1698/95008.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Midara na Ao-chan wa Benkyou ga Dekinai",
@@ -193,7 +237,12 @@
 		{
 			"name": "Mix",
 			"image": "https://cdn.myanimelist.net/images/anime/1722/99022.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Namu Amida Butsu!: Rendai Utena",
@@ -248,7 +297,12 @@
 		{
 			"name": "Pop Team Epic (2019)",
 			"image": "https://cdn.myanimelist.net/images/anime/1842/91397.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "RobiHachi",
@@ -273,7 +327,12 @@
 		{
 			"name": "Shingeki no Kyojin Season 3 Part 2",
 			"image": "https://cdn.myanimelist.net/images/anime/1711/99678.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Shoumetsu Toshi",
