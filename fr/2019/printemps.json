@@ -13,7 +13,12 @@
 		{
 			"name": "Araiya-san! Ore to Aitsu ga Onnayu de!?",
 			"image": "https://cdn.myanimelist.net/images/anime/1756/99295.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Bakugan: Battle Planet",
@@ -63,12 +68,22 @@
 		{
 			"name": "Carole & Tuesday",
 			"image": "https://cdn.myanimelist.net/images/anime/1611/96157.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Chou Kadou Girl ⅙: Amazing Stranger",
 			"image": "https://cdn.myanimelist.net/images/anime/1492/99084.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Cinderella Girls Gekijou: Climax Season",
@@ -93,7 +108,12 @@
 		{
 			"name": "Fairy Gone",
 			"image": "https://cdn.myanimelist.net/images/anime/1040/98426.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Fruits Basket (2019)",
@@ -142,7 +162,12 @@
 		{
 			"name": "Hitoribocchi no ○○ Seikatsu",
 			"image": "https://cdn.myanimelist.net/images/anime/1130/99458.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hora, Mimi ga Mieteru yo! Season 2",
@@ -152,7 +177,12 @@
 		{
 			"name": "Isekai Quartet",
 			"image": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Natsumi no Sekai"
+				}]
+			}]
 		},
 		{
 			"name": "Jimoto ga Japan",
@@ -177,7 +207,12 @@
 		{
 			"name": "Kenja no Mago",
 			"image": "https://cdn.myanimelist.net/images/anime/1745/99413.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Kidou Senshi Gundam: The Origin - Zenya Akai Suisei",
@@ -217,7 +252,12 @@
 		{
 			"name": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
 			"image": "https://cdn.myanimelist.net/images/anime/1976/99003.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Jiyuu No Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Mayonaka no Occult Koumuin",
@@ -232,7 +272,12 @@
 		{
 			"name": "Midara na Ao-chan wa Benkyou ga Dekinai",
 			"image": "https://cdn.myanimelist.net/images/anime/1718/98214.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Jiyuu No Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Mix",
@@ -247,12 +292,22 @@
 		{
 			"name": "Namu Amida Butsu!: Rendai Utena",
 			"image": "https://cdn.myanimelist.net/images/anime/1598/99004.jpg",
-			"groups": []
+			"groups": [{
+				"status": "planned",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Nande Koko ni Sensei ga!?",
 			"image": "https://cdn.myanimelist.net/images/anime/1765/99673.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Jiyuu No Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Neko Neko Nihonshi 4th Season",
@@ -272,7 +327,12 @@
 		{
 			"name": "Nobunaga-sensei no Osanazuma",
 			"image": "https://cdn.myanimelist.net/images/anime/1524/97286.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "One Punch Man 2nd Season",
@@ -307,12 +367,22 @@
 		{
 			"name": "RobiHachi",
 			"image": "https://cdn.myanimelist.net/images/anime/1315/99433.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Sarazanmai",
 			"image": "https://cdn.myanimelist.net/images/anime/1970/99302.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Senryuu Shoujo",
@@ -337,7 +407,12 @@
 		{
 			"name": "Shoumetsu Toshi",
 			"image": "https://cdn.myanimelist.net/images/anime/1022/98071.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Shounen Ashibe GO! GO! Goma-chan 4th Season",
