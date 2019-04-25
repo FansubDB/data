@@ -135,7 +135,19 @@
 		{
 			"name": "Gunjou no Magmel",
 			"image": "https://cdn.myanimelist.net/images/anime/1063/98597.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kawaii Neko Team"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SnowSubs"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Hachigatsu no Cinderella Nine",
@@ -273,11 +285,18 @@
 			"name": "Midara na Ao-chan wa Benkyou ga Dekinai",
 			"image": "https://cdn.myanimelist.net/images/anime/1718/98214.jpg",
 			"groups": [{
-				"status": "release",
-				"detail": [{
-					"name": "Jiyuu No Fansub"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Family Desuyo"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Jiyuu No Fansub"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Mix",
@@ -387,12 +406,33 @@
 		{
 			"name": "Senryuu Shoujo",
 			"image": "https://cdn.myanimelist.net/images/anime/1751/98216.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kawaii Neko Team"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Owlolf Fansub"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Sewayaki Kitsune no Senko-san",
 			"image": "https://cdn.myanimelist.net/images/anime/1814/99677.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Owlolf Fansub"
+					},
+					{
+						"name": "SnowSubs"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Shingeki no Kyojin Season 3 Part 2",
