@@ -98,7 +98,12 @@
 		{
 			"name": "Diamond no Ace: Act II",
 			"image": "https://cdn.myanimelist.net/images/anime/1571/99220.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Duel Masters!!",
@@ -204,7 +209,12 @@
 		{
 			"name": "Joshi Kausei",
 			"image": "https://cdn.myanimelist.net/images/anime/1660/98376.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kabuki-chou Sherlock",
@@ -244,7 +254,12 @@
 		{
 			"name": "King of Prism: Shiny Seven Stars (TV)",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kiratto Pri☆chan 2nd Season",
