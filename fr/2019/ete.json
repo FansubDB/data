@@ -1,0 +1,199 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "Araburu Kisetsu no Otome-domo yo.",
+			"image": "https://cdn.myanimelist.net/images/anime/1256/101166.jpg",
+			"groups": []
+		},
+		{
+			"name": "Arifureta Shokugyou de Sekai Saikyou",
+			"image": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg",
+			"groups": []
+		},
+		{
+			"name": "BEM",
+			"image": "https://cdn.myanimelist.net/images/anime/1127/99941.jpg",
+			"groups": []
+		},
+		{
+			"name": "Cop Craft",
+			"image": "https://cdn.myanimelist.net/images/anime/1589/101178.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dr. Stone",
+			"image": "https://cdn.myanimelist.net/images/anime/1758/97736.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dumbbell Nan Kilo Moteru?",
+			"image": "https://cdn.myanimelist.net/images/anime/1385/101060.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka II",
+			"image": "https://cdn.myanimelist.net/images/anime/1862/100009.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Enen no Shouboutai",
+			"image": "https://cdn.myanimelist.net/images/anime/1967/100716.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Ensemble Stars!",
+			"image": "https://cdn.myanimelist.net/images/anime/1504/100488.jpg",
+			"groups": []
+		},
+		{
+			"name": "Given",
+			"image": "https://cdn.myanimelist.net/images/anime/1588/99801.jpg",
+			"groups": []
+		},
+		{
+			"name": "Granbelm",
+			"image": "https://cdn.myanimelist.net/images/anime/1027/99942.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hakata Mentai! Pirikarako-chan",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Isekai Cheat Magician",
+			"image": "https://cdn.myanimelist.net/images/anime/1162/101232.jpg",
+			"groups": []
+		},
+		{
+			"name": "Joshikousei no Mudazukai",
+			"image": "https://cdn.myanimelist.net/images/anime/1227/99966.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kanata no Astra",
+			"image": "https://cdn.myanimelist.net/images/anime/1557/100976.jpg",
+			"groups": []
+		},
+		{
+			"name": "Karakai Jouzu no Takagi-san 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1792/101180.jpg",
+			"groups": []
+		},
+		{
+			"name": "Katsute Kami Datta Kemono-tachi e",
+			"image": "https://cdn.myanimelist.net/images/anime/1109/101230.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+			"image": "https://cdn.myanimelist.net/images/anime/1601/99934.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kochoki: Wakaki Nobunaga",
+			"image": "https://cdn.myanimelist.net/images/anime/1444/101157.jpg",
+			"groups": []
+		},
+		{
+			"name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+			"image": "https://cdn.myanimelist.net/images/anime/1819/101037.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Machikado Mazoku",
+			"image": "https://cdn.myanimelist.net/images/anime/1395/101109.jpg",
+			"groups": []
+		},
+		{
+			"name": "Maou-sama, Retry!",
+			"image": "https://cdn.myanimelist.net/images/anime/1589/100722.jpg",
+			"groups": []
+		},
+		{
+			"name": "Naka no Hito Genome [Jikkyouchuu]",
+			"image": "https://cdn.myanimelist.net/images/anime/1857/94908.jpg",
+			"groups": []
+		},
+		{
+			"name": "Re:Stage! Dream Days♪",
+			"image": "https://cdn.myanimelist.net/images/anime/1306/101222.jpg",
+			"groups": []
+		},
+		{
+			"name": "Senki Zesshou Symphogear XV",
+			"image": "https://cdn.myanimelist.net/images/anime/1318/101110.jpg",
+			"groups": []
+		},
+		{
+			"name": "Sounan desu ka?",
+			"image": "https://cdn.myanimelist.net/images/anime/1167/101216.jpg",
+			"groups": []
+		},
+		{
+			"name": "Starmyu 3rd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1663/99834.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tejina-senpai",
+			"image": "https://cdn.myanimelist.net/images/anime/1510/99891.jpg",
+			"groups": []
+		},
+		{
+			"name": "Toaru Kagaku no Accelerator",
+			"image": "https://cdn.myanimelist.net/images/anime/1160/99995.jpg",
+			"groups": []
+		},
+		{
+			"name": "Try Knights",
+			"image": "https://cdn.myanimelist.net/images/anime/1358/100028.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tsuujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaasan wa Suki desu ka?",
+			"image": "https://cdn.myanimelist.net/images/anime/1423/100995.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Uchi no Musume no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+			"image": "https://cdn.myanimelist.net/images/anime/1568/101203.jpg",
+			"groups": []
+		},
+		{
+			"name": "Vinland Saga",
+			"image": "https://cdn.myanimelist.net/images/anime/1061/99011.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yami Shibai 7th Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1795/101063.jpg",
+			"groups": []
+		}
+	]
+}
