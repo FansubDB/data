@@ -8,7 +8,12 @@
 	"tv": [{
 			"name": "Aikatsu Friends!: Kagayaki no Jewel",
 			"image": "https://cdn.myanimelist.net/images/anime/1026/98476.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kokoro no Tamago"
+				}]
+			}]
 		},
 		{
 			"name": "Araiya-san! Ore to Aitsu ga Onnayu de!?",
@@ -69,11 +74,28 @@
 			"name": "Carole & Tuesday",
 			"image": "https://cdn.myanimelist.net/images/anime/1611/96157.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Netflix"
-				}]
-			}]
+					"status": "release",
+					"detail": [{
+						"name": "Jiyuu No Fansub"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Kodoku no Kawarini"
+						},
+						{
+							"name": "Natsumi no Sekai"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Netflix"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Chou Kadou Girl ⅙: Amazing Stranger",
@@ -239,7 +261,12 @@
 		{
 			"name": "Kidou Senshi Gundam: The Origin - Zenya Akai Suisei",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kimetsu no Yaiba",
@@ -300,7 +327,7 @@
 			"name": "Midara na Ao-chan wa Benkyou ga Dekinai",
 			"image": "https://cdn.myanimelist.net/images/anime/1718/98214.jpg",
 			"groups": [{
-					"status": "release",
+					"status": "dropped",
 					"detail": [{
 						"name": "Family Desuyo"
 					}]
@@ -309,6 +336,12 @@
 					"status": "release",
 					"detail": [{
 						"name": "Jiyuu No Fansub"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Pikari Teshima"
 					}]
 				}
 			]
@@ -327,7 +360,7 @@
 			"name": "Namu Amida Butsu!: Rendai Utena",
 			"image": "https://cdn.myanimelist.net/images/anime/1598/99004.jpg",
 			"groups": [{
-				"status": "planned",
+				"status": "release",
 				"detail": [{
 					"name": "Kawaii Neko Team"
 				}]
@@ -439,15 +472,22 @@
 			"name": "Sewayaki Kitsune no Senko-san",
 			"image": "https://cdn.myanimelist.net/images/anime/1814/99677.jpg",
 			"groups": [{
-				"status": "release",
-				"detail": [{
-						"name": "Owlolf Fansub"
-					},
-					{
-						"name": "SnowSubs"
-					}
-				]
-			}]
+					"status": "release",
+					"detail": [{
+							"name": "Owlolf Fansub"
+						},
+						{
+							"name": "SnowSubs"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Kitsune no Atelier"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Shingeki no Kyojin Season 3 Part 2",
@@ -472,17 +512,32 @@
 		{
 			"name": "Shounen Ashibe GO! GO! Goma-chan 4th Season",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Strike Witches: 501-butai Hasshin Shimasu!",
 			"image": "https://cdn.myanimelist.net/images/anime/1791/99459.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kitsune no Atelier"
+				}]
+			}]
 		},
 		{
 			"name": "Yatogame-chan Kansatsu Nikki",
 			"image": "https://cdn.myanimelist.net/images/anime/1142/99002.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Youkai Watch!",
