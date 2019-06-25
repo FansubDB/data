@@ -21,6 +21,11 @@
 			"groups": []
 		},
 		{
+			"name": "Business Fish",
+			"image": "",
+			"groups": []
+		},
+		{
 			"name": "Cop Craft",
 			"image": "https://cdn.myanimelist.net/images/anime/1589/101178.jpg",
 			"groups": []
@@ -28,7 +33,12 @@
 		{
 			"name": "Dr. Stone",
 			"image": "https://cdn.myanimelist.net/images/anime/1758/97736.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Dumbbell Nan Kilo Moteru?",
@@ -46,14 +56,21 @@
 			}]
 		},
 		{
-			"name": "Enen no Shouboutai",
+			"name": "Enn Enn no Shouboutai",
 			"image": "https://cdn.myanimelist.net/images/anime/1967/100716.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Wakanim"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Wakanim"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Ensemble Stars!",
@@ -73,7 +90,12 @@
 		{
 			"name": "Hakata Mentai! Pirikarako-chan",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Isekai Cheat Magician",
@@ -98,7 +120,12 @@
 		{
 			"name": "Katsute Kami Datta Kemono-tachi e",
 			"image": "https://cdn.myanimelist.net/images/anime/1109/101230.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
@@ -148,7 +175,12 @@
 		{
 			"name": "Sounan desu ka?",
 			"image": "https://cdn.myanimelist.net/images/anime/1167/101216.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Starmyu 3rd Season",
@@ -158,7 +190,12 @@
 		{
 			"name": "Tejina-senpai",
 			"image": "https://cdn.myanimelist.net/images/anime/1510/99891.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Toaru Kagaku no Accelerator",
@@ -188,12 +225,22 @@
 		{
 			"name": "Vinland Saga",
 			"image": "https://cdn.myanimelist.net/images/anime/1061/99011.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Yami Shibai 7th Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1795/101063.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		}
 	]
 }
