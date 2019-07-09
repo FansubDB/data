@@ -8,12 +8,22 @@
 	"tv": [{
 			"name": "Araburu Kisetsu no Otome-domo yo.",
 			"image": "https://cdn.myanimelist.net/images/anime/1256/101166.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kitsune no Atelier"
+				}]
+			}]
 		},
 		{
 			"name": "Arifureta Shokugyou de Sekai Saikyou",
 			"image": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "BEM",
@@ -28,7 +38,12 @@
 		{
 			"name": "Cop Craft",
 			"image": "https://cdn.myanimelist.net/images/anime/1589/101178.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Dr. Stone",
@@ -43,7 +58,12 @@
 		{
 			"name": "Dumbbell Nan Kilo Moteru?",
 			"image": "https://cdn.myanimelist.net/images/anime/1385/101060.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka II",
@@ -85,7 +105,12 @@
 		{
 			"name": "Granbelm",
 			"image": "https://cdn.myanimelist.net/images/anime/1027/99942.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hakata Mentai! Pirikarako-chan",
@@ -110,7 +135,19 @@
 		{
 			"name": "Kanata no Astra",
 			"image": "https://cdn.myanimelist.net/images/anime/1557/100976.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kitsune no Atelier"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Owlolf Fansub"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Karakai Jouzu no Takagi-san 2",
@@ -155,7 +192,12 @@
 		{
 			"name": "Maou-sama, Retry!",
 			"image": "https://cdn.myanimelist.net/images/anime/1589/100722.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Naka no Hito Genome [Jikkyouchuu]",
@@ -170,7 +212,12 @@
 		{
 			"name": "Senki Zesshou Symphogear XV",
 			"image": "https://cdn.myanimelist.net/images/anime/1318/101110.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Sounan desu ka?",
@@ -220,17 +267,29 @@
 		{
 			"name": "Uchi no Musume no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
 			"image": "https://cdn.myanimelist.net/images/anime/1568/101203.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Vinland Saga",
 			"image": "https://cdn.myanimelist.net/images/anime/1061/99011.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Natsumi no Sekai"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Yami Shibai 7th Season",
