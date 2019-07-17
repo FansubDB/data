@@ -31,11 +31,6 @@
 			"groups": []
 		},
 		{
-			"name": "Business Fish",
-			"image": "",
-			"groups": []
-		},
-		{
 			"name": "Cop Craft",
 			"image": "https://cdn.myanimelist.net/images/anime/1589/101178.jpg",
 			"groups": [{
@@ -100,7 +95,12 @@
 		{
 			"name": "Given",
 			"image": "https://cdn.myanimelist.net/images/anime/1588/99801.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Granbelm",
@@ -125,7 +125,12 @@
 		{
 			"name": "Isekai Cheat Magician",
 			"image": "https://cdn.myanimelist.net/images/anime/1162/101232.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Joshikousei no Mudazukai",
@@ -167,7 +172,12 @@
 		{
 			"name": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
 			"image": "https://cdn.myanimelist.net/images/anime/1601/99934.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Kochoki: Wakaki Nobunaga",
@@ -202,7 +212,12 @@
 		{
 			"name": "Naka no Hito Genome [Jikkyouchuu]",
 			"image": "https://cdn.myanimelist.net/images/anime/1857/94908.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Re:Stage! Dream Days♪",
@@ -247,7 +262,12 @@
 		{
 			"name": "Toaru Kagaku no Accelerator",
 			"image": "https://cdn.myanimelist.net/images/anime/1160/99995.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Try Knights",
