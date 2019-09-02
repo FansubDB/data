@@ -1,0 +1,254 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "Actors: Songs Connection",
+			"image": "https://cdn.myanimelist.net/images/anime/1056/100036.jpg",
+			"groups": []
+		},
+		{
+			"name": "Africa no Salaryman (TV)",
+			"image": "https://cdn.myanimelist.net/images/anime/1937/102309.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ahiru no Sora",
+			"image": "https://cdn.myanimelist.net/images/anime/1505/102719.jpg",
+			"groups": []
+		},
+		{
+			"name": "Aikatsu on Parade!",
+			"image": "https://cdn.myanimelist.net/images/anime/1712/102652.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ani ni Tsukeru Kusuri wa Nai! 3",
+			"image": "https://cdn.myanimelist.net/images/anime/1610/101559.jpg",
+			"groups": []
+		},
+		{
+			"name": "Assassins Pride",
+			"image": "https://cdn.myanimelist.net/images/anime/1993/102704.jpg",
+			"groups": []
+		},
+		{
+			"name": "Azur Lane",
+			"image": "https://cdn.myanimelist.net/images/anime/1957/102383.jpg",
+			"groups": []
+		},
+		{
+			"name": "Babylon",
+			"image": "https://cdn.myanimelist.net/images/anime/1942/102707.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bananya: Fushigi na Nakamatachi",
+			"image": "https://cdn.myanimelist.net/images/anime/1449/102481.jpg",
+			"groups": []
+		},
+		{
+			"name": "Beastars",
+			"image": "https://cdn.myanimelist.net/images/anime/1234/102008.jpg",
+			"groups": []
+		},
+		{
+			"name": "Boku no Hero Academia 4th Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1718/102734.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bokutachi wa Benkyou ga Dekinai!",
+			"image": "https://cdn.myanimelist.net/images/anime/1952/101674.jpg",
+			"groups": []
+		},
+		{
+			"name": "Chihayafuru 3",
+			"image": "https://cdn.myanimelist.net/images/anime/1590/102068.jpg",
+			"groups": []
+		},
+		{
+			"name": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+			"image": "https://cdn.myanimelist.net/images/anime/1232/102384.jpg",
+			"groups": []
+		},
+		{
+			"name": "Chuubyou Gekihatsu Boy",
+			"image": "https://cdn.myanimelist.net/images/anime/1784/99872.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fairy Gone 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1100/102395.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+			"image": "https://cdn.myanimelist.net/images/anime/1264/100038.jpg",
+			"groups": []
+		},
+		{
+			"name": "Granblue Fantasy The Animation Season 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1705/102410.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hataage! Kemono Michi",
+			"image": "https://cdn.myanimelist.net/images/anime/1618/102343.jpg",
+			"groups": []
+		},
+		{
+			"name": "High Score Girl II",
+			"image": "https://cdn.myanimelist.net/images/anime/1560/99904.jpg",
+			"groups": []
+		},
+		{
+			"name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+			"image": "https://cdn.myanimelist.net/images/anime/1582/101697.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hoshiai no Sora",
+			"image": "https://cdn.myanimelist.net/images/anime/1537/101570.jpg",
+			"groups": []
+		},
+		{
+			"name": "Houkago Saikoro Club",
+			"image": "https://cdn.myanimelist.net/images/anime/1757/102526.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kabukichou Sherlock",
+			"image": "https://cdn.myanimelist.net/images/anime/1934/102099.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kaiju Step Wandabada",
+			"image": "https://cdn.myanimelist.net/images/anime/1132/102644.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kandagawa Jet Girls",
+			"image": "https://cdn.myanimelist.net/images/anime/1253/102366.jpg",
+			"groups": []
+		},
+		{
+			"name": "Keishichou Tokumu-bu Tokushu Kyouaku-han Taisaku-Shitsu Dai-Nana-ka -Tokunana-",
+			"image": "https://cdn.myanimelist.net/images/anime/1338/102486.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kono Oto Tomare! 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1709/97753.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+			"image": "https://cdn.myanimelist.net/images/anime/1462/100941.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mairimashita! Iruma-kun",
+			"image": "https://cdn.myanimelist.net/images/anime/1683/102836.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mugen no Juunin: Immortal",
+			"image": "https://cdn.myanimelist.net/images/anime/1263/102516.jpg",
+			"groups": []
+		},
+		{
+			"name": "Nanatsu no Taizai: Kamigami no Gekirin",
+			"image": "https://cdn.myanimelist.net/images/anime/1574/100519.jpg",
+			"groups": []
+		},
+		{
+			"name": "No Guns Life",
+			"image": "https://cdn.myanimelist.net/images/anime/1603/102342.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ore wo Suki nano wa Omae dake ka yo",
+			"image": "https://cdn.myanimelist.net/images/anime/1348/102797.jpg",
+			"groups": []
+		},
+		{
+			"name": "Pet",
+			"image": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
+			"groups": []
+		},
+		{
+			"name": "Phantasy Star Online 2: Episode Oracle",
+			"image": "https://cdn.myanimelist.net/images/anime/1923/99744.jpg",
+			"groups": []
+		},
+		{
+			"name": "Psycho-Pass 3",
+			"image": "https://cdn.myanimelist.net/images/anime/1165/99664.jpg",
+			"groups": []
+		},
+		{
+			"name": "Radiant 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1391/102816.jpg",
+			"groups": []
+		},
+		{
+			"name": "Rifle Is Beautiful",
+			"image": "https://cdn.myanimelist.net/images/anime/1874/100747.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shin Chuuka Ichiban!",
+			"image": "https://cdn.myanimelist.net/images/anime/1735/98774.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shokugeki no Souma: Shin no Sara",
+			"image": "https://cdn.myanimelist.net/images/anime/1258/102849.jpg",
+			"groups": []
+		},
+		{
+			"name": "Stand My Heroes: Piece of Truth",
+			"image": "https://cdn.myanimelist.net/images/anime/1119/101660.jpg",
+			"groups": []
+		},
+		{
+			"name": "Sword Art Online: Alicization - War of Underworld",
+			"image": "https://cdn.myanimelist.net/images/anime/1003/102165.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tenka Hyakken: Meiji-kan e Youkoso!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Urashimasakatasen no Nichijou",
+			"image": "https://cdn.myanimelist.net/images/anime/1294/102367.jpg",
+			"groups": []
+		},
+		{
+			"name": "Val × Love",
+			"image": "https://cdn.myanimelist.net/images/anime/1238/102067.jpg",
+			"groups": []
+		},
+		{
+			"name": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+			"image": "https://cdn.myanimelist.net/images/anime/1858/102811.jpg",
+			"groups": []
+		},
+		{
+			"name": "Zoids Wild Zero",
+			"image": "https://cdn.myanimelist.net/images/anime/1069/102621.jpg",
+			"groups": []
+		},
+		{
+			"name": "Z/X: Code Reunion",
+			"image": "https://cdn.myanimelist.net/images/anime/1672/92317.jpg",
+			"groups": []
+		}
+	]
+}
