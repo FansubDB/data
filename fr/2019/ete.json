@@ -28,7 +28,19 @@
 		{
 			"name": "BEM",
 			"image": "https://cdn.myanimelist.net/images/anime/1127/99941.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kodoku no Kawarini"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Solistrad"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Cop Craft",
@@ -90,7 +102,12 @@
 		{
 			"name": "Ensemble Stars!",
 			"image": "https://cdn.myanimelist.net/images/anime/1504/100488.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Given",
@@ -135,7 +152,16 @@
 		{
 			"name": "Joshikousei no Mudazukai",
 			"image": "https://cdn.myanimelist.net/images/anime/1227/99966.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Kodoku no Kawarini"
+					},
+					{
+						"name": "Owlolf Fansub"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Kanata no Astra",
@@ -182,7 +208,16 @@
 		{
 			"name": "Kochoki: Wakaki Nobunaga",
 			"image": "https://cdn.myanimelist.net/images/anime/1444/101157.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Kawaii Neko Team"
+					},
+					{
+						"name": "Kitsune no Atelier"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
