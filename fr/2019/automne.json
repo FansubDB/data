@@ -48,7 +48,12 @@
 		{
 			"name": "Bananya: Fushigi na Nakamatachi",
 			"image": "https://cdn.myanimelist.net/images/anime/1449/102481.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Beastars",
@@ -63,7 +68,12 @@
 		{
 			"name": "Bokutachi wa Benkyou ga Dekinai!",
 			"image": "https://cdn.myanimelist.net/images/anime/1952/101674.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Chihayafuru 3",
@@ -73,7 +83,12 @@
 		{
 			"name": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
 			"image": "https://cdn.myanimelist.net/images/anime/1232/102384.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Chuubyou Gekihatsu Boy",
@@ -81,19 +96,49 @@
 			"groups": []
 		},
 		{
+			"name": "Doll's Frontline: Iyashi-hen",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Egg Car",
+			"image": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
+			"groups": []
+		},
+		{
 			"name": "Fairy Gone 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1100/102395.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
 			"image": "https://cdn.myanimelist.net/images/anime/1264/100038.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Go! Go! Atom",
+			"image": "https://cdn.myanimelist.net/images/anime/1197/102904.jpg",
 			"groups": []
 		},
 		{
 			"name": "Granblue Fantasy The Animation Season 2",
 			"image": "https://cdn.myanimelist.net/images/anime/1705/102410.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Hataage! Kemono Michi",
@@ -108,7 +153,12 @@
 		{
 			"name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
 			"image": "https://cdn.myanimelist.net/images/anime/1582/101697.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hoshiai no Sora",
@@ -153,12 +203,12 @@
 		{
 			"name": "Mairimashita! Iruma-kun",
 			"image": "https://cdn.myanimelist.net/images/anime/1683/102836.jpg",
-			"groups": []
-		},
-		{
-			"name": "Mugen no Juunin: Immortal",
-			"image": "https://cdn.myanimelist.net/images/anime/1263/102516.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Nanatsu no Taizai: Kamigami no Gekirin",
@@ -173,7 +223,12 @@
 		{
 			"name": "Ore wo Suki nano wa Omae dake ka yo",
 			"image": "https://cdn.myanimelist.net/images/anime/1348/102797.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Pet",
@@ -183,6 +238,11 @@
 		{
 			"name": "Phantasy Star Online 2: Episode Oracle",
 			"image": "https://cdn.myanimelist.net/images/anime/1923/99744.jpg",
+			"groups": []
+		},
+		{
+			"name": "Pocket Monsters",
+			"image": "https://cdn.myanimelist.net/images/anime/1311/103286.jpg",
 			"groups": []
 		},
 		{
@@ -198,7 +258,12 @@
 		{
 			"name": "Rifle Is Beautiful",
 			"image": "https://cdn.myanimelist.net/images/anime/1874/100747.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Shin Chuuka Ichiban!",
@@ -208,7 +273,12 @@
 		{
 			"name": "Shokugeki no Souma: Shin no Sara",
 			"image": "https://cdn.myanimelist.net/images/anime/1258/102849.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Stand My Heroes: Piece of Truth",
@@ -218,11 +288,26 @@
 		{
 			"name": "Sword Art Online: Alicization - War of Underworld",
 			"image": "https://cdn.myanimelist.net/images/anime/1003/102165.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Sylvanian Families: Mini Story - Clover",
+			"image": "https://cdn.myanimelist.net/images/anime/1664/103309.jpg",
+			"groups": []
+		},
+		{
+			"name": "Taeko no Nichijou",
+			"image": "https://cdn.myanimelist.net/images/anime/1583/103149.jpg",
 			"groups": []
 		},
 		{
 			"name": "Tenka Hyakken: Meiji-kan e Youkoso!",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1179/102821.jpg",
 			"groups": []
 		},
 		{
@@ -238,7 +323,12 @@
 		{
 			"name": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
 			"image": "https://cdn.myanimelist.net/images/anime/1858/102811.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Zoids Wild Zero",
