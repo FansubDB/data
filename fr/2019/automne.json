@@ -13,7 +13,12 @@
 		{
 			"name": "Africa no Salaryman (TV)",
 			"image": "https://cdn.myanimelist.net/images/anime/1937/102309.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Ahiru no Sora",
@@ -33,12 +38,22 @@
 		{
 			"name": "Assassins Pride",
 			"image": "https://cdn.myanimelist.net/images/anime/1993/102704.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Azur Lane",
 			"image": "https://cdn.myanimelist.net/images/anime/1957/102383.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Babylon",
@@ -58,7 +73,12 @@
 		{
 			"name": "Beastars",
 			"image": "https://cdn.myanimelist.net/images/anime/1234/102008.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Boku no Hero Academia 4th Season",
@@ -143,12 +163,22 @@
 		{
 			"name": "Hataage! Kemono Michi",
 			"image": "https://cdn.myanimelist.net/images/anime/1618/102343.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "High Score Girl II",
 			"image": "https://cdn.myanimelist.net/images/anime/1560/99904.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
@@ -163,7 +193,12 @@
 		{
 			"name": "Hoshiai no Sora",
 			"image": "https://cdn.myanimelist.net/images/anime/1537/101570.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Houkago Saikoro Club",
@@ -193,12 +228,22 @@
 		{
 			"name": "Kono Oto Tomare! 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1709/97753.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
 			"image": "https://cdn.myanimelist.net/images/anime/1462/100941.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Mairimashita! Iruma-kun",
@@ -218,7 +263,12 @@
 		{
 			"name": "No Guns Life",
 			"image": "https://cdn.myanimelist.net/images/anime/1603/102342.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Ore wo Suki nano wa Omae dake ka yo",
@@ -253,7 +303,12 @@
 		{
 			"name": "Radiant 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1391/102816.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Rifle Is Beautiful",
@@ -283,7 +338,12 @@
 		{
 			"name": "Stand My Heroes: Piece of Truth",
 			"image": "https://cdn.myanimelist.net/images/anime/1119/101660.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Sword Art Online: Alicization - War of Underworld",
