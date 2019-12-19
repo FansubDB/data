@@ -128,7 +128,12 @@
 		{
 			"name": "Chihayafuru 3",
 			"image": "https://cdn.myanimelist.net/images/anime/1590/102068.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
@@ -366,11 +371,6 @@
 					"name": "Wakanim"
 				}]
 			}]
-		},
-		{
-			"name": "Pet",
-			"image": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
-			"groups": []
 		},
 		{
 			"name": "Phantasy Star Online 2: Episode Oracle",
