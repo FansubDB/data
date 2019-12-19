@@ -5,5 +5,280 @@
 	"tv_lbl": "TV",
 	"ova_lbl": "OAV/ONA/Spéciaux",
 	"movie_lbl": "Films",
-	"tv": []
+	"tv": [{
+			"name": "22/7",
+			"image": "https://cdn.myanimelist.net/images/anime/1951/104542.jpg",
+			"groups": []
+		},
+		{
+			"name": "A3! Season Spring & Summer",
+			"image": "https://cdn.myanimelist.net/images/anime/1814/103594.jpg",
+			"groups": []
+		},
+		{
+			"name": "ARP Backstage Pass",
+			"image": "https://cdn.myanimelist.net/images/anime/1025/104231.jpg",
+			"groups": []
+		},
+		{
+			"name": "BanG Dream! 3rd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1985/104767.jpg",
+			"groups": []
+		},
+		{
+			"name": "Boku no Tonari ni Ankoku Hankaishin ga Imasu.",
+			"image": "https://cdn.myanimelist.net/images/anime/1848/103547.jpg",
+			"groups": []
+		},
+		{
+			"name": "Breakers",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Darwin's Game",
+			"image": "https://cdn.myanimelist.net/images/anime/1105/104787.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Doll's Frontline: Kyouran-hen",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Dorohedoro",
+			"image": "https://cdn.myanimelist.net/images/anime/1740/104786.jpg",
+			"groups": []
+		},
+		{
+			"name": "Eizouken ni wa Te wo Dasuna!",
+			"image": "https://cdn.myanimelist.net/images/anime/1950/104498.jpg",
+			"groups": []
+		},
+		{
+			"name": "Haikyuu!!: To the Top",
+			"image": "https://cdn.myanimelist.net/images/anime/1782/103197.jpg",
+			"groups": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Hatena☆Illusion",
+			"image": "https://cdn.myanimelist.net/images/anime/1142/103878.jpg",
+			"groups": []
+		},
+		{
+			"name": "Healin' Good♡Precure",
+			"image": "https://cdn.myanimelist.net/images/anime/1445/103643.jpg",
+			"groups": []
+		},
+		{
+			"name": "Heya Camp△",
+			"image": "https://cdn.myanimelist.net/images/anime/1228/104364.jpg",
+			"groups": []
+		},
+		{
+			"name": "Housekisho Richard-shi no Nazo Kantei",
+			"image": "https://cdn.myanimelist.net/images/anime/1001/102512.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hulaing Babies☆Petit",
+			"image": "https://cdn.myanimelist.net/images/anime/1454/104460.jpg",
+			"groups": []
+		},
+		{
+			"name": "ID:INVADED",
+			"image": "https://cdn.myanimelist.net/images/anime/1954/104672.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Infinite Dendrogram",
+			"image": "https://cdn.myanimelist.net/images/anime/1764/104365.jpg",
+			"groups": []
+		},
+		{
+			"name": "Isekai Quartet 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ishuzoku Reviewers",
+			"image": "https://cdn.myanimelist.net/images/anime/1877/104025.jpg",
+			"groups": []
+		},
+		{
+			"name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+			"image": "https://cdn.myanimelist.net/images/anime/1964/97035.jpg",
+			"groups": []
+		},
+		{
+			"name": "Jibaku Shounen Hanako-kun",
+			"image": "https://cdn.myanimelist.net/images/anime/1700/104788.jpg",
+			"groups": []
+		},
+		{
+			"name": "Koisuru Asteroid",
+			"image": "https://cdn.myanimelist.net/images/anime/1191/104212.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kuutei Dragons",
+			"image": "https://cdn.myanimelist.net/images/anime/1019/103606.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kyokou Suiri",
+			"image": "https://cdn.myanimelist.net/images/anime/1517/104785.jpg",
+			"groups": []
+		},
+		{
+			"name": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden",
+			"image": "https://cdn.myanimelist.net/images/anime/1786/104783.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Majutsushi Orphen Hagure Tabi",
+			"image": "https://cdn.myanimelist.net/images/anime/1184/104593.jpg",
+			"groups": []
+		},
+		{
+			"name": "Murenase! Seton Gakuen",
+			"image": "https://cdn.myanimelist.net/images/anime/1558/104666.jpg",
+			"groups": []
+		},
+		{
+			"name": "Natsunagu!",
+			"image": "https://cdn.myanimelist.net/images/anime/1327/104408.jpg",
+			"groups": []
+		},
+		{
+			"name": "Nekopara (TV)",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "number24",
+			"image": "https://cdn.myanimelist.net/images/anime/1885/102374.jpg",
+			"groups": []
+		},
+		{
+			"name": "Oda Shinamon Nobunaga",
+			"image": "https://cdn.myanimelist.net/images/anime/1584/103148.jpg",
+			"groups": []
+		},
+		{
+			"name": "Oshi ga Budoukan Ittekuretara Shinu",
+			"image": "https://cdn.myanimelist.net/images/anime/1139/104708.jpg",
+			"groups": []
+		},
+		{
+			"name": "Pet",
+			"image": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
+		},
+		{
+			"name": "Plunderer",
+			"image": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Rebirth",
+			"image": "https://cdn.myanimelist.net/images/anime/1882/103235.jpg",
+			"groups": []
+		},
+		{
+			"name": "Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban",
+			"image": "",
+			"groups": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Rikei ga Koi ni Ochita no de Shoumei Shite Mita.",
+			"image": "https://cdn.myanimelist.net/images/anime/1432/103533.jpg",
+			"groups": []
+		},
+		{
+			"name": "Runway de Waratte",
+			"image": "https://cdn.myanimelist.net/images/anime/1544/104540.jpg",
+			"groups": []
+		},
+		{
+			"name": "Sekaiichi Hatsukoi: Propose-hen",
+			"image": "https://cdn.myanimelist.net/images/anime/1896/102829.jpg",
+			"groups": []
+		},
+		{
+			"name": "Show By Rock!! Mashumairesh!!",
+			"image": "https://cdn.myanimelist.net/images/anime/1406/104616.jpg",
+			"groups": []
+		},
+		{
+			"name": "Somali to Mori no Kamisama",
+			"image": "https://cdn.myanimelist.net/images/anime/1938/102796.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Toaru Kagaku no Railgun T",
+			"image": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
+			"groups": []
+		},
+		{
+			"name": "Uchi Tama?! Uchi no Tama Shirimasenka?",
+			"image": "https://cdn.myanimelist.net/images/anime/1624/103162.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Yatogame-chan Kansatsu Nikki 2 Satsume",
+			"image": "https://cdn.myanimelist.net/images/anime/1810/104387.jpg",
+			"groups": []
+		},
+		{
+			"name": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu",
+			"image": "https://cdn.myanimelist.net/images/anime/1276/104362.jpg",
+			"groups": []
+		}
+	]
 }
