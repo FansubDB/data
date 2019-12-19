@@ -8,7 +8,12 @@
 	"tv": [{
 			"name": "Actors: Songs Connection",
 			"image": "https://cdn.myanimelist.net/images/anime/1056/100036.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kawaii Neko Team"
+				}]
+			}]
 		},
 		{
 			"name": "Africa no Salaryman (TV)",
@@ -23,17 +28,32 @@
 		{
 			"name": "Ahiru no Sora",
 			"image": "https://cdn.myanimelist.net/images/anime/1505/102719.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Aikatsu on Parade!",
 			"image": "https://cdn.myanimelist.net/images/anime/1712/102652.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kokoro no Tamago"
+				}]
+			}]
 		},
 		{
 			"name": "Ani ni Tsukeru Kusuri wa Nai! 3",
 			"image": "https://cdn.myanimelist.net/images/anime/1610/101559.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kitsune no Atelier"
+				}]
+			}]
 		},
 		{
 			"name": "Assassins Pride",
@@ -58,7 +78,12 @@
 		{
 			"name": "Babylon",
 			"image": "https://cdn.myanimelist.net/images/anime/1942/102707.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Bananya: Fushigi na Nakamatachi",
@@ -83,7 +108,12 @@
 		{
 			"name": "Boku no Hero Academia 4th Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1718/102734.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Bokutachi wa Benkyou ga Dekinai!",
@@ -113,7 +143,19 @@
 		{
 			"name": "Chuubyou Gekihatsu Boy",
 			"image": "https://cdn.myanimelist.net/images/anime/1784/99872.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Jiyuu No Fansub"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Koneko Fansub"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Doll's Frontline: Iyashi-hen",
@@ -203,12 +245,22 @@
 		{
 			"name": "Houkago Saikoro Club",
 			"image": "https://cdn.myanimelist.net/images/anime/1757/102526.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Kitsune no Atelier"
+				}]
+			}]
 		},
 		{
 			"name": "Kabukichou Sherlock",
 			"image": "https://cdn.myanimelist.net/images/anime/1934/102099.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Kaiju Step Wandabada",
@@ -218,12 +270,29 @@
 		{
 			"name": "Kandagawa Jet Girls",
 			"image": "https://cdn.myanimelist.net/images/anime/1253/102366.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Keishichou Tokumu-bu Tokushu Kyouaku-han Taisaku-Shitsu Dai-Nana-ka -Tokunana-",
 			"image": "https://cdn.myanimelist.net/images/anime/1338/102486.jpg",
-			"groups": []
+			"groups": [{
+					"status": "dropped",
+					"detail": [{
+						"name": "Koneko Fansub"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "Solistrad"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Kono Oto Tomare! 2nd Season",
@@ -258,7 +327,25 @@
 		{
 			"name": "Nanatsu no Taizai: Kamigami no Gekirin",
 			"image": "https://cdn.myanimelist.net/images/anime/1574/100519.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Pikari Teshima"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shin Sekai"
+					}]
+				},
+				{
+					"status": "simulcast uncertain",
+					"detail": [{
+						"name": "Netflix"
+					}]
+				}
+			]
 		},
 		{
 			"name": "No Guns Life",
@@ -288,7 +375,12 @@
 		{
 			"name": "Phantasy Star Online 2: Episode Oracle",
 			"image": "https://cdn.myanimelist.net/images/anime/1923/99744.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Pocket Monsters",
@@ -298,17 +390,46 @@
 		{
 			"name": "Psycho-Pass 3",
 			"image": "https://cdn.myanimelist.net/images/anime/1165/99664.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "Kaerizaki Fansub"
+						},
+						{
+							"name": "Pikari Teshima"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shin Sekai"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Radiant 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1391/102816.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Anime Digital Network"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Rifle Is Beautiful",
@@ -323,7 +444,12 @@
 		{
 			"name": "Shin Chuuka Ichiban!",
 			"image": "https://cdn.myanimelist.net/images/anime/1735/98774.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Shokugeki no Souma: Shin no Sara",
@@ -368,17 +494,43 @@
 		{
 			"name": "Tenka Hyakken: Meiji-kan e Youkoso!",
 			"image": "https://cdn.myanimelist.net/images/anime/1179/102821.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Koneko Fansub"
+				}]
+			}]
 		},
 		{
 			"name": "Urashimasakatasen no Nichijou",
 			"image": "https://cdn.myanimelist.net/images/anime/1294/102367.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Val × Love",
 			"image": "https://cdn.myanimelist.net/images/anime/1238/102067.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "Astaria no Fansub"
+						},
+						{
+							"name": "Jiyuu no Fansub"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shining Prism"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
@@ -398,7 +550,12 @@
 		{
 			"name": "Z/X: Code Reunion",
 			"image": "https://cdn.myanimelist.net/images/anime/1672/92317.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Arcedo"
+				}]
+			}]
 		}
 	]
 }
