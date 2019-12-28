@@ -13,7 +13,12 @@
 		{
 			"name": "A3! Season Spring & Summer",
 			"image": "https://cdn.myanimelist.net/images/anime/1814/103594.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "ARP Backstage Pass",
@@ -28,7 +33,12 @@
 		{
 			"name": "Boku no Tonari ni Ankoku Hankaishin ga Imasu.",
 			"image": "https://cdn.myanimelist.net/images/anime/1848/103547.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Breakers",
@@ -58,7 +68,12 @@
 		{
 			"name": "Eizouken ni wa Te wo Dasuna!",
 			"image": "https://cdn.myanimelist.net/images/anime/1950/104498.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Haikyuu!!: To the Top",
@@ -108,7 +123,12 @@
 		{
 			"name": "Infinite Dendrogram",
 			"image": "https://cdn.myanimelist.net/images/anime/1764/104365.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Isekai Quartet 2",
@@ -118,7 +138,12 @@
 		{
 			"name": "Ishuzoku Reviewers",
 			"image": "https://cdn.myanimelist.net/images/anime/1877/104025.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
@@ -128,7 +153,12 @@
 		{
 			"name": "Jibaku Shounen Hanako-kun",
 			"image": "https://cdn.myanimelist.net/images/anime/1700/104788.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Koisuru Asteroid",
@@ -143,7 +173,12 @@
 		{
 			"name": "Kyokou Suiri",
 			"image": "https://cdn.myanimelist.net/images/anime/1517/104785.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden",
@@ -158,12 +193,22 @@
 		{
 			"name": "Majutsushi Orphen Hagure Tabi",
 			"image": "https://cdn.myanimelist.net/images/anime/1184/104593.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Murenase! Seton Gakuen",
 			"image": "https://cdn.myanimelist.net/images/anime/1558/104666.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Natsunagu!",
@@ -183,7 +228,12 @@
 		{
 			"name": "Oda Shinamon Nobunaga",
 			"image": "https://cdn.myanimelist.net/images/anime/1584/103148.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Oshi ga Budoukan Ittekuretara Shinu",
@@ -228,7 +278,12 @@
 		{
 			"name": "Rikei ga Koi ni Ochita no de Shoumei Shite Mita.",
 			"image": "https://cdn.myanimelist.net/images/anime/1432/103533.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Runway de Waratte",
