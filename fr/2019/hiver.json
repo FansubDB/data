@@ -8,7 +8,12 @@
 	"tv": [{
 			"name": "22/7",
 			"image": "https://cdn.myanimelist.net/images/anime/1951/104542.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "A3! Season Spring & Summer",
@@ -98,12 +103,22 @@
 		{
 			"name": "Heya Camp△",
 			"image": "https://cdn.myanimelist.net/images/anime/1228/104364.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Housekisho Richard-shi no Nazo Kantei",
 			"image": "https://cdn.myanimelist.net/images/anime/1001/102512.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hulaing Babies☆Petit",
@@ -163,7 +178,12 @@
 		{
 			"name": "Koisuru Asteroid",
 			"image": "https://cdn.myanimelist.net/images/anime/1191/104212.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kuutei Dragons",
@@ -269,7 +289,7 @@
 			"name": "Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban",
 			"image": "",
 			"groups": [{
-				"status": "simulcast uncertain",
+				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
 				}]
@@ -328,7 +348,12 @@
 		{
 			"name": "Yatogame-chan Kansatsu Nikki 2 Satsume",
 			"image": "https://cdn.myanimelist.net/images/anime/1810/104387.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu",
