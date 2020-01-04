@@ -68,7 +68,12 @@
 		{
 			"name": "Dorohedoro",
 			"image": "https://cdn.myanimelist.net/images/anime/1740/104786.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Eizouken ni wa Te wo Dasuna!",
@@ -188,7 +193,12 @@
 		{
 			"name": "Kuutei Dragons",
 			"image": "https://cdn.myanimelist.net/images/anime/1019/103606.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Kyokou Suiri",
@@ -243,7 +253,12 @@
 		{
 			"name": "number24",
 			"image": "https://cdn.myanimelist.net/images/anime/1885/102374.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Oda Shinamon Nobunaga",
