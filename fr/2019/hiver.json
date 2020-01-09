@@ -89,7 +89,7 @@
 			"name": "Haikyuu!!: To the Top",
 			"image": "https://cdn.myanimelist.net/images/anime/1782/103197.jpg",
 			"groups": [{
-				"status": "simulcast uncertain",
+				"status": "simulcast",
 				"detail": [{
 					"name": "Wakanim"
 				}]
@@ -98,7 +98,12 @@
 		{
 			"name": "Hatena☆Illusion",
 			"image": "https://cdn.myanimelist.net/images/anime/1142/103878.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Healin' Good♡Precure",
@@ -168,7 +173,12 @@
 		{
 			"name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
 			"image": "https://cdn.myanimelist.net/images/anime/1964/97035.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Jibaku Shounen Hanako-kun",
@@ -248,7 +258,12 @@
 		{
 			"name": "Nekopara (TV)",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "number24",
@@ -273,7 +288,12 @@
 		{
 			"name": "Oshi ga Budoukan Ittekuretara Shinu",
 			"image": "https://cdn.myanimelist.net/images/anime/1139/104708.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Pet",
@@ -323,7 +343,12 @@
 		{
 			"name": "Runway de Waratte",
 			"image": "https://cdn.myanimelist.net/images/anime/1544/104540.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Sekaiichi Hatsukoi: Propose-hen",
@@ -348,7 +373,12 @@
 		{
 			"name": "Toaru Kagaku no Railgun T",
 			"image": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Uchi Tama?! Uchi no Tama Shirimasenka?",
