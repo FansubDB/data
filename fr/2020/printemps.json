@@ -1,0 +1,379 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "A3! Season Spring & Summer",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Anoyo no Subete wa, Obakegumi!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Appare-Ranman!",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Argonavis from BanG Dream!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Arte",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Aware! Meisaku-kun 5th Season",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Bakugan: Armored Alliance",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Bessatsu Olympia Kyklos",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "BNA",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
+		},
+		{
+			"name": "Bungo to Alchemist: Shinpan no Haguruma",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Cardfight!! Vanguard Gaiden: If",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Digimon Adventure:",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Fruits Basket: 2nd Season",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Fugou Keiji: Balance:UNLIMITED",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Gal-gaku. Hijiri Girls Square Gakuin",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Gal to Kyouryuu",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Gleipnir",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Granblue Fantasy The Animation Season 2: Djeeta-hen",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Hachi-nan tte, Sore wa Nai deshou!",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Hakushon Daimaou 2020",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Houkago Teibou Nisshi",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "IDOLiSH7: Second BEAT!",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Jashin-chan Dropkick'",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Kakushigoto",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Kami no Tou: Tower of God",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Kingdom 3rd Season",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kitsutsuki Tantei-Dokoro",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Komatta Jii-san",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Listeners",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Major 2nd Second Series",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Mewkledreamy",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Motto! Majime ni Fumajime Kaiketsu Zorori",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Nami yo Kiite Kure",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Neko Neko Nihonshi 5th Season",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "No Guns Life 2nd Season",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Norimono Man: Mobile Land no Car-kun",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Ooya-san to Boku",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Oshiri Tantei 4th Series",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shite Shimatta…",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Poccolies",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Princess Connect! Re:Dive",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Shachou, Battle no Jikan desu!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Shadowverse",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Shin Sakura Taisen the Animation",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Shironeko Project: Zero Chronicle",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Shokugeki no Souma: Gou no Sara",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Sword Art Online: Alicization - War of Underworld Part 2",
+			"image": "",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Tamayomi",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Tomica Kizuna Gattai: Earth Granner",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Tsugu Tsugumomo",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Watanuki-san Chi to",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Yesterday wo Utatte",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Yu☆Gi☆Oh: Sevens",
+			"image": "",
+			"groups": []
+		}
+	]
+}
