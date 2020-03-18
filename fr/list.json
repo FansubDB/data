@@ -138,6 +138,15 @@
 					"url": "hiver.json"
 				}
 			]
+		},
+		{
+			"year": 2020,
+			"url": "2020/",
+			"seasons": [{
+				"season": "spring",
+				"title": "printemps",
+				"url": "printemps.json"
+			}]
 		}
 	],
 	"datafrom_msg": "<strong>Attention !</strong> Données de : ",
