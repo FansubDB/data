@@ -28,12 +28,22 @@
 		{
 			"name": "ARP Backstage Pass",
 			"image": "https://cdn.myanimelist.net/images/anime/1025/104231.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "BanG Dream! 3rd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1985/104767.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "YUKIN4⁎"
+				}]
+			}]
 		},
 		{
 			"name": "Boku no Tonari ni Ankoku Hankaishin ga Imasu.",
@@ -158,7 +168,12 @@
 		{
 			"name": "Isekai Quartet 2",
 			"image": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Natsumi no Sekai"
+				}]
+			}]
 		},
 		{
 			"name": "Ishuzoku Reviewers",
