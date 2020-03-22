@@ -108,7 +108,12 @@
 		{
 			"name": "Gleipnir",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Granblue Fantasy The Animation Season 2: Djeeta-hen",
@@ -298,7 +303,12 @@
 		{
 			"name": "Shachou, Battle no Jikan desu!",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Shadowverse",
@@ -313,7 +323,12 @@
 		{
 			"name": "Shironeko Project: Zero Chronicle",
 			"image": "",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Shokugeki no Souma: Gou no Sara",
