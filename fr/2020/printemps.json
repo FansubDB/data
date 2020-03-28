@@ -7,7 +7,7 @@
 	"movie_lbl": "Films",
 	"tv": [{
 			"name": "A3! Season Spring & Summer",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -17,12 +17,12 @@
 		},
 		{
 			"name": "Anoyo no Subete wa, Obakegumi!",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1762/106451.jpg",
 			"groups": []
 		},
 		{
 			"name": "Appare-Ranman!",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1710/106614.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -32,32 +32,32 @@
 		},
 		{
 			"name": "Argonavis from BanG Dream!",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1367/104178.jpg",
 			"groups": []
 		},
 		{
 			"name": "Arte",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1922/105936.jpg",
 			"groups": []
 		},
 		{
 			"name": "Aware! Meisaku-kun 5th Season",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
 			"groups": []
 		},
 		{
 			"name": "Bakugan: Armored Alliance",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
 			"groups": []
 		},
 		{
 			"name": "Bessatsu Olympia Kyklos",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1426/105974.jpg",
 			"groups": []
 		},
 		{
 			"name": "BNA",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1887/106421.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -67,7 +67,7 @@
 		},
 		{
 			"name": "Bungo to Alchemist: Shinpan no Haguruma",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1642/106316.jpg",
 			"groups": []
 		},
 		{
@@ -77,12 +77,12 @@
 		},
 		{
 			"name": "Digimon Adventure:",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
 			"groups": []
 		},
 		{
 			"name": "Fruits Basket: 2nd Season",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1486/106692.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -92,22 +92,22 @@
 		},
 		{
 			"name": "Fugou Keiji: Balance:UNLIMITED",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
 			"groups": []
 		},
 		{
 			"name": "Gal-gaku. Hijiri Girls Square Gakuin",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1454/106284.jpg",
 			"groups": []
 		},
 		{
 			"name": "Gal to Kyouryuu",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1428/102874.jpg",
 			"groups": []
 		},
 		{
 			"name": "Gleipnir",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1380/106565.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -117,12 +117,12 @@
 		},
 		{
 			"name": "Granblue Fantasy The Animation Season 2: Djeeta-hen",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1443/105109.jpg",
 			"groups": []
 		},
 		{
 			"name": "Hachi-nan tte, Sore wa Nai deshou!",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1146/106370.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -132,12 +132,12 @@
 		},
 		{
 			"name": "Hakushon Daimaou 2020",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
 			"groups": []
 		},
 		{
 			"name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1757/105931.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -147,12 +147,12 @@
 		},
 		{
 			"name": "Houkago Teibou Nisshi",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
 			"groups": []
 		},
 		{
 			"name": "IDOLiSH7: Second BEAT!",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -162,12 +162,12 @@
 		},
 		{
 			"name": "Jashin-chan Dropkick'",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1360/106360.jpg",
 			"groups": []
 		},
 		{
 			"name": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -177,7 +177,7 @@
 		},
 		{
 			"name": "Kakushigoto",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1476/106372.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -187,7 +187,7 @@
 		},
 		{
 			"name": "Kami no Tou: Tower of God",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -197,12 +197,12 @@
 		},
 		{
 			"name": "Kingdom 3rd Season",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1332/106392.jpg",
 			"groups": []
 		},
 		{
 			"name": "Kitsutsuki Tantei-Dokoro",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1139/105873.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -212,12 +212,12 @@
 		},
 		{
 			"name": "Komatta Jii-san",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
 			"groups": []
 		},
 		{
 			"name": "Listeners",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -227,22 +227,27 @@
 		},
 		{
 			"name": "Major 2nd Second Series",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
 			"groups": []
 		},
 		{
 			"name": "Mewkledreamy",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mitchiri Wanko! Anima~tion",
+			"image": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
 			"groups": []
 		},
 		{
 			"name": "Motto! Majime ni Fumajime Kaiketsu Zorori",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1401/106017.jpg",
 			"groups": []
 		},
 		{
 			"name": "Nami yo Kiite Kure",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -252,12 +257,12 @@
 		},
 		{
 			"name": "Neko Neko Nihonshi 5th Season",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1112/106363.jpg",
 			"groups": []
 		},
 		{
 			"name": "No Guns Life 2nd Season",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -267,22 +272,27 @@
 		},
 		{
 			"name": "Norimono Man: Mobile Land no Car-kun",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
+			"groups": []
+		},
+		{
+			"name": "Obake Zukan",
+			"image": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg",
 			"groups": []
 		},
 		{
 			"name": "Ooya-san to Boku",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1588/106204.jpg",
 			"groups": []
 		},
 		{
 			"name": "Oshiri Tantei 4th Series",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
 			"groups": []
 		},
 		{
 			"name": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shite Shimatta…",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1315/106420.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -292,17 +302,17 @@
 		},
 		{
 			"name": "Poccolies",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
 			"groups": []
 		},
 		{
 			"name": "Princess Connect! Re:Dive",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
 			"groups": []
 		},
 		{
 			"name": "Shachou, Battle no Jikan desu!",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1044/106309.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -312,17 +322,17 @@
 		},
 		{
 			"name": "Shadowverse",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1541/103429.jpg",
 			"groups": []
 		},
 		{
 			"name": "Shin Sakura Taisen the Animation",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1341/105735.jpg",
 			"groups": []
 		},
 		{
 			"name": "Shironeko Project: Zero Chronicle",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1494/105719.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -332,7 +342,7 @@
 		},
 		{
 			"name": "Shokugeki no Souma: Gou no Sara",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1813/106300.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -342,7 +352,7 @@
 		},
 		{
 			"name": "Sword Art Online: Alicization - War of Underworld Part 2",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -352,42 +362,47 @@
 		},
 		{
 			"name": "Tamayomi",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
 			"groups": []
 		},
 		{
 			"name": "Tomica Kizuna Gattai: Earth Granner",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1597/105401.jpg",
 			"groups": []
 		},
 		{
 			"name": "Tsugu Tsugumomo",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
 			"groups": []
 		},
 		{
 			"name": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
+			"groups": []
+		},
+		{
+			"name": "Washimo 8th Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1914/106717.jpg",
 			"groups": []
 		},
 		{
 			"name": "Watanuki-san Chi to",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1524/106532.jpg",
 			"groups": []
 		},
 		{
 			"name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
 			"groups": []
 		},
 		{
 			"name": "Yesterday wo Utatte",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
 			"groups": []
 		},
 		{
 			"name": "Yu☆Gi☆Oh: Sevens",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1442/104959.jpg",
 			"groups": []
 		}
 	]
