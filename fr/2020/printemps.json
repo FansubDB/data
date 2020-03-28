@@ -93,7 +93,12 @@
 		{
 			"name": "Fugou Keiji: Balance:UNLIMITED",
 			"image": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Gal-gaku. Hijiri Girls Square Gakuin",
@@ -163,7 +168,12 @@
 		{
 			"name": "Jashin-chan Dropkick'",
 			"image": "https://cdn.myanimelist.net/images/anime/1360/106360.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Amazon Prime"
+				}]
+			}]
 		},
 		{
 			"name": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
@@ -198,7 +208,12 @@
 		{
 			"name": "Kingdom 3rd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1332/106392.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Kitsutsuki Tantei-Dokoro",
@@ -333,7 +348,12 @@
 		{
 			"name": "Shin Sakura Taisen the Animation",
 			"image": "https://cdn.myanimelist.net/images/anime/1341/105735.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Shironeko Project: Zero Chronicle",
