@@ -108,7 +108,12 @@
 		{
 			"name": "Gal to Kyouryuu",
 			"image": "https://cdn.myanimelist.net/images/anime/1428/102874.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Gleipnir",
@@ -388,7 +393,12 @@
 		{
 			"name": "Tamayomi",
 			"image": "https://cdn.myanimelist.net/images/anime/1881/106156.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Tomica Kizuna Gattai: Earth Granner",
@@ -418,7 +428,12 @@
 		{
 			"name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
 			"image": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast uncertain",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Yesterday wo Utatte",
