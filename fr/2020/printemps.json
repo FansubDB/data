@@ -38,7 +38,12 @@
 		{
 			"name": "Arte",
 			"image": "https://cdn.myanimelist.net/images/anime/1922/105936.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Aware! Meisaku-kun 5th Season",
@@ -78,7 +83,19 @@
 		{
 			"name": "Digimon Adventure:",
 			"image": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
-			"groups": []
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Fruits Basket: 2nd Season",
@@ -174,11 +191,18 @@
 			"name": "Jashin-chan Dropkick'",
 			"image": "https://cdn.myanimelist.net/images/anime/1360/106360.jpg",
 			"groups": [{
-				"status": "simulcast uncertain",
-				"detail": [{
-					"name": "Amazon Prime"
-				}]
-			}]
+					"status": "simulcast uncertain",
+					"detail": [{
+						"name": "Amazon Prime"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
@@ -248,7 +272,12 @@
 		{
 			"name": "Major 2nd Second Series",
 			"image": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mewkledreamy",
@@ -314,11 +343,18 @@
 			"name": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shite Shimatta…",
 			"image": "https://cdn.myanimelist.net/images/anime/1315/106420.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Crunchyroll"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Poccolies",
@@ -328,7 +364,12 @@
 		{
 			"name": "Princess Connect! Re:Dive",
 			"image": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Puzzle & Dragon (2020)",
@@ -408,7 +449,12 @@
 		{
 			"name": "Tsugu Tsugumomo",
 			"image": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
@@ -438,7 +484,12 @@
 		{
 			"name": "Yesterday wo Utatte",
 			"image": "https://cdn.myanimelist.net/images/anime/1986/105547.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Yu☆Gi☆Oh: Sevens",
