@@ -101,11 +101,18 @@
 			"name": "Fruits Basket: 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1486/106692.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Wakanim"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Wakanim"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Fugou Keiji: Balance:UNLIMITED",
@@ -191,18 +198,11 @@
 			"name": "Jashin-chan Dropkick'",
 			"image": "https://cdn.myanimelist.net/images/anime/1360/106360.jpg",
 			"groups": [{
-					"status": "simulcast uncertain",
-					"detail": [{
-						"name": "Amazon Prime"
-					}]
-				},
-				{
-					"status": "simulcast",
-					"detail": [{
-						"name": "Crunchyroll"
-					}]
-				}
-			]
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
