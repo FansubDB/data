@@ -1,0 +1,211 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "Chou Futsuu Toshi Kashiwa Densetsu R",
+			"image": "https://cdn.myanimelist.net/images/anime/1413/103348.jpg",
+			"groups": []
+		},
+		{
+			"name": "Deca-Dence",
+			"image": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Dokyuu Hentai HxEros",
+			"image": "https://cdn.myanimelist.net/images/anime/1619/106323.jpg",
+			"groups": []
+		},
+		{
+			"name": "Enn Enn no Shouboutai: Ni no Shou",
+			"image": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Wakanim"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Get Up! Get Live! #GeraGera",
+			"image": "https://cdn.myanimelist.net/images/anime/1964/107260.jpg",
+			"groups": []
+		},
+		{
+			"name": "Gibiate",
+			"image": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
+			"groups": []
+		},
+		{
+			"name": "Great Pretender",
+			"image": "https://cdn.myanimelist.net/images/anime/1418/107954.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
+		},
+		{
+			"name": "Hachigatsu no Cinderella Nine Re:fine",
+			"image": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ikebukuro West Gate Park",
+			"image": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kanojo, Okarishimasu",
+			"image": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Lalalacoco II",
+			"image": "https://cdn.myanimelist.net/images/anime/1354/107937.jpg",
+			"groups": []
+		},
+		{
+			"name": "Lapis Re:LiGHTs",
+			"image": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
+			"groups": []
+		},
+		{
+			"name": "Maou Gakuin no Futekigousha",
+			"image": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
+			"groups": []
+		},
+		{
+			"name": "Monster Musume no Oisha-san",
+			"image": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
+			"groups": []
+		},
+		{
+			"name": "Muhyo to Roujii no Mahouritsu Soudan Jimusho 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1218/106376.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "No Guns Life 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Obake Zukan",
+			"image": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg",
+			"groups": []
+		},
+		{
+			"name": "Peter Grill to Kenja no Jikan",
+			"image": "https://cdn.myanimelist.net/images/anime/1076/106693.jpg",
+			"groups": []
+		},
+		{
+			"name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 1",
+			"image": "https://cdn.myanimelist.net/images/anime/1615/107973.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "(ROCKIN'ON Anime Project)",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Sword Art Online: Alicization - War of Underworld Part 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Taeko no Nichijou 2",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "The God of High School",
+			"image": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Umayon",
+			"image": "https://cdn.myanimelist.net/images/anime/1618/106630.jpg",
+			"groups": []
+		},
+		{
+			"name": "Utau Soccer Panda Mifanda",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Uzaki-chan wa Asobitai!",
+			"image": "https://cdn.myanimelist.net/images/anime/1077/105831.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+			"image": "https://cdn.myanimelist.net/images/anime/1910/106073.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
+		}
+	],
+	"ova": [{
+		"name": "Nippon Chinbotsu 2020",
+		"image": "https://cdn.myanimelist.net/images/anime/1989/107335.jpg",
+		"groups": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Netflix"
+			}]
+		}]
+	}]
+}
