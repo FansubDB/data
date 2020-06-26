@@ -50,7 +50,12 @@
 		{
 			"name": "Gibiate",
 			"image": "https://cdn.myanimelist.net/images/anime/1769/107880.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Great Pretender",
@@ -75,6 +80,16 @@
 		{
 			"name": "Kanojo, Okarishimasu",
 			"image": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Koi to Producer: EVOL×LOVE",
+			"image": "https://cdn.myanimelist.net/images/anime/1678/108031.jpg",
 			"groups": [{
 				"status": "simulcast",
 				"detail": [{
@@ -199,13 +214,24 @@
 		}
 	],
 	"ova": [{
-		"name": "Nippon Chinbotsu 2020",
-		"image": "https://cdn.myanimelist.net/images/anime/1989/107335.jpg",
-		"groups": [{
-			"status": "simulcast",
-			"detail": [{
-				"name": "Netflix"
+			"name": "Baki: Dai Raitaisai-hen",
+			"image": "https://cdn.myanimelist.net/images/anime/1020/107918.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
 			}]
-		}]
-	}]
+		},
+		{
+			"name": "Nippon Chinbotsu 2020",
+			"image": "https://cdn.myanimelist.net/images/anime/1989/107335.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
+		}
+	]
 }
