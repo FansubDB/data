@@ -23,7 +23,12 @@
 		{
 			"name": "Dokyuu Hentai HxEros",
 			"image": "https://cdn.myanimelist.net/images/anime/1619/106323.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Enn Enn no Shouboutai: Ni no Shou",
@@ -105,17 +110,32 @@
 		{
 			"name": "Lapis Re:LiGHTs",
 			"image": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Maou Gakuin no Futekigousha",
 			"image": "https://cdn.myanimelist.net/images/anime/1388/105332.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Monster Musume no Oisha-san",
 			"image": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Muhyo to Roujii no Mahouritsu Soudan Jimusho 2nd Season",
@@ -200,7 +220,12 @@
 		{
 			"name": "Uzaki-chan wa Asobitai!",
 			"image": "https://cdn.myanimelist.net/images/anime/1077/105831.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
