@@ -1,0 +1,249 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "100-man no Inochi no Ue ni Ore wa Tatte Iru",
+			"image": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg",
+			"groups": []
+		},
+		{
+			"name": "A3! Season Autumn & Winter",
+			"image": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
+			"groups": []
+		},
+		{
+			"name": "Adachi to Shimamura",
+			"image": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
+			"groups": []
+		},
+		{
+			"name": "Akudama Drive",
+			"image": "https://cdn.myanimelist.net/images/anime/1361/107944.jpg",
+			"groups": []
+		},
+		{
+			"name": "Anime Kapibara-san",
+			"image": "https://cdn.myanimelist.net/images/anime/1708/108612.jpg",
+			"groups": []
+		},
+		{
+			"name": "Assault Lily: Bouquet",
+			"image": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
+			"groups": []
+		},
+		{
+			"name": "D4DJ First Mix",
+			"image": "https://cdn.myanimelist.net/images/anime/1567/108303.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dragon Quest: Dai no Daibouken (2020)",
+			"image": "https://cdn.myanimelist.net/images/anime/1839/104933.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka III",
+			"image": "https://cdn.myanimelist.net/images/anime/1523/108380.jpg",
+			"groups": []
+		},
+		{
+			"name": "Eternity: Shinya no Nurekoi Channel♡",
+			"image": "https://cdn.myanimelist.net/images/anime/1899/108400.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fumetsu no Anata e",
+			"image": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fushigi Dagashiya Zenitendou",
+			"image": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
+			"groups": []
+		},
+		{
+			"name": "Gochuumon wa Usagi Desu ka? BLOOM",
+			"image": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
+			"groups": []
+		},
+		{
+			"name": "Golden Kamuy 3rd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
+			"groups": []
+		},
+		{
+			"name": "Guraburu!",
+			"image": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
+			"groups": []
+		},
+		{
+			"name": "Haikyuu!!: To the Top 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hanyo no Yashahime",
+			"image": "https://cdn.myanimelist.net/images/anime/1783/108783.jpg",
+			"groups": []
+		},
+		{
+			"name": "Higurashi no Naku Koro ni (2020)",
+			"image": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg",
+			"groups": []
+		},
+		{
+			"name": "Himitsu Kessha Taka no Tsume: Golden Spell",
+			"image": "https://cdn.myanimelist.net/images/anime/1824/108847.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+			"image": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ikebukuro West Gate Park",
+			"image": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
+			"groups": []
+		},
+		{
+			"name": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii",
+			"image": "https://cdn.myanimelist.net/images/anime/1788/106525.jpg",
+			"groups": []
+		},
+		{
+			"name": "Iwa Kakeru! Sport Climbing Girls",
+			"image": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
+			"groups": []
+		},
+		{
+			"name": "Jujutsu Kaisen",
+			"image": "https://cdn.myanimelist.net/images/anime/1046/107701.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kaeru no Pickles: Kimochi no Iro",
+			"image": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kamisama ni Natta hi",
+			"image": "https://cdn.myanimelist.net/images/anime/1564/108648.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kami-tachi ni Hirowareta Otoko",
+			"image": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+			"image": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
+			"groups": []
+		},
+		{
+			"name": "King's Raid: Ishi wo Tsugumono-tachi",
+			"image": "https://cdn.myanimelist.net/images/anime/1686/107300.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kuma Kuma Kuma Bear",
+			"image": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
+			"groups": []
+		},
+		{
+			"name": "Maesetsu!",
+			"image": "https://cdn.myanimelist.net/images/anime/1650/106386.jpg",
+			"groups": []
+		},
+		{
+			"name": "Magatsu Wahrheit: Zuerst",
+			"image": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mahouka Koukou no Rettousei: Raihousha-hen",
+			"image": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg",
+			"groups": []
+		},
+		{
+			"name": "Majo no Tabitabi",
+			"image": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+			"groups": []
+		},
+		{
+			"name": "Maoujou de Oyasumi",
+			"image": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
+			"groups": []
+		},
+		{
+			"name": "Munou na Nana",
+			"image": "https://cdn.myanimelist.net/images/anime/1786/108399.jpg",
+			"groups": []
+		},
+		{
+			"name": "Noblesse",
+			"image": "https://cdn.myanimelist.net/images/anime/1326/108874.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ochikobore Fruit Tart",
+			"image": "https://cdn.myanimelist.net/images/anime/1851/108683.jpg",
+			"groups": []
+		},
+		{
+			"name": "Osomatsu-san 3rd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1055/108887.jpg",
+			"groups": []
+		},
+		{
+			"name": "Rail Romanesque",
+			"image": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
+			"groups": []
+		},
+		{
+			"name": "Saikyo Kamizmode!",
+			"image": "https://cdn.myanimelist.net/images/anime/1162/108655.jpg",
+			"groups": []
+		},
+		{
+			"name": "Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1097/108552.jpg",
+			"groups": []
+		},
+		{
+			"name": "Senyoku no Sigrdrifa",
+			"image": "https://cdn.myanimelist.net/images/anime/1576/109007.jpg",
+			"groups": []
+		},
+		{
+			"name": "Strike Witches: Road to Berlin",
+			"image": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
+			"groups": []
+		},
+		{
+			"name": "Taiso Samurai",
+			"image": "https://cdn.myanimelist.net/images/anime/1856/108871.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tonikaku Kawaii",
+			"image": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tsukiuta. The Animation 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1865/107637.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yuukoku no Moriarty",
+			"image": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
+			"groups": []
+		}
+	]
+}
