@@ -13,17 +13,32 @@
 		{
 			"name": "A3! Season Autumn & Winter",
 			"image": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Adachi to Shimamura",
 			"image": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Akudama Drive",
 			"image": "https://cdn.myanimelist.net/images/anime/1361/107944.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Anime Kapibara-san",
@@ -48,7 +63,12 @@
 		{
 			"name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka III",
 			"image": "https://cdn.myanimelist.net/images/anime/1523/108380.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Eternity: Shinya no Nurekoi Channel♡",
@@ -58,7 +78,12 @@
 		{
 			"name": "Fumetsu no Anata e",
 			"image": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Fushigi Dagashiya Zenitendou",
@@ -83,7 +108,12 @@
 		{
 			"name": "Haikyuu!!: To the Top 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Hanyo no Yashahime",
@@ -93,7 +123,12 @@
 		{
 			"name": "Higurashi no Naku Koro ni (2020)",
 			"image": "https://cdn.myanimelist.net/images/anime/1287/109031.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Himitsu Kessha Taka no Tsume: Golden Spell",
@@ -108,12 +143,22 @@
 		{
 			"name": "Ikebukuro West Gate Park",
 			"image": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii",
 			"image": "https://cdn.myanimelist.net/images/anime/1788/106525.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Iwa Kakeru! Sport Climbing Girls",
@@ -123,7 +168,12 @@
 		{
 			"name": "Jujutsu Kaisen",
 			"image": "https://cdn.myanimelist.net/images/anime/1046/107701.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kaeru no Pickles: Kimochi no Iro",
@@ -138,12 +188,22 @@
 		{
 			"name": "Kami-tachi ni Hirowareta Otoko",
 			"image": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
 			"image": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "King's Raid: Ishi wo Tsugumono-tachi",
@@ -158,7 +218,12 @@
 		{
 			"name": "Maesetsu!",
 			"image": "https://cdn.myanimelist.net/images/anime/1650/106386.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Magatsu Wahrheit: Zuerst",
@@ -168,7 +233,12 @@
 		{
 			"name": "Mahouka Koukou no Rettousei: Raihousha-hen",
 			"image": "https://cdn.myanimelist.net/images/anime/1788/106668.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Majo no Tabitabi",
@@ -188,12 +258,22 @@
 		{
 			"name": "Noblesse",
 			"image": "https://cdn.myanimelist.net/images/anime/1326/108874.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ochikobore Fruit Tart",
 			"image": "https://cdn.myanimelist.net/images/anime/1851/108683.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Osomatsu-san 3rd Season",
@@ -233,7 +313,12 @@
 		{
 			"name": "Tonikaku Kawaii",
 			"image": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Tsukiuta. The Animation 2",
