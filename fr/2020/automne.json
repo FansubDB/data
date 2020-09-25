@@ -53,6 +53,23 @@
 		{
 			"name": "D4DJ First Mix",
 			"image": "https://cdn.myanimelist.net/images/anime/1567/108303.jpg",
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Wakanim"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Dogeza de Tanondemita",
+			"image": "https://cdn.myanimelist.net/images/anime/1634/109387.jpg",
 			"groups": []
 		},
 		{
@@ -76,16 +93,6 @@
 			"groups": []
 		},
 		{
-			"name": "Fumetsu no Anata e",
-			"image": "https://cdn.myanimelist.net/images/anime/1772/105306.jpg",
-			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Crunchyroll"
-				}]
-			}]
-		},
-		{
 			"name": "Fushigi Dagashiya Zenitendou",
 			"image": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
 			"groups": []
@@ -98,7 +105,12 @@
 		{
 			"name": "Golden Kamuy 3rd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Guraburu!",
@@ -106,7 +118,7 @@
 			"groups": []
 		},
 		{
-			"name": "Haikyuu!!: To the Top 2nd Season",
+			"name": "Haikyuu!!: To the Top 2nd Cour",
 			"image": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
 			"groups": [{
 				"status": "simulcast",
@@ -118,7 +130,12 @@
 		{
 			"name": "Hanyo no Yashahime",
 			"image": "https://cdn.myanimelist.net/images/anime/1783/108783.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Higurashi no Naku Koro ni (2020)",
@@ -163,7 +180,12 @@
 		{
 			"name": "Iwa Kakeru! Sport Climbing Girls",
 			"image": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Jujutsu Kaisen",
@@ -178,6 +200,11 @@
 		{
 			"name": "Kaeru no Pickles: Kimochi no Iro",
 			"image": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kaiju Step Wandabada 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1934/109054.jpg",
 			"groups": []
 		},
 		{
@@ -216,6 +243,11 @@
 			"groups": []
 		},
 		{
+			"name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+			"image": "https://cdn.myanimelist.net/images/anime/1393/109203.jpg",
+			"groups": []
+		},
+		{
 			"name": "Maesetsu!",
 			"image": "https://cdn.myanimelist.net/images/anime/1650/106386.jpg",
 			"groups": [{
@@ -228,7 +260,12 @@
 		{
 			"name": "Magatsu Wahrheit: Zuerst",
 			"image": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Mahouka Koukou no Rettousei: Raihousha-hen",
@@ -276,6 +313,11 @@
 			}]
 		},
 		{
+			"name": "One Room Third Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1553/109101.jpg",
+			"groups": []
+		},
+		{
 			"name": "Osomatsu-san 3rd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1055/108887.jpg",
 			"groups": []
@@ -301,6 +343,21 @@
 			"groups": []
 		},
 		{
+			"name": "Shingeki no Kyojin: The Final Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1086/109406.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Sore dake ga Neck",
+			"image": "https://cdn.myanimelist.net/images/anime/1148/109223.jpg",
+			"groups": []
+		},
+		{
 			"name": "Strike Witches: Road to Berlin",
 			"image": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
 			"groups": []
@@ -308,6 +365,11 @@
 		{
 			"name": "Taiso Samurai",
 			"image": "https://cdn.myanimelist.net/images/anime/1856/108871.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tales of Crestoria: Toga Waga o Shoite Kare wa Tatsu",
+			"image": "https://cdn.myanimelist.net/images/anime/1225/109133.jpg",
 			"groups": []
 		},
 		{
