@@ -78,7 +78,7 @@
 					"url": "ete.json"
 				},
 				{
-					"season": "automn",
+					"season": "autumn",
 					"title": "automne",
 					"url": "automne.json"
 				},
@@ -103,7 +103,7 @@
 					"url": "ete.json"
 				},
 				{
-					"season": "automn",
+					"season": "autumn",
 					"title": "automne",
 					"url": "automne.json"
 				},
@@ -128,7 +128,7 @@
 					"url": "ete.json"
 				},
 				{
-					"season": "automn",
+					"season": "autumn",
 					"title": "automne",
 					"url": "automne.json"
 				},
@@ -151,6 +151,11 @@
 					"season": "summer",
 					"title": "été",
 					"url": "ete.json"
+				},
+				{
+					"season": "autumn",
+					"title": "automne",
+					"url": "automne.json"
 				}
 			]
 		}
