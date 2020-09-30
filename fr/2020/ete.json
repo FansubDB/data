@@ -73,13 +73,8 @@
 			}]
 		},
 		{
-			"name": "Hachigatsu no Cinderella Nine Re:fine",
-			"image": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
-			"groups": []
-		},
-		{
-			"name": "Ikebukuro West Gate Park",
-			"image": "https://cdn.myanimelist.net/images/anime/1143/106670.jpg",
+			"name": "Hulaing Babies Aratame: Staying Babies",
+			"image": "https://cdn.myanimelist.net/images/anime/1331/107858.jpg",
 			"groups": []
 		},
 		{
@@ -148,6 +143,16 @@
 			}]
 		},
 		{
+			"name": "Ninja Collection",
+			"image": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
 			"name": "No Guns Life 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
 			"groups": [{
@@ -165,7 +170,12 @@
 		{
 			"name": "Peter Grill to Kenja no Jikan",
 			"image": "https://cdn.myanimelist.net/images/anime/1076/106693.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 1",
@@ -210,11 +220,6 @@
 		{
 			"name": "Umayon",
 			"image": "https://cdn.myanimelist.net/images/anime/1618/106630.jpg",
-			"groups": []
-		},
-		{
-			"name": "Utau Soccer Panda Mifanda",
-			"image": "",
 			"groups": []
 		},
 		{
