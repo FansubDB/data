@@ -8,7 +8,12 @@
 	"tv": [{
 			"name": "100-man no Inochi no Ue ni Ore wa Tatte Iru",
 			"image": "https://cdn.myanimelist.net/images/anime/1825/108800.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "A3! Season Autumn & Winter",
@@ -48,24 +53,22 @@
 		{
 			"name": "Assault Lily: Bouquet",
 			"image": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "D4DJ First Mix",
 			"image": "https://cdn.myanimelist.net/images/anime/1567/108303.jpg",
 			"groups": [{
-					"status": "simulcast",
-					"detail": [{
-						"name": "Crunchyroll"
-					}]
-				},
-				{
-					"status": "simulcast",
-					"detail": [{
-						"name": "Wakanim"
-					}]
-				}
-			]
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Dogeza de Tanondemita",
@@ -75,7 +78,19 @@
 		{
 			"name": "Dragon Quest: Dai no Daibouken (2020)",
 			"image": "https://cdn.myanimelist.net/images/anime/1839/104933.jpg",
-			"groups": []
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka III",
@@ -150,12 +165,22 @@
 		{
 			"name": "Himitsu Kessha Taka no Tsume: Golden Spell",
 			"image": "https://cdn.myanimelist.net/images/anime/1824/108847.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
 			"image": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Ikebukuro West Gate Park",
@@ -181,11 +206,18 @@
 			"name": "Iwa Kakeru! Sport Climbing Girls",
 			"image": "https://cdn.myanimelist.net/images/anime/1626/108849.jpg",
 			"groups": [{
-				"status": "simulcast",
-				"detail": [{
-					"name": "Crunchyroll"
-				}]
-			}]
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Jujutsu Kaisen",
@@ -210,7 +242,12 @@
 		{
 			"name": "Kamisama ni Natta hi",
 			"image": "https://cdn.myanimelist.net/images/anime/1564/108648.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Kami-tachi ni Hirowareta Otoko",
@@ -240,7 +277,12 @@
 		{
 			"name": "Kuma Kuma Kuma Bear",
 			"image": "https://cdn.myanimelist.net/images/anime/1115/108852.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
@@ -290,7 +332,12 @@
 		{
 			"name": "Munou na Nana",
 			"image": "https://cdn.myanimelist.net/images/anime/1786/108399.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Noblesse",
@@ -315,7 +362,12 @@
 		{
 			"name": "One Room Third Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1553/109101.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Osomatsu-san 3rd Season",
@@ -325,7 +377,12 @@
 		{
 			"name": "Rail Romanesque",
 			"image": "https://cdn.myanimelist.net/images/anime/1903/108605.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Saikyo Kamizmode!",
@@ -340,7 +397,12 @@
 		{
 			"name": "Senyoku no Sigrdrifa",
 			"image": "https://cdn.myanimelist.net/images/anime/1576/109007.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Shingeki no Kyojin: The Final Season",
@@ -365,7 +427,12 @@
 		{
 			"name": "Taiso Samurai",
 			"image": "https://cdn.myanimelist.net/images/anime/1856/108871.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Tales of Crestoria: Toga Waga o Shoite Kare wa Tatsu",
@@ -390,7 +457,12 @@
 		{
 			"name": "Yuukoku no Moriarty",
 			"image": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		}
 	]
 }
