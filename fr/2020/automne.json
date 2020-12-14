@@ -64,16 +64,28 @@
 			"name": "D4DJ First Mix",
 			"image": "https://cdn.myanimelist.net/images/anime/1567/108303.jpg",
 			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Wakanim"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Dogeza de Tanondemita",
+			"image": "https://cdn.myanimelist.net/images/anime/1634/109387.jpg",
+			"groups": [{
 				"status": "simulcast",
 				"detail": [{
 					"name": "Crunchyroll"
 				}]
 			}]
-		},
-		{
-			"name": "Dogeza de Tanondemita",
-			"image": "https://cdn.myanimelist.net/images/anime/1634/109387.jpg",
-			"groups": []
 		},
 		{
 			"name": "Dragon Quest: Dai no Daibouken (2020)",
@@ -115,7 +127,16 @@
 		{
 			"name": "Gochuumon wa Usagi Desu ka? BLOOM",
 			"image": "https://cdn.myanimelist.net/images/anime/1423/106509.jpg",
-			"groups": []
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Arcedo"
+					},
+					{
+						"name": "Koneko Fansub"
+					}
+				]
+			}]
 		},
 		{
 			"name": "Golden Kamuy 3rd Season",
@@ -130,7 +151,12 @@
 		{
 			"name": "Guraburu!",
 			"image": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Haikyuu!!: To the Top 2nd Cour",
@@ -272,7 +298,12 @@
 		{
 			"name": "King's Raid: Ishi wo Tsugumono-tachi",
 			"image": "https://cdn.myanimelist.net/images/anime/1686/107300.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Kuma Kuma Kuma Bear",
@@ -287,7 +318,19 @@
 		{
 			"name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
 			"image": "https://cdn.myanimelist.net/images/anime/1393/109203.jpg",
-			"groups": []
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "J-One"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Manga-Family"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Maesetsu!",
@@ -322,12 +365,22 @@
 		{
 			"name": "Majo no Tabitabi",
 			"image": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Maoujou de Oyasumi",
 			"image": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Munou na Nana",
@@ -372,7 +425,12 @@
 		{
 			"name": "Osomatsu-san 3rd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1055/108887.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Rail Romanesque",
@@ -417,12 +475,22 @@
 		{
 			"name": "Sore dake ga Neck",
 			"image": "https://cdn.myanimelist.net/images/anime/1148/109223.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Strike Witches: Road to Berlin",
 			"image": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Taiso Samurai",
@@ -437,7 +505,12 @@
 		{
 			"name": "Tales of Crestoria: Toga Waga o Shoite Kare wa Tatsu",
 			"image": "https://cdn.myanimelist.net/images/anime/1225/109133.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Tonikaku Kawaii",
@@ -452,7 +525,12 @@
 		{
 			"name": "Tsukiuta. The Animation 2",
 			"image": "https://cdn.myanimelist.net/images/anime/1865/107637.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Yuukoku no Moriarty",
