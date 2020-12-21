@@ -1,0 +1,404 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "2.43: Seiin Koukou Danshi Volley-bu",
+			"image": "https://cdn.myanimelist.net/images/anime/1596/108096.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "ABCiee Shuugyou Nikki",
+			"image": "https://cdn.myanimelist.net/images/anime/1548/110221.jpg",
+			"groups": []
+		},
+		{
+			"name": "Aikatsu Planet!",
+			"image": "https://cdn.myanimelist.net/images/anime/1724/108816.jpg",
+			"groups": []
+		},
+		{
+			"name": "Azur Lane: Bisoku Zenshin!",
+			"image": "https://cdn.myanimelist.net/images/anime/1194/109205.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Back Arrow",
+			"image": "https://cdn.myanimelist.net/images/anime/1450/110674.jpg",
+			"groups": []
+		},
+		{
+			"name": "Beastars 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bungo Stray Dogs Wan!",
+			"image": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dr. Stone: Stone Wars",
+			"image": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Ex-Arm",
+			"image": "https://cdn.myanimelist.net/images/anime/1257/110345.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Fate/Grand Order Special",
+			"image": "https://cdn.myanimelist.net/images/anime/1729/110472.jpg",
+			"groups": []
+		},
+		{
+			"name": "Gekidol",
+			"image": "https://cdn.myanimelist.net/images/anime/1438/110365.jpg",
+			"groups": []
+		},
+		{
+			"name": "Go-toubun no Hanayome ∬",
+			"image": "https://cdn.myanimelist.net/images/anime/1775/109514.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hataraku Saibou!!",
+			"image": "https://cdn.myanimelist.net/images/anime/1624/106600.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Hataraku Saibou Black",
+			"image": "https://cdn.myanimelist.net/images/anime/1128/110431.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Horimiya",
+			"image": "https://cdn.myanimelist.net/images/anime/1791/110336.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hortensia SAGA",
+			"image": "https://cdn.myanimelist.net/images/anime/1043/110408.jpg",
+			"groups": []
+		},
+		{
+			"name": "I★CHU",
+			"image": "https://cdn.myanimelist.net/images/anime/1148/110096.jpg",
+			"groups": []
+		},
+		{
+			"name": "Idolls!",
+			"image": "https://cdn.myanimelist.net/images/anime/1091/109508.jpg",
+			"groups": []
+		},
+		{
+			"name": "Idoly Pride",
+			"image": "https://cdn.myanimelist.net/images/anime/1940/109582.jpg",
+			"groups": []
+		},
+		{
+			"name": "Jaku-Chara Tomozaki-kun",
+			"image": "https://cdn.myanimelist.net/images/anime/1120/109232.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Juju Sanpo",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kai Byoui Ramune",
+			"image": "https://cdn.myanimelist.net/images/anime/1443/110157.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Kaifuku Jutsushi no Yarinaoshi",
+			"image": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kemono Jihen",
+			"image": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kintamani Dog",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Kumo desu ga, Nani ka?",
+			"image": "https://cdn.myanimelist.net/images/anime/1609/110322.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Log Horizon: Entaku Houkai",
+			"image": "https://cdn.myanimelist.net/images/anime/1510/108026.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Maiko-san Chi no Makanai-san",
+			"image": "https://cdn.myanimelist.net/images/anime/1483/107591.jpg",
+			"groups": []
+		},
+		{
+			"name": "Majutsushi Orphen Hagure Tabi: Kimluck-hen",
+			"image": "https://cdn.myanimelist.net/images/anime/1556/110736.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+			"image": "https://cdn.myanimelist.net/images/anime/1117/110633.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Nanatsu no Taizai: Fundo no Shinpan",
+			"image": "https://cdn.myanimelist.net/images/anime/1723/110185.jpg",
+			"groups": []
+		},
+		{
+			"name": "Non Non Biyori Nonstop",
+			"image": "https://cdn.myanimelist.net/images/anime/1159/107670.jpg",
+			"groups": []
+		},
+		{
+			"name": "Norimono Man: Mobile Land no Car-kun",
+			"image": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou",
+			"image": "https://cdn.myanimelist.net/images/anime/1266/109120.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Otona no Bouguya-san II",
+			"image": "https://cdn.myanimelist.net/images/anime/1617/110738.jpg",
+			"groups": []
+		},
+		{
+			"name": "Praeter no Kizu",
+			"image": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Pui Pui Molcar",
+			"image": "https://cdn.myanimelist.net/images/anime/1529/110445.jpg",
+			"groups": []
+		},
+		{
+			"name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1132/110666.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Shin Chuuka Ichiban! 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shingeki no Kyojin: The Final Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
+			"groups": []
+		},
+		{
+			"name": "Show By Rock!! Stars!!",
+			"image": "https://cdn.myanimelist.net/images/anime/1713/106712.jpg",
+			"groups": []
+		},
+		{
+			"name": "SK∞",
+			"image": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Skate-Leading☆Stars",
+			"image": "https://cdn.myanimelist.net/images/anime/1807/106481.jpg",
+			"groups": []
+		},
+		{
+			"name": "Soukou Musume Senki",
+			"image": "https://cdn.myanimelist.net/images/anime/1532/110186.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+			"image": "https://cdn.myanimelist.net/images/anime/1282/106599.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Tenchi Souzou Design-bu",
+			"image": "https://cdn.myanimelist.net/images/anime/1816/109865.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tensei Shitara Slime Datta Ken 2nd Season Part 1",
+			"image": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Tropical-Rouge! Precure",
+			"image": "https://cdn.myanimelist.net/images/anime/1181/110384.jpg",
+			"groups": []
+		},
+		{
+			"name": "Uma Musume: Pretty Derby Season 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1762/109358.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ura Sekai Picnic",
+			"image": "https://cdn.myanimelist.net/images/anime/1601/110081.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Wave!! Surfing Yappe!! (TV)",
+			"image": "https://cdn.myanimelist.net/images/anime/1679/110373.jpg",
+			"groups": []
+		},
+		{
+			"name": "WIXOSS Diva(A)Live",
+			"image": "https://cdn.myanimelist.net/images/anime/1050/110434.jpg",
+			"groups": []
+		},
+		{
+			"name": "Wonder Egg Priority",
+			"image": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
+			"groups": []
+		},
+		{
+			"name": "World Trigger 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1598/110462.jpg",
+			"groups": []
+		},
+		{
+			"name": "World Witches Hasshin Shimasu!",
+			"image": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yakusoku no Neverland 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1815/110626.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Yami Shibai 8th Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1311/110392.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yatogame-chan Kansatsu Nikki 3 Satsume",
+			"image": "https://cdn.myanimelist.net/images/anime/1739/109426.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yuru Camp△ Season 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
+			"groups": []
+		}
+	]
+}
