@@ -156,6 +156,11 @@
 					"season": "autumn",
 					"title": "automne",
 					"url": "automne.json"
+				},
+				{
+					"season": "winter",
+					"title": "hiver",
+					"url": "hiver.json"
 				}
 			]
 		}
