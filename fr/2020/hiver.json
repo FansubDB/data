@@ -38,7 +38,12 @@
 		{
 			"name": "Back Arrow",
 			"image": "https://cdn.myanimelist.net/images/anime/1450/110674.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Beastars 2nd Season",
@@ -78,12 +83,22 @@
 		{
 			"name": "Gekidol",
 			"image": "https://cdn.myanimelist.net/images/anime/1438/110365.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Go-toubun no Hanayome ∬",
 			"image": "https://cdn.myanimelist.net/images/anime/1775/109514.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Hataraku Saibou!!",
@@ -108,17 +123,32 @@
 		{
 			"name": "Horimiya",
 			"image": "https://cdn.myanimelist.net/images/anime/1791/110336.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Hortensia SAGA",
 			"image": "https://cdn.myanimelist.net/images/anime/1043/110408.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "I★CHU",
 			"image": "https://cdn.myanimelist.net/images/anime/1148/110096.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Idolls!",
@@ -243,7 +273,12 @@
 		{
 			"name": "Otona no Bouguya-san II",
 			"image": "https://cdn.myanimelist.net/images/anime/1617/110738.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Praeter no Kizu",
@@ -273,12 +308,22 @@
 		{
 			"name": "Shin Chuuka Ichiban! 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1503/109131.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Shingeki no Kyojin: The Final Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Show By Rock!! Stars!!",
@@ -298,12 +343,22 @@
 		{
 			"name": "Skate-Leading☆Stars",
 			"image": "https://cdn.myanimelist.net/images/anime/1807/106481.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Soukou Musume Senki",
 			"image": "https://cdn.myanimelist.net/images/anime/1532/110186.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
@@ -318,7 +373,12 @@
 		{
 			"name": "Tenchi Souzou Design-bu",
 			"image": "https://cdn.myanimelist.net/images/anime/1816/109865.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Tensei Shitara Slime Datta Ken 2nd Season Part 1",
@@ -338,7 +398,12 @@
 		{
 			"name": "Uma Musume: Pretty Derby Season 2",
 			"image": "https://cdn.myanimelist.net/images/anime/1762/109358.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Ura Sekai Picnic",
@@ -363,12 +428,29 @@
 		{
 			"name": "Wonder Egg Priority",
 			"image": "https://cdn.myanimelist.net/images/anime/1507/110750.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "World Trigger 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1598/110462.jpg",
-			"groups": []
+			"groups": [{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Anime Digital Network"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
 		},
 		{
 			"name": "World Witches Hasshin Shimasu!",
@@ -388,7 +470,12 @@
 		{
 			"name": "Yami Shibai 8th Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1311/110392.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Yatogame-chan Kansatsu Nikki 3 Satsume",
@@ -398,7 +485,12 @@
 		{
 			"name": "Yuru Camp△ Season 2",
 			"image": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		}
 	]
 }
