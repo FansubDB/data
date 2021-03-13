@@ -1,0 +1,304 @@
+{
+	"name_lbl": "nom",
+	"group_lbl": "groupe",
+	"message_empty_list": "Cette liste est vide. <br>N'hésite pas à y contribuer.",
+	"tv_lbl": "TV",
+	"ova_lbl": "OAV/ONA/Spéciaux",
+	"movie_lbl": "Films",
+	"tv": [{
+			"name": "86 EIGHTY-SIX",
+			"image": "https://cdn.myanimelist.net/images/anime/1293/113293.jpg",
+			"groups": []
+		},
+		{
+			"name": "Aka-chan Honbuchou",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Bakuten!!",
+			"image": "https://cdn.myanimelist.net/images/anime/1613/111243.jpg",
+			"groups": []
+		},
+		{
+			"name": "Battle Athletess Daiundoukai ReSTART!",
+			"image": "https://cdn.myanimelist.net/images/anime/1589/110753.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bishounen Tanteidan",
+			"image": "https://cdn.myanimelist.net/images/anime/1925/110172.jpg",
+			"groups": []
+		},
+		{
+			"name": "Blue Reflection Ray",
+			"image": "https://cdn.myanimelist.net/images/anime/1545/111861.jpg",
+			"groups": []
+		},
+		{
+			"name": "Boku no Hero Academia 5th Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1193/111970.jpg",
+			"groups": []
+		},
+		{
+			"name": "Cardfight!! Vanguard overDress Season 1",
+			"image": "https://cdn.myanimelist.net/images/anime/1904/111223.jpg",
+			"groups": []
+		},
+		{
+			"name": "Cestvs: The Roman Fighter",
+			"image": "https://cdn.myanimelist.net/images/anime/1362/113379.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dinosaur Biyori",
+			"image": "https://cdn.myanimelist.net/images/anime/1857/111015.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dosukoi Sushi-Zumo",
+			"image": "https://cdn.myanimelist.net/images/anime/1075/110986.jpg",
+			"groups": []
+		},
+		{
+			"name": "Dragon, Ie wo Kau.",
+			"image": "https://cdn.myanimelist.net/images/anime/1416/113398.jpg",
+			"groups": []
+		},
+		{
+			"name": "Duel Masters King!",
+			"image": "https://cdn.myanimelist.net/images/anime/1159/111981.jpg",
+			"groups": []
+		},
+		{
+			"name": "Edens Zero",
+			"image": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu",
+			"image": "https://cdn.myanimelist.net/images/anime/1482/113393.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fruits Basket: The Final",
+			"image": "https://cdn.myanimelist.net/images/anime/1803/113269.jpg",
+			"groups": []
+		},
+		{
+			"name": "Fumetsu no Anata e",
+			"image": "https://cdn.myanimelist.net/images/anime/1134/111757.jpg",
+			"groups": []
+		},
+		{
+			"name": "Godzilla S.P",
+			"image": "https://cdn.myanimelist.net/images/anime/1828/112581.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+			"image": "https://cdn.myanimelist.net/images/anime/1353/111794.jpg",
+			"groups": []
+		},
+		{
+			"name": "iii icecrin",
+			"image": "https://cdn.myanimelist.net/images/anime/1654/113385.jpg",
+			"groups": []
+		},
+		{
+			"name": "Ijiranaide, Nagatoro-san",
+			"image": "https://cdn.myanimelist.net/images/anime/1900/110097.jpg",
+			"groups": []
+		},
+		{
+			"name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+			"image": "https://cdn.myanimelist.net/images/anime/1987/112516.jpg",
+			"groups": []
+		},
+		{
+			"name": "Itazura Guma no Gloomy",
+			"image": "https://cdn.myanimelist.net/images/anime/1932/110961.jpg",
+			"groups": []
+		},
+		{
+			"name": "Joran: The Princess of Snow and Blood",
+			"image": "https://cdn.myanimelist.net/images/anime/1945/113312.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kingdom 3rd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1443/111830.jpg",
+			"groups": []
+		},
+		{
+			"name": "Koi to Yobu ni wa Kimochi Warui",
+			"image": "https://cdn.myanimelist.net/images/anime/1519/110527.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu Yori mo Kusoge Dattara",
+			"image": "https://cdn.myanimelist.net/images/anime/1357/113277.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mairimashita! Iruma-kun 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1727/113068.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mars Red",
+			"image": "https://cdn.myanimelist.net/images/anime/1832/113302.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mashiro no Oto",
+			"image": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
+			"groups": []
+		},
+		{
+			"name": "Mazica Party",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Mewkledreamy Mix!",
+			"image": "https://cdn.myanimelist.net/images/anime/1313/112427.jpg",
+			"groups": []
+		},
+		{
+			"name": "Motto! Majime ni Fumajime Kaiketsu Zorori 2nd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/1341/111768.jpg",
+			"groups": []
+		},
+		{
+			"name": "Nomad: Megalo Box 2",
+			"image": "https://cdn.myanimelist.net/images/anime/1190/113352.jpg",
+			"groups": []
+		},
+		{
+			"name": "Odd Taxi",
+			"image": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
+			"groups": []
+		},
+		{
+			"name": "Osananajimi ga Zettai ni Makenai Love Comedy",
+			"image": "https://cdn.myanimelist.net/images/anime/1111/113327.jpg",
+			"groups": []
+		},
+		{
+			"name": "Sayonara Watashi no Cramer",
+			"image": "https://cdn.myanimelist.net/images/anime/1155/111437.jpg",
+			"groups": []
+		},
+		{
+			"name": "Seijo no Maryoku wa Bannou desu",
+			"image": "https://cdn.myanimelist.net/images/anime/1232/111099.jpg",
+			"groups": []
+		},
+		{
+			"name": "Sentouin, Hakenshimasu!",
+			"image": "https://cdn.myanimelist.net/images/anime/1623/111021.jpg",
+			"groups": []
+		},
+		{
+			"name": "Seven Knights Revolution: Eiyuu no Keishousha",
+			"image": "https://cdn.myanimelist.net/images/anime/1552/112017.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shadows House",
+			"image": "https://cdn.myanimelist.net/images/anime/1424/113342.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shakunetsu Kabaddi",
+			"image": "https://cdn.myanimelist.net/images/anime/1753/112004.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shaman King (2021)",
+			"image": "https://cdn.myanimelist.net/images/anime/1416/113270.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shikaru Neko",
+			"image": "https://cdn.myanimelist.net/images/anime/1573/111862.jpg",
+			"groups": []
+		},
+		{
+			"name": "Shinkansen Henkei Robo Shinkalion Z",
+			"image": "https://cdn.myanimelist.net/images/anime/1573/111862.jpg",
+			"groups": []
+		},
+		{
+			"name": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+			"image": "https://cdn.myanimelist.net/images/anime/1803/111792.jpg",
+			"groups": []
+		},
+		{
+			"name": "SSSS.Dynazenon",
+			"image": "https://cdn.myanimelist.net/images/anime/1688/107418.jpg",
+			"groups": []
+		},
+		{
+			"name": "Subarashiki Kono Sekai The Animation",
+			"image": "https://cdn.myanimelist.net/images/anime/1016/111566.jpg",
+			"groups": []
+		},
+		{
+			"name": "Super Cub",
+			"image": "https://cdn.myanimelist.net/images/anime/1776/111172.jpg",
+			"groups": []
+		},
+		{
+			"name": "Tensura Nikki: Tensei Shitara Slime Datta Ken",
+			"image": "https://cdn.myanimelist.net/images/anime/1263/112268.jpg",
+			"groups": []
+		},
+		{
+			"name": "Thunderbolt Fantasy: Touri-ken Yuuki 3",
+			"image": "",
+			"groups": []
+		},
+		{
+			"name": "Tokyo Revengers",
+			"image": "https://cdn.myanimelist.net/images/anime/1875/113397.jpg",
+			"groups": []
+		},
+		{
+			"name": "Uchuu Nanchara Kotetsu-kun",
+			"image": "https://cdn.myanimelist.net/images/anime/1484/111741.jpg",
+			"groups": []
+		},
+		{
+			"name": "Vivy: Fluorite Eye's Song",
+			"image": "https://cdn.myanimelist.net/images/anime/1187/112969.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yakunara Mug Cup Mo",
+			"image": "https://cdn.myanimelist.net/images/anime/1640/111872.jpg",
+			"groups": []
+		},
+		{
+			"name": "Youkai Watch♪",
+			"image": "https://cdn.myanimelist.net/images/anime/1271/112759.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yuuki Yuuna wa Yuusha de Aru Churutto!",
+			"image": "https://cdn.myanimelist.net/images/anime/1827/107735.jpg",
+			"groups": []
+		},
+		{
+			"name": "Yuukoku no Moriarty 2nd Cour",
+			"image": "https://cdn.myanimelist.net/images/anime/1200/111522.jpg",
+			"groups": []
+		},
+		{
+			"name": "Zombieland Saga Revenge",
+			"image": "https://cdn.myanimelist.net/images/anime/1998/110999.jpg",
+			"groups": []
+		}
+	]
+}
