@@ -26,6 +26,11 @@
 			"groups": []
 		},
 		{
+			"name": "Alice in Deadly School Tokubetsu-ban: Ima, Stage no Maku ga Agaru",
+			"image": "",
+			"groups": []
+		},
+		{
 			"name": "Azur Lane: Bisoku Zenshin!",
 			"image": "https://cdn.myanimelist.net/images/anime/1194/109205.jpg",
 			"groups": [{
@@ -48,11 +53,26 @@
 		{
 			"name": "Beastars 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Bungo Stray Dogs Wan!",
 			"image": "https://cdn.myanimelist.net/images/anime/1368/110483.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "D4DJ Petit Mix",
+			"image": "https://cdn.myanimelist.net/images/anime/1730/111368.jpg",
 			"groups": []
 		},
 		{
@@ -74,11 +94,6 @@
 					"name": "Crunchyroll"
 				}]
 			}]
-		},
-		{
-			"name": "Fate/Grand Order Special",
-			"image": "https://cdn.myanimelist.net/images/anime/1729/110472.jpg",
-			"groups": []
 		},
 		{
 			"name": "Gekidol",
@@ -171,11 +186,6 @@
 			}]
 		},
 		{
-			"name": "Juju Sanpo",
-			"image": "",
-			"groups": []
-		},
-		{
 			"name": "Kai Byoui Ramune",
 			"image": "https://cdn.myanimelist.net/images/anime/1443/110157.jpg",
 			"groups": [{
@@ -188,16 +198,33 @@
 		{
 			"name": "Kaifuku Jutsushi no Yarinaoshi",
 			"image": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
-			"groups": []
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Koneko Fansub"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Pikari Teshima"
+					}]
+				}
+			]
 		},
 		{
 			"name": "Kemono Jihen",
 			"image": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Kintamani Dog",
-			"image": "",
+			"image": "https://cdn.myanimelist.net/images/anime/1624/110734.jpg",
 			"groups": []
 		},
 		{
@@ -223,7 +250,12 @@
 		{
 			"name": "Maiko-san Chi no Makanai-san",
 			"image": "https://cdn.myanimelist.net/images/anime/1483/107591.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Majutsushi Orphen Hagure Tabi: Kimluck-hen",
@@ -248,7 +280,12 @@
 		{
 			"name": "Nanatsu no Taizai: Fundo no Shinpan",
 			"image": "https://cdn.myanimelist.net/images/anime/1723/110185.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Non Non Biyori Nonstop",
@@ -256,8 +293,8 @@
 			"groups": []
 		},
 		{
-			"name": "Norimono Man: Mobile Land no Car-kun",
-			"image": "https://cdn.myanimelist.net/images/anime/1612/106288.jpg",
+			"name": "Okashi na Sabaku no Suna to Manu",
+			"image": "https://cdn.myanimelist.net/images/anime/1208/111257.jpg",
 			"groups": []
 		},
 		{
@@ -279,6 +316,11 @@
 					"name": "Crunchyroll"
 				}]
 			}]
+		},
+		{
+			"name": "Pont Qiao Booth",
+			"image": "https://myanimelist.net/anime/44130/Pont_Qiao_Booth/pics",
+			"groups": []
 		},
 		{
 			"name": "Praeter no Kizu",
@@ -491,6 +533,11 @@
 					"name": "Crunchyroll"
 				}]
 			}]
+		},
+		{
+			"name": "Zannen na Ikimono Jiten 3rd Series",
+			"image": "",
+			"groups": []
 		}
 	]
 }
