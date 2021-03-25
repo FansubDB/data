@@ -23,7 +23,12 @@
 		{
 			"name": "Battle Athletess Daiundoukai ReSTART!",
 			"image": "https://cdn.myanimelist.net/images/anime/1589/110753.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Bishounen Tanteidan",
@@ -33,17 +38,32 @@
 		{
 			"name": "Blue Reflection Ray",
 			"image": "https://cdn.myanimelist.net/images/anime/1545/111861.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Boku no Hero Academia 5th Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1193/111970.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Cardfight!! Vanguard overDress Season 1",
 			"image": "https://cdn.myanimelist.net/images/anime/1904/111223.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Cestvs: The Roman Fighter",
@@ -63,7 +83,12 @@
 		{
 			"name": "Dragon, Ie wo Kau.",
 			"image": "https://cdn.myanimelist.net/images/anime/1416/113398.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Duel Masters King!",
@@ -73,32 +98,62 @@
 		{
 			"name": "Edens Zero",
 			"image": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu",
 			"image": "https://cdn.myanimelist.net/images/anime/1482/113393.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Fruits Basket: The Final",
 			"image": "https://cdn.myanimelist.net/images/anime/1803/113269.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Fumetsu no Anata e",
 			"image": "https://cdn.myanimelist.net/images/anime/1134/111757.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Godzilla S.P",
 			"image": "https://cdn.myanimelist.net/images/anime/1828/112581.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
 			"image": "https://cdn.myanimelist.net/images/anime/1353/111794.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "iii icecrin",
@@ -108,12 +163,22 @@
 		{
 			"name": "Ijiranaide, Nagatoro-san",
 			"image": "https://cdn.myanimelist.net/images/anime/1900/110097.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
 			"image": "https://cdn.myanimelist.net/images/anime/1987/112516.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Itazura Guma no Gloomy",
@@ -123,17 +188,32 @@
 		{
 			"name": "Joran: The Princess of Snow and Blood",
 			"image": "https://cdn.myanimelist.net/images/anime/1945/113312.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kingdom 3rd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1443/111830.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Koi to Yobu ni wa Kimochi Warui",
 			"image": "https://cdn.myanimelist.net/images/anime/1519/110527.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu Yori mo Kusoge Dattara",
@@ -143,17 +223,32 @@
 		{
 			"name": "Mairimashita! Iruma-kun 2nd Season",
 			"image": "https://cdn.myanimelist.net/images/anime/1727/113068.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mars Red",
 			"image": "https://cdn.myanimelist.net/images/anime/1832/113302.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Mashiro no Oto",
 			"image": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Mazica Party",
@@ -173,32 +268,62 @@
 		{
 			"name": "Nomad: Megalo Box 2",
 			"image": "https://cdn.myanimelist.net/images/anime/1190/113352.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Anime Digital Network"
+				}]
+			}]
 		},
 		{
 			"name": "Odd Taxi",
 			"image": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Osananajimi ga Zettai ni Makenai Love Comedy",
 			"image": "https://cdn.myanimelist.net/images/anime/1111/113327.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Sayonara Watashi no Cramer",
 			"image": "https://cdn.myanimelist.net/images/anime/1155/111437.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Seijo no Maryoku wa Bannou desu",
 			"image": "https://cdn.myanimelist.net/images/anime/1232/111099.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Sentouin, Hakenshimasu!",
 			"image": "https://cdn.myanimelist.net/images/anime/1623/111021.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Seven Knights Revolution: Eiyuu no Keishousha",
@@ -218,7 +343,12 @@
 		{
 			"name": "Shaman King (2021)",
 			"image": "https://cdn.myanimelist.net/images/anime/1416/113270.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		},
 		{
 			"name": "Shikaru Neko",
@@ -233,7 +363,12 @@
 		{
 			"name": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
 			"image": "https://cdn.myanimelist.net/images/anime/1803/111792.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "SSSS.Dynazenon",
@@ -253,7 +388,12 @@
 		{
 			"name": "Tensura Nikki: Tensei Shitara Slime Datta Ken",
 			"image": "https://cdn.myanimelist.net/images/anime/1263/112268.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Thunderbolt Fantasy: Touri-ken Yuuki 3",
@@ -263,7 +403,12 @@
 		{
 			"name": "Tokyo Revengers",
 			"image": "https://cdn.myanimelist.net/images/anime/1875/113397.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
 		},
 		{
 			"name": "Uchuu Nanchara Kotetsu-kun",
@@ -293,12 +438,73 @@
 		{
 			"name": "Yuukoku no Moriarty 2nd Cour",
 			"image": "https://cdn.myanimelist.net/images/anime/1200/111522.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
 		},
 		{
 			"name": "Zombieland Saga Revenge",
 			"image": "https://cdn.myanimelist.net/images/anime/1998/110999.jpg",
-			"groups": []
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		}
+	],
+	"ova": [{
+			"name": "B: The Beginning: Succession",
+			"image": "https://cdn.myanimelist.net/images/anime/1409/112177.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
+		},
+		{
+			"name": "EDEN",
+			"image": "https://cdn.myanimelist.net/images/anime/1901/109968.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
+		},
+		{
+			"name": "Gokushufudo",
+			"image": "https://cdn.myanimelist.net/images/anime/1252/113180.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
+		},
+		{
+			"name": "Hetalia: World★Stars",
+			"image": "https://cdn.myanimelist.net/images/anime/1221/109913.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Wakanim"
+				}]
+			}]
+		},
+		{
+			"name": "Yasuke",
+			"image": "https://cdn.myanimelist.net/images/anime/1385/109973.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Netflix"
+				}]
+			}]
 		}
 	]
 }
