@@ -1,0 +1,1196 @@
+{
+	"name": "name",
+	"groups": "group",
+	"message": "This list is empty.<br>Feel free to contribute.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Movies",
+	"tv": [{
+			"name": "Accel World",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/38155.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhatStory"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Viz Media via Hulu"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Acchi Kocchi (TV)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/46489.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Hadena"
+						},
+						{
+							"name": "ShinBunBu"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tsumiki"
+					}]
+				}
+			]
+		},
+		{
+			"name": "AKB0048",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/74157.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "EveTaku"
+				}]
+			}]
+		},
+		{
+			"name": "Arashi no Yoru ni: Himitsu no Tomodachi",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/36603.jpg",
+			"groups": []
+		},
+		{
+			"name": "Baku Tech! Bakugan",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/36805.jpg",
+			"groups": []
+		},
+		{
+			"name": "Cardfight!! Vanguard: Asia Circuit-hen",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/41627.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Nyan-Shini"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Eureka Seven AO",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/36313.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "AniYoshi-Taka"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AraAraUfufu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Funimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Fate/Zero 2nd Season",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/41125.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Nico Nico Douga"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Furusato Saisei: Nihon no Mukashibanashi",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/82364.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Gakkatsu!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/62295.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "CLBC"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "m.3.3.w"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Ginga e Kickoff!!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/61119.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Doremi"
+					},
+					{
+						"name": "Oyatsu"
+					}
+				]
+			}]
+		},
+		{
+			"name": "Gon",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/36931.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Zorori-Project"
+				}]
+			}]
+		},
+		{
+			"name": "Haiyore! Nyaruko-san",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/49081.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Ahodomo"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "rori"
+						},
+						{
+							"name": "Underwater"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Hiiro no Kakera",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/36925.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Himitsukessha Taka no Tsume NEO",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/82813.jpg",
+			"groups": []
+		},
+		{
+			"name": "Hyouka",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/50521.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Mazui"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Inazuma Eleven Go: Chrono Stone",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/38255.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Ryuu-Rogue"
+				}]
+			}]
+		},
+		{
+			"name": "Jewelpet Kira☆Deco!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/37643.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Critter-Subs"
+				}]
+			}]
+		},
+		{
+			"name": "Jormungand",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/73280.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "Anxious"
+						},
+						{
+							"name": "Domo"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NWTC"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Funimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kimi to Boku. 2",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/42107.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "CTSS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "sage"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kore wa Zombie Desuka? Of the Dead 2nd Season",
+			"image": "",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "AFFTW"
+						},
+						{
+							"name": "Doki"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Funimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kuroko no Basket",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/50453.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kuromajo-san ga Tooru!!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/75496.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "Anxious"
+						},
+						{
+							"name": "Helium"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Asumiss"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Choco"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Lupin the Third: Mine Fujiko to Iu Onna",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/73347.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "Frostii"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "sage"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Funimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Medaka Box",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/37947.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "FFFine"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "SubDESU"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Metal Fight Beyblade Zero G",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/37159.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Stardust"
+				}]
+			}]
+		},
+		{
+			"name": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/36475.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Natsu-iro Kiseki",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/53913.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "rori"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tasty-Anmitsu"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Nazo no Kanojo X",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/75205.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "GotSpeed"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Interrobang"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SubDESU"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Ozma",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/35573.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Broken"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Ozmasubs"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "SFW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tsuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Underwater"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Paboo & Mojies",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/36873.jpg",
+			"groups": []
+		},
+		{
+			"name": "Phi Brain: Kami no Puzzle - Orpheus Order-hen",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/39033.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "SubDESU"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Pretty Rhythm: Dear My Future",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/36633.jpg",
+			"groups": []
+		},
+		{
+			"name": "Queen's Blade: Rebellion",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/75502.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "NSFW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "OhShit"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "RandomRemux"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Recorder to Randoseru Re♪",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/38901.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "CMS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Ribbon-chan",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/48753.jpg",
+			"groups": []
+		},
+		{
+			"name": "Saint Seiya Omega",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/76052.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "BURNING COSMO"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tsuki"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "uh"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Sakamichi no Apollon",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/79781.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "CMS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UnAnime Corp."
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Saki Achiga-hen: Episode of Side-A",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/75513.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "Mahjong"
+						},
+						{
+							"name": "Underwater"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Sankarea",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/79033.jpg",
+			"groups": [{
+					"status": "dropped",
+					"detail": [{
+						"name": "AniBlaze"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "Anifecta-Subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Eveyuu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "SFW"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Funimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Sengoku Collection",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/35329.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "FFFpeeps"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UnAnime Corp."
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Shibainuko-san",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/38283.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Migoto"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "Nutbladder"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Shining Hearts: Shiawase no Pan",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/38329.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Ruri"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Shirokuma Cafe",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/75649.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Tasogare Otome x Amnesia",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/64435.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "UTW"
+						},
+						{
+							"name": "Underwater"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Tsuritama",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/69909.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie-Fishing"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Uchuu Kyoudai",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/37573.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Yurumates 3D",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/36705.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "escShin-Blaze"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Zetman",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/35529.jpg",
+			"groups": [{
+					"status": "dropped",
+					"detail": [{
+						"name": "AniBlaze"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Hatsuyuki"
+						},
+						{
+							"name": "Tsuki"
+						}
+					]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "SFW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Viz Media via Hulu"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Zumomo to Nupepe",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/46983.jpg",
+			"groups": []
+		}
+	],
+	"ova": [{
+			"name": "Koi-ken!: Watashitachi Anime ni Nacchatta!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/39121.jpg",
+			"groups": []
+		},
+		{
+			"name": "Upotte!!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/35121.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		}
+	],
+	"movie": [{
+			"name": "Buta",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/50405.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "gg"
+				}]
+			}]
+		},
+		{
+			"name": "Puka Puka Juju",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/40249.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "gg"
+				}]
+			}]
+		},
+		{
+			"name": "Shiranpuri (Movie)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/50407.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "gg"
+				}]
+			}]
+		},
+		{
+			"name": "Wasurenagumo",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/38877.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "gg"
+				}]
+			}]
+		}
+	]
+}

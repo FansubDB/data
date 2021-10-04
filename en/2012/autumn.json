@@ -1,0 +1,1057 @@
+{
+	"name": "name",
+	"groups": "group",
+	"message": "This list is empty.<br>Feel free to contribute.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Movies",
+	"tv": [{
+			"name": "Aikatsu!",
+			"image": "https://cdn.myanimelist.net/images/anime/6/74783.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Mezashite"
+				}]
+			}]
+		},
+		{
+			"name": "Backstage Idol Story",
+			"image": "https://cdn.myanimelist.net/images/anime/9/42817.jpg",
+			"groups": []
+		},
+		{
+			"name": "Bakuman. 3rd Season",
+			"image": "https://cdn.myanimelist.net/images/anime/6/41845.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "hyrax"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "sage"
+						},
+						{
+							"name": "SFW"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Battle Spirits: Sword Eyes",
+			"image": "https://cdn.myanimelist.net/images/anime/11/49195.jpg",
+			"groups": []
+		},
+		{
+			"name": "BTOOOM!",
+			"image": "https://cdn.myanimelist.net/images/anime/4/40977.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Busou Shinki",
+			"image": "https://cdn.myanimelist.net/images/anime/10/43155.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+							"name": "Anime on Demand"
+						},
+						{
+							"name": "The Anime Network"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Chiisana Ojisan",
+			"image": "https://cdn.myanimelist.net/images/anime/13/42733.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "Migoto"
+				}]
+			}]
+		},
+		{
+			"name": "Chousoku Henkei Gyrozetter",
+			"image": "https://cdn.myanimelist.net/images/anime/9/41937.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "sage"
+				}]
+			}]
+		},
+		{
+			"name": "Chuunibyou demo Koi ga Shitai!",
+			"image": "https://cdn.myanimelist.net/images/anime/12/46931.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "rori"
+						},
+						{
+							"name": "UTW"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+							"name": "Anime on Demand"
+						},
+						{
+							"name": "The Anime Network"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Code:Breaker",
+			"image": "https://cdn.myanimelist.net/images/anime/13/57251.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "koi"
+						},
+						{
+							"name": "sage"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Cross Fight B-Daman eS",
+			"image": "https://cdn.myanimelist.net/images/anime/2/42247.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "BeTheMan"
+				}]
+			}]
+		},
+		{
+			"name": "Gintama': Enchousen",
+			"image": "https://cdn.myanimelist.net/images/anime/6/75172.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Girls & Panzer",
+			"image": "https://cdn.myanimelist.net/images/anime/9/40969.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Haitai Nanafa",
+			"image": "https://cdn.myanimelist.net/images/anime/12/45991.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+						"name": "Kaylith"
+					},
+					{
+						"name": "Sigh"
+					}
+				]
+			}]
+		},
+		{
+			"name": "Hayate no Gotoku! Can't Take My Eyes Off You",
+			"image": "https://cdn.myanimelist.net/images/anime/10/73952.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "AniBlaze"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shini-subs"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Hidamari Sketch x Honeycomb",
+			"image": "https://cdn.myanimelist.net/images/anime/2/50501.jpg",
+			"groups": [{
+					"status": "dropped",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nutbladder"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+							"name": "Anime on Demand"
+						},
+						{
+							"name": "The Anime Network"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Hiiro no Kakera Dai Ni Shou",
+			"image": "https://cdn.myanimelist.net/images/anime/13/42709.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "Hatsuyuki"
+						},
+						{
+							"name": "Tsuki"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Initial D Fifth Stage",
+			"image": "https://cdn.myanimelist.net/images/anime/3/43573.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Central Anime"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "sage"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Ixion Saga DT",
+			"image": "https://cdn.myanimelist.net/images/anime/8/42863.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "JoJo no Kimyou na Bouken (TV)",
+			"image": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "GetBack"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "MMM"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nutbladder"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Jormungand: Perfect Order",
+			"image": "https://cdn.myanimelist.net/images/anime/4/73278.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "K",
+			"image": "https://cdn.myanimelist.net/images/anime/3/47607.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Anime-Koi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shini-subs"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+							"name": "Anime on Demand"
+						},
+						{
+							"name": "Viz Media"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Kamisama Hajimemashita",
+			"image": "https://cdn.myanimelist.net/images/anime/3/85429.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Anime-Koi"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "Anxious-Helium"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "t4w"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Litchi DE Hikari Club",
+			"image": "https://cdn.myanimelist.net/images/anime/11/40867.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "LHS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Ghost-Subs"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Little Busters!",
+			"image": "https://cdn.myanimelist.net/images/anime/6/43757.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "LittleSubbers"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Mazui"
+						},
+						{
+							"name": "UTW"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Magi: The Labyrinth of Magic",
+			"image": "https://cdn.myanimelist.net/images/anime/11/42773.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Genjo"
+						},
+						{
+							"name": "Sigh"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "GotWoot"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Oni"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+							"name": "Anime on Demand"
+						},
+						{
+							"name": "Crunchyroll"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Medaka Box Abnormal",
+			"image": "https://cdn.myanimelist.net/images/anime/11/62919.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "FFF"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+			"image": "https://cdn.myanimelist.net/images/anime/6/42111.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Coppola"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Oshiri Kajiri Mushi (TV)",
+			"image": "https://cdn.myanimelist.net/images/anime/7/43197.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Psycho-Pass",
+			"image": "https://cdn.myanimelist.net/images/anime/2/41995.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Robotics;Notes",
+			"image": "https://cdn.myanimelist.net/images/anime/10/42013.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Hybrid"
+						},
+						{
+							"name": "Kaitou"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "FUNimation"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Sakurasou no Pet na Kanojo",
+			"image": "https://cdn.myanimelist.net/images/anime/4/43643.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "Ahodomo"
+						},
+						{
+							"name": "EveTaku"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "rori"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Shinsekai yori",
+			"image": "https://cdn.myanimelist.net/images/anime/12/36775.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Aidoru"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Seitokai no Ichizon Lv.2",
+			"image": "https://cdn.myanimelist.net/images/anime/13/75645.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "AraAraSenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Staircase"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Sukitte Ii na yo.",
+			"image": "https://cdn.myanimelist.net/images/anime/11/39777.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "AraAraUfufu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "hyrax"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Interrobang"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Oyatsu"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Teekyuu",
+			"image": "https://cdn.myanimelist.net/images/anime/8/56463.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "To LOVE-Ru Darkness",
+			"image": "https://cdn.myanimelist.net/images/anime/8/42217.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+							"name": "AFFTW"
+						},
+						{
+							"name": "Hatsuyuki"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "FFF"
+						},
+						{
+							"name": "rori"
+						}
+					]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+							"name": "Anime on Demand"
+						},
+						{
+							"name": "The Anime Network"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Tonari no Kaibutsu-kun",
+			"image": "https://cdn.myanimelist.net/images/anime/4/39779.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Chihiro"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFF"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Wooser no Sono Higurashi",
+			"image": "https://cdn.myanimelist.net/images/anime/8/55353.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Interrobang"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Yu☆Gi☆Oh! Zexal Second",
+			"image": "https://cdn.myanimelist.net/images/anime/5/43491.jpg",
+			"groups": []
+		},
+		{
+			"name": "Zetsuen no Tempest",
+			"image": "https://cdn.myanimelist.net/images/anime/7/42453.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tsuki"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		}
+	],
+	"ova": [{
+			"name": "Aoi Sekai no Chuushin de",
+			"image": "https://cdn.myanimelist.net/images/anime/4/43233.jpg",
+			"groups": [{
+				"status": "simulcast",
+				"detail": [{
+					"name": "Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Dangerous Jiisan Ja",
+			"image": "https://cdn.myanimelist.net/images/anime/2/39817.jpg",
+			"groups": []
+		},
+		{
+			"name": "Kyousou Giga (2012)",
+			"image": "https://cdn.myanimelist.net/images/anime/12/41893.jpg",
+			"groups": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "COOL"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EveTaku"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Lupin III: Touhou Kenbunroku - Another Page",
+			"image": "https://cdn.myanimelist.net/images/anime/2/45905.jpg",
+			"groups": [{
+				"status": "release",
+				"detail": [{
+					"name": "sage"
+				}]
+			}]
+		}
+	]
+}
